@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Bristol
 DTSTART:20260927T143000
 DTEND:20260927T163000
-UID:4f177a87-062c-4dc0-91d6-ffd53a19581a
+UID:f6e0781f-f2c3-43c7-acaa-759c10bf0f32
 DESCRIPTION:Home: Nottingham\nAway: Bristol\nRink: Nottingham\nDivision: F
  WCN
 LOCATION:Nottingham
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Coventry
 DTSTART:20261206T153000
 DTEND:20261206T173000
-UID:fd00f023-c7fc-450a-9bd8-709389a310e6
+UID:4d161b1a-4804-465b-b1fe-a96e5e701914
 DESCRIPTION:Home: Nottingham\nAway: Coventry\nRink: Nottingham\nDivision: 
  FWCN
 LOCATION:Nottingham
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Nottingham
 DTSTART:20270131T164000
 DTEND:20270131T184000
-UID:79f7151f-71b6-4aa9-8385-3bd0efa5d70f
+UID:fbc60f4e-642f-4f8b-b5b3-650de07e3f52
 DESCRIPTION:Home: Sheffield\nAway: Nottingham\nRink: Sheffield\nDivision: 
  FWCN
 LOCATION:Sheffield
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiff vs Nottingham
 DTSTART:20270214T160000
 DTEND:20270214T180000
-UID:0d0c22c5-a0bf-40be-845d-88467b5abb9b
+UID:aff97edd-ed6e-4998-8b95-c7cf8329816b
 DESCRIPTION:Home: Cardiff\nAway: Nottingham\nRink: Cardiff\nDivision: FWCN
 LOCATION:Cardiff
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Cardiff
 DTSTART:20270221T153000
 DTEND:20270221T173000
-UID:21be348e-df04-408e-8d46-d4db37b3fd44
+UID:7711a77c-3e2e-49b2-9848-e49cf88beb85
 DESCRIPTION:Home: Nottingham\nAway: Cardiff\nRink: Nottingham\nDivision: F
  WCN
 LOCATION:Nottingham
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Sheffield
 DTSTART:20270410T114500
 DTEND:20270410T134500
-UID:4292c0c0-6936-43ce-8a1e-8201cb45e0d6
+UID:b99b2bad-49d1-42a5-bcec-4671a29fb62d
 DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
   FWCN
 LOCATION:Nottingham
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Nottingham
 DTSTART:20270417T203000
 DTEND:20270417T223000
-UID:f7cec3d7-ff63-42ed-8606-dae05c744517
+UID:c79fadd3-1417-4dea-98b2-e2f11516f572
 DESCRIPTION:Home: Bristol\nAway: Nottingham\nRink: Bristol\nDivision: FWCN
 LOCATION:Bristol
 END:VEVENT
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Coventry vs Nottingham
 DTSTART:20270515T180000
 DTEND:20270515T200000
-UID:44e4afb0-63ef-4310-9a32-4663d65e96e2
+UID:df973602-ecad-4a63-9ea0-6e4c9d4bcd62
 DESCRIPTION:Home: Coventry\nAway: Nottingham\nRink: Coventry\nDivision: FW
  CN
 LOCATION:Coventry

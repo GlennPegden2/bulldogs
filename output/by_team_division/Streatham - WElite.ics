@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Bristol
 DTSTART:20260905T163000
 DTEND:20260905T183000
-UID:173a1a5e-9ea7-4c95-aba6-fc3366685959
+UID:5fdd5187-fdd0-480f-a36e-d922edde0cff
 DESCRIPTION:Home: Streatham\nAway: Bristol\nRink: Streatham\nDivision: WEl
  ite
 LOCATION:Streatham
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Streatham
 DTSTART:20260913T173000
 DTEND:20260913T193000
-UID:a9f8b6af-2956-48d1-85c9-6c2e454cd6d3
+UID:4ef474ea-d95a-4a80-a70a-e05d3bdf4bce
 DESCRIPTION:Home: Bristol\nAway: Streatham\nRink: Bristol\nDivision: WElit
  e
 LOCATION:Bristol
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Queenbees
 DTSTART:20260920T163000
 DTEND:20260920T183000
-UID:e96f9967-17f6-4c8f-a4a7-6a17c179b372
+UID:a10138aa-6dde-44f0-8784-8f0ce675fd2f
 DESCRIPTION:Home: Streatham\nAway: Queenbees\nRink: Streatham\nDivision: W
  Elite
 LOCATION:Streatham
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Streatham
 DTSTART:20261018T123000
 DTEND:20261018T143000
-UID:2a7d5f8c-dabd-4e0c-badc-9c3d43e57d79
+UID:ad24b4f1-3628-4aba-81c2-f0725817a42d
 DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Streatham
 DTSTART:20261025T184500
 DTEND:20261025T204500
-UID:ee52ad31-b299-4992-afae-b4e1dcb6cd1c
+UID:03527ee6-ff9e-4924-8246-288bb5b220ed
 DESCRIPTION:Home: Guildford\nAway: Streatham\nRink: Guildford\nDivision: W
  Elite
 LOCATION:Guildford
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Kingston
 DTSTART:20261108T163000
 DTEND:20261108T183000
-UID:e9dde0f0-dfa6-451c-83fb-a0fcfda4884a
+UID:e526b468-4a29-498d-bd33-55e495e0b7c0
 DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
  lite
 LOCATION:Streatham
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Streatham
 DTSTART:20261114T174500
 DTEND:20261114T194500
-UID:fd755bc8-aa42-4bd6-ba7b-dec3a5611661
+UID:ce479524-3c41-47a0-bc4f-46436f2059a2
 DESCRIPTION:Home: Solihull\nAway: Streatham\nRink: Solihull\nDivision: WEl
  ite
 LOCATION:Solihull
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Solihull
 DTSTART:20270103T163000
 DTEND:20270103T183000
-UID:7ca565ae-9fbb-4d52-b510-a2e9efacfffc
+UID:610afb11-0024-49eb-9d32-50635636be37
 DESCRIPTION:Home: Streatham\nAway: Solihull\nRink: Streatham\nDivision: WE
  lite
 LOCATION:Streatham
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Streatham
 DTSTART:20270123T121500
 DTEND:20270123T141500
-UID:26c3cc3a-941d-442a-8b42-293c05e3dcfc
+UID:0ac09c47-b6b0-4e8d-9c9f-3a1c53b11b4f
 DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Streatham
 DTSTART:20270124T080000
 DTEND:20270124T100000
-UID:184faaa0-2fc4-49ee-b023-9cbfb580a4bf
+UID:1ec38337-a34d-4413-a4c4-e82df01a642c
 DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Kingston
 DTSTART:20270130T181500
 DTEND:20270130T201500
-UID:02744124-8e4a-45cd-8108-59278a1066ef
+UID:a6e65d46-e6ef-4d3b-9f6f-a9de726a5ce9
 DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
  lite
 LOCATION:Streatham
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Bristol
 DTSTART:20270206T184500
 DTEND:20270206T204500
-UID:fd4999fc-dbc1-4b0f-822d-9812ca000b15
+UID:0649117a-3c43-4ef1-a2fb-edaef819a72d
 DESCRIPTION:Home: Streatham\nAway: Bristol\nRink: Streatham\nDivision: WEl
  ite
 LOCATION:Streatham
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Guildford
 DTSTART:20270307T163000
 DTEND:20270307T183000
-UID:e39dbfcd-7c24-4f71-aeb1-d01e66d0bec3
+UID:ac97571a-56b0-45e0-ae6e-c206df2788ed
 DESCRIPTION:Home: Streatham\nAway: Guildford\nRink: Streatham\nDivision: W
  Elite
 LOCATION:Streatham
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Caledonia
 DTSTART:20270320T163000
 DTEND:20270320T183000
-UID:3d8d0ae9-26b7-417e-94af-336e177ab50e
+UID:fa41464e-258e-449a-b44c-bfd5894a87a0
 DESCRIPTION:Home: Streatham\nAway: Caledonia\nRink: Streatham\nDivision: W
  Elite
 LOCATION:Streatham
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Streatham
 DTSTART:20270404T120000
 DTEND:20270404T140000
-UID:af155567-e7de-49ea-8e4f-76f51d649104
+UID:fd086f64-6995-47c5-bf26-11e3618657c3
 DESCRIPTION:Home: WhitleyBay\nAway: Streatham\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs WhitleyBay
 DTSTART:20270411T163000
 DTEND:20270411T183000
-UID:e392882e-8641-4cd1-8845-379bc48e6b60
+UID:ae8496ca-767d-4c1b-8c7c-8e65e6a27402
 DESCRIPTION:Home: Streatham\nAway: WhitleyBay\nRink: Streatham\nDivision: 
  WElite
 LOCATION:Streatham
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Streatham
 DTSTART:20270418T173000
 DTEND:20270418T193000
-UID:f94fd4ab-4b52-476b-80f8-062a5eef77a1
+UID:0cca7209-fb47-492c-94d9-52c1686daffd
 DESCRIPTION:Home: Bristol\nAway: Streatham\nRink: Bristol\nDivision: WElit
  e
 LOCATION:Bristol
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Caledonia
 DTSTART:20270424T184500
 DTEND:20270424T204500
-UID:11f3c0db-d30d-4307-9e6e-0a2cbb3d11fd
+UID:e5989937-131f-4640-9f50-7527c2ac5a03
 DESCRIPTION:Home: Streatham\nAway: Caledonia\nRink: Streatham\nDivision: W
  Elite
 LOCATION:Streatham
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Queenbees vs Streatham
 DTSTART:20270508T130000
 DTEND:20270508T150000
-UID:7383712d-0528-48c9-a347-710e8317c7ee
+UID:32457d39-baca-407e-982d-af71da4d07e3
 DESCRIPTION:Home: Queenbees\nAway: Streatham\nRink: Slough\nDivision: WEli
  te
 LOCATION:Slough
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Streatham
 DTSTART:20270516T123000
 DTEND:20270516T143000
-UID:68205afc-6f83-4910-aaa5-babfdc424f0c
+UID:ce63e6cd-2ec3-4c1d-a56b-64ca28d95eb4
 DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston

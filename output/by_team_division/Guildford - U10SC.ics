@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Haringey
 DTSTART:20260920T083000
 DTEND:20260920T103000
-UID:5ad8fb59-bfcc-4f8e-849e-1cf4963e2ed2
+UID:7434ab56-8737-4c84-98ed-81aa470e546f
 DESCRIPTION:Home: Guildford\nAway: Haringey\nRink: Guildford\nDivision: U1
  0SC
 LOCATION:Guildford
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Haringey
 DTSTART:20261115T083000
 DTEND:20261115T103000
-UID:2124b6b6-6ffb-47f8-8a1b-e04879fb7ae5
+UID:1a1ba09b-9824-4d78-8982-17d363aa63e1
 DESCRIPTION:Home: Guildford\nAway: Haringey\nRink: Guildford\nDivision: U1
  0SC
 LOCATION:Guildford
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Haringey
 DTSTART:20270110T083000
 DTEND:20270110T103000
-UID:fe51e44e-52bd-45e6-a953-7f442fa7976d
+UID:2f661620-d549-40ce-8c83-3a75f8912c7b
 DESCRIPTION:Home: Guildford\nAway: Haringey\nRink: Guildford\nDivision: U1
  0SC
 LOCATION:Guildford

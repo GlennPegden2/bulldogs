@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Sheffield
 DTSTART:20260926T161500
 DTEND:20260926T181500
-UID:76af344a-4b82-4b74-899f-48ec4d2f34a3
+UID:a9c279ae-122a-4fb3-b564-71ca308d9279
 DESCRIPTION:Home: Manchester\nAway: Sheffield\nRink: Manchester\nDivision:
   U10NW
 LOCATION:Manchester
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Sheffield
 DTSTART:20261128T161500
 DTEND:20261128T181500
-UID:b4f9857f-3940-4475-80fb-973ddaa7b76c
+UID:a2203a4e-c377-4dec-b7dc-4d653bf669f3
 DESCRIPTION:Home: Manchester\nAway: Sheffield\nRink: Manchester\nDivision:
   U10NW
 LOCATION:Manchester
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Sheffield
 DTSTART:20270206T161500
 DTEND:20270206T181500
-UID:2aa7a978-3821-4896-a0bb-483d41e812cc
+UID:073dd010-0a30-4c96-98ff-60a55aedf0c7
 DESCRIPTION:Home: Manchester\nAway: Sheffield\nRink: Manchester\nDivision:
   U10NW
 LOCATION:Manchester

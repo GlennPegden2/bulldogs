@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds vs WhitleyBay & Billingham & Kingston
 DTSTART:20260913T143000
 DTEND:20260913T163000
-UID:c3608d47-c5b6-4b24-965d-b4a8d1d4ff69
+UID:bbced95f-f03c-4ddb-809b-d327ccbb0118
 DESCRIPTION:Home: Leeds\nAway: WhitleyBay & Billingham & Kingston\nRink: L
  eeds\nDivision: U10NE
 LOCATION:Leeds
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Leeds & Billingham & Kingston
 DTSTART:20260920T170000
 DTEND:20260920T190000
-UID:63681149-ed5b-4c1d-a556-725772ddf92f
+UID:dd9245b0-d8e1-47db-9e03-2ee4b50dbcbb
 DESCRIPTION:Home: WhitleyBay\nAway: Leeds & Billingham & Kingston\nRink: W
  hitleyBay\nDivision: U10NE
 LOCATION:WhitleyBay
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
 DTSTART:20260926T160000
 DTEND:20260926T180000
-UID:adbd874d-be67-454d-9b08-b5889af029a4
+UID:f620d5b0-ff6e-485b-a7ec-52cde3d5efc2
 DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
  illingham\nDivision: U10NE
 LOCATION:Billingham
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs WhitleyBay & Leeds & Billingham
 DTSTART:20261017T123000
 DTEND:20261017T143000
-UID:d96851e7-ee5c-4c6b-aee3-271cdb6402aa
+UID:8cf80de1-fef3-461c-ab0b-d52ffbea775f
 DESCRIPTION:Home: Kingston\nAway: WhitleyBay & Leeds & Billingham\nRink: K
  ingston\nDivision: U10NE
 LOCATION:Kingston
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Leeds & Billingham & Kingston
 DTSTART:20261024T120000
 DTEND:20261024T140000
-UID:b4d50ff8-0483-40c2-a7b9-4c3de24a24cd
+UID:3dbaed11-e5e3-4082-bfa9-f51792096448
 DESCRIPTION:Home: WhitleyBay\nAway: Leeds & Billingham & Kingston\nRink: W
  hitleyBay\nDivision: U10NE
 LOCATION:WhitleyBay
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
 DTSTART:20261114T160000
 DTEND:20261114T180000
-UID:3c867c58-95d0-460a-814d-01f37c24e0a4
+UID:aa0418b9-9043-4a1d-88b8-a74d28b7a4dd
 DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
  illingham\nDivision: U10NE
 LOCATION:Billingham
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs WhitleyBay & Leeds & Billingham
 DTSTART:20261122T123000
 DTEND:20261122T143000
-UID:794c54d1-5eee-4ccf-991e-e044abc11186
+UID:f01817ca-249a-44d2-80dc-e00b0010e943
 DESCRIPTION:Home: Kingston\nAway: WhitleyBay & Leeds & Billingham\nRink: K
  ingston\nDivision: U10NE
 LOCATION:Kingston
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs WhitleyBay & Leeds & Billingham
 DTSTART:20270103T123000
 DTEND:20270103T143000
-UID:4e028292-3986-4737-bd86-38c84dbe5f98
+UID:ec1df07e-3763-4613-add7-5a1049e88555
 DESCRIPTION:Home: Kingston\nAway: WhitleyBay & Leeds & Billingham\nRink: K
  ingston\nDivision: U10NE
 LOCATION:Kingston
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Leeds & Billingham & Kingston
 DTSTART:20270206T120000
 DTEND:20270206T140000
-UID:d6682987-ad7f-41e4-94f0-a0dcb1301f1c
+UID:aef83498-d44c-46aa-9be6-3b3c513a6b4f
 DESCRIPTION:Home: WhitleyBay\nAway: Leeds & Billingham & Kingston\nRink: W
  hitleyBay\nDivision: U10NE
 LOCATION:WhitleyBay
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
 DTSTART:20270220T160000
 DTEND:20270220T180000
-UID:d0943328-30f9-477d-bfcf-a28bc60709bc
+UID:7ad7c27f-fb1a-4bae-be92-5d02564df886
 DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
  illingham\nDivision: U10NE
 LOCATION:Billingham
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds vs WhitleyBay & Billingham & Kingston
 DTSTART:20270228T143000
 DTEND:20270228T163000
-UID:8165db9e-b4eb-4c86-93bb-eb5347dd4765
+UID:d1ad542e-7165-4afa-93e4-c6d898435ec6
 DESCRIPTION:Home: Leeds\nAway: WhitleyBay & Billingham & Kingston\nRink: L
  eeds\nDivision: U10NE
 LOCATION:Leeds
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds vs WhitleyBay & Billingham & Kingston
 DTSTART:20270403T153000
 DTEND:20270403T173000
-UID:67107e7e-81a9-43f3-b221-4faba9b84bfb
+UID:416e94c3-5d6c-486b-91ad-3f6f63dbf838
 DESCRIPTION:Home: Leeds\nAway: WhitleyBay & Billingham & Kingston\nRink: L
  eeds\nDivision: U10NE
 LOCATION:Leeds

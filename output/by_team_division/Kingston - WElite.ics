@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Kingston
 DTSTART:20260920T120000
 DTEND:20260920T140000
-UID:5ed7aeb8-d78d-47df-a1c2-343ddd4e5fbe
+UID:2ddd6689-b922-4416-b46c-f724ce1ccc40
 DESCRIPTION:Home: WhitleyBay\nAway: Kingston\nRink: WhitleyBay\nDivision: 
  WElite
 LOCATION:WhitleyBay
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Bristol
 DTSTART:20260926T123000
 DTEND:20260926T143000
-UID:618abe2d-cd35-4a76-a7ed-c5181d2825b1
+UID:f715bbff-bb64-4464-8be7-9ba3bd0b86fe
 DESCRIPTION:Home: Kingston\nAway: Bristol\nRink: Kingston\nDivision: WElit
  e
 LOCATION:Kingston
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Streatham
 DTSTART:20261018T123000
 DTEND:20261018T143000
-UID:f7722b6e-5bdd-4fa4-aa74-0d95052d0b23
+UID:74aa7a21-1a2f-466b-abf7-6900173e3aca
 DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Kingston
 DTSTART:20261024T183000
 DTEND:20261024T203000
-UID:cb4e4c4e-e90a-41c7-a63b-9b1e7e71934a
+UID:7ea052c4-eb67-4674-87a0-be132f5b0ad8
 DESCRIPTION:Home: Bristol\nAway: Kingston\nRink: Bristol\nDivision: WElite
 LOCATION:Bristol
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Kingston
 DTSTART:20261108T163000
 DTEND:20261108T183000
-UID:1e8d7aac-7826-4bf3-942b-5c969db00c09
+UID:997261c8-d951-44b0-82b9-e2176ecb31e8
 DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
  lite
 LOCATION:Streatham
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Kingston
 DTSTART:20261128T121500
 DTEND:20261128T141500
-UID:7f7a754d-c0bf-4a74-99b8-9930b9fb2e28
+UID:5811ab09-e1bc-4b0e-9d22-21a43be10543
 DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
  WElite
 LOCATION:Murrayfield
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Kingston
 DTSTART:20261129T080000
 DTEND:20261129T100000
-UID:4dc3224c-0763-472b-a17a-c44d49d4b897
+UID:0233169b-27b1-4135-8e89-bf281b6a0a88
 DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
  WElite
 LOCATION:Murrayfield
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Caledonia
 DTSTART:20261220T123000
 DTEND:20261220T143000
-UID:9525560d-d319-441d-b671-38086c3f6c99
+UID:2c76004a-b117-4539-8863-955b2619645f
 DESCRIPTION:Home: Kingston\nAway: Caledonia\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Solihull
 DTSTART:20270124T123000
 DTEND:20270124T143000
-UID:0be51c9b-3694-4466-9576-f77ed9e810bb
+UID:5d16e580-11c9-477b-a9fe-4431082a43ea
 DESCRIPTION:Home: Kingston\nAway: Solihull\nRink: Kingston\nDivision: WEli
  te
 LOCATION:Kingston
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Kingston
 DTSTART:20270130T181500
 DTEND:20270130T201500
-UID:e3bf009e-2166-43f5-b78d-0744ad542d98
+UID:afb3b826-b2bc-471b-ac44-35cb0578e15e
 DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
  lite
 LOCATION:Streatham
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Kingston
 DTSTART:20270131T153000
 DTEND:20270131T173000
-UID:e276e0b1-c4f9-4758-90b3-36ec9c03a0e8
+UID:39fd7110-84c4-465d-bdf3-5c1b30b4632d
 DESCRIPTION:Home: Bristol\nAway: Kingston\nRink: Bristol\nDivision: WElite
 LOCATION:Bristol
 END:VEVENT
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Kingston
 DTSTART:20270206T190000
 DTEND:20270206T210000
-UID:968759df-0586-45ae-bca2-8e9f68752b25
+UID:9c575e55-6faf-493e-b86d-db3f1daff804
 DESCRIPTION:Home: Guildford\nAway: Kingston\nRink: Guildford\nDivision: WE
  lite
 LOCATION:Guildford
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Queenbees
 DTSTART:20270228T123000
 DTEND:20270228T143000
-UID:536f724e-50e0-4aa4-a599-22d18efa5219
+UID:e880dd4f-108b-40bd-9152-d06cd0c46dbd
 DESCRIPTION:Home: Kingston\nAway: Queenbees\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Kingston
 DTSTART:20270306T174500
 DTEND:20270306T194500
-UID:c2e017b4-ebb5-4ce9-a137-ba4f0e0941ba
+UID:d1a76327-d8c1-4ee3-a1e6-f4ef564a80d9
 DESCRIPTION:Home: Solihull\nAway: Kingston\nRink: Solihull\nDivision: WEli
  te
 LOCATION:Solihull
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Guildford
 DTSTART:20270314T123000
 DTEND:20270314T143000
-UID:60e4162c-c40d-4878-8d5f-98491c115d3d
+UID:7cd4b024-1503-47dd-956e-e7d7dc4e9843
 DESCRIPTION:Home: Kingston\nAway: Guildford\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs WhitleyBay
 DTSTART:20270320T123000
 DTEND:20270320T143000
-UID:53bab5e1-aaf8-4ba6-8dc5-b76f4b82b628
+UID:4451eefe-ac94-40cd-84e0-e7298fae7400
 DESCRIPTION:Home: Kingston\nAway: WhitleyBay\nRink: Kingston\nDivision: WE
  lite
 LOCATION:Kingston
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Queenbees vs Kingston
 DTSTART:20270410T130000
 DTEND:20270410T150000
-UID:de48cf99-e870-47d7-9e70-fef3c6a87a91
+UID:a8e39de4-56fc-4c83-a95c-3d7d29b0cd63
 DESCRIPTION:Home: Queenbees\nAway: Kingston\nRink: Slough\nDivision: WElit
  e
 LOCATION:Slough
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Caledonia
 DTSTART:20270418T123000
 DTEND:20270418T143000
-UID:eedf5b60-464d-4897-8a82-1fffa5432b76
+UID:43079678-926f-43f5-a1ff-82f1cf734633
 DESCRIPTION:Home: Kingston\nAway: Caledonia\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Bristol
 DTSTART:20270425T123000
 DTEND:20270425T143000
-UID:6448e1b2-d74b-4960-a9a3-613649c4f422
+UID:d323d2a3-9929-410f-8546-5c01fbc45bed
 DESCRIPTION:Home: Kingston\nAway: Bristol\nRink: Kingston\nDivision: WElit
  e
 LOCATION:Kingston
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Streatham
 DTSTART:20270516T123000
 DTEND:20270516T143000
-UID:0694a41a-8fc5-4027-89d0-d75aaf0dd460
+UID:1193cd0a-51d6-46c5-92e4-cbf95084a095
 DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
