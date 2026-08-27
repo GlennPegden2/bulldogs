@@ -198,23 +198,38 @@
       return [...new Set(values)].sort((a, b) => a.localeCompare(b));
     }
 
-    function populateFilters(items) {
+    function setSelectOptions(selectEl, values, selectedValue = 'All') {
+      const previous = selectedValue;
+      selectEl.innerHTML = '';
+
+      const allOpt = document.createElement('option');
+      allOpt.value = 'All';
+      allOpt.textContent = 'All';
+      selectEl.appendChild(allOpt);
+
+      for (const v of values) {
+        const opt = document.createElement('option');
+        opt.value = v;
+        opt.textContent = v;
+        selectEl.appendChild(opt);
+      }
+
+      const canKeepPrevious = previous === 'All' || values.includes(previous);
+      selectEl.value = canKeepPrevious ? previous : 'All';
+    }
+
+    function populateClubFilter(items) {
       const clubs = uniq(items.map(i => i.club).filter(Boolean));
-      const ages = uniq(items.map(i => i.ageDivision).filter(Boolean));
+      setSelectOptions(clubSelect, clubs, clubSelect.value || 'All');
+    }
 
-      for (const c of clubs) {
-        const opt = document.createElement('option');
-        opt.value = c;
-        opt.textContent = c;
-        clubSelect.appendChild(opt);
-      }
-
-      for (const a of ages) {
-        const opt = document.createElement('option');
-        opt.value = a;
-        opt.textContent = a;
-        ageSelect.appendChild(opt);
-      }
+    function refreshAgeFilter(items) {
+      const selectedClub = clubSelect.value;
+      const candidateItems = selectedClub === 'All'
+        ? items
+        : items.filter(i => i.club === selectedClub);
+      const ages = uniq(candidateItems.map(i => i.ageDivision).filter(Boolean));
+      setSelectOptions(ageSelect, ages, ageSelect.value || 'All');
     }
 
     function render(items) {
@@ -286,9 +301,15 @@
     async function init() {
       try {
         const items = await loadManifest();
-        populateFilters(items);
+        populateClubFilter(items);
+        refreshAgeFilter(items);
         render(items);
-        clubSelect.addEventListener('change', () => render(items));
+
+        clubSelect.addEventListener('change', () => {
+          refreshAgeFilter(items);
+          render(items);
+        });
+
         ageSelect.addEventListener('change', () => render(items));
       } catch (err) {
         metaEl.textContent = 'Unable to load files.json';
