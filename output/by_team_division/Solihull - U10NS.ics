@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Solihull & Telford & Coventry
 DTSTART:20260905T165000
 DTEND:20260905T185000
-UID:5443a3cd-cf00-4b20-8430-375b2baaf240
+UID:f94d479b-315c-4d42-ad09-e5a5a15695d6
 DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
  ottingham\nDivision: U10NS
 LOCATION:Nottingham
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Coventry vs Nottingham & Solihull & Telford
 DTSTART:20261003T161500
 DTEND:20261003T181500
-UID:d650923d-f52a-41ac-97fd-ef24992c8dea
+UID:312b78d8-fbed-40ae-9a6c-b22486635f87
 DESCRIPTION:Home: Coventry\nAway: Nottingham & Solihull & Telford\nRink: C
  oventry\nDivision: U10NS
 LOCATION:Coventry
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Solihull & Telford & Coventry
 DTSTART:20261010T165000
 DTEND:20261010T185000
-UID:e5c6537b-b8e7-4bf4-b3a0-641b36827cf4
+UID:73bbff25-d934-4a44-8d97-d335514f0994
 DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
  ottingham\nDivision: U10NS
 LOCATION:Nottingham
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Telford vs Nottingham & Solihull & Coventry
 DTSTART:20261108T170500
 DTEND:20261108T190500
-UID:80bc4163-7896-4b86-8ccd-1fe21d5c2d07
+UID:93b86d08-5dcd-462e-85b3-4c917d85f026
 DESCRIPTION:Home: Telford\nAway: Nottingham & Solihull & Coventry\nRink: T
  elford\nDivision: U10NS
 LOCATION:Telford
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Nottingham & Telford & Coventry
 DTSTART:20261122T160000
 DTEND:20261122T180000
-UID:736e0006-bcea-4900-aad5-9ca35d1e08c8
+UID:09ef33ef-3405-4cb4-93fe-a6bdfc363c59
 DESCRIPTION:Home: Solihull\nAway: Nottingham & Telford & Coventry\nRink: S
  olihull\nDivision: U10NS
 LOCATION:Solihull
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Coventry vs Nottingham & Solihull & Telford
 DTSTART:20270227T161500
 DTEND:20270227T181500
-UID:675f988c-5aaf-4492-8ee4-e5f0f6836110
+UID:ce7a17d2-6439-4745-a938-b211c7934c76
 DESCRIPTION:Home: Coventry\nAway: Nottingham & Solihull & Telford\nRink: C
  oventry\nDivision: U10NS
 LOCATION:Coventry
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Solihull & Telford & Coventry
 DTSTART:20270411T165000
 DTEND:20270411T185000
-UID:4311918b-e984-476b-8e67-8693ee490c32
+UID:422eb756-4c43-4fb3-af57-ea2461d77a05
 DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
  ottingham\nDivision: U10NS
 LOCATION:Nottingham
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Nottingham & Telford & Coventry
 DTSTART:20270418T160000
 DTEND:20270418T180000
-UID:cb7b273e-6218-4f0a-b111-10c86498593f
+UID:c4e76901-cd5d-4c09-98e6-7ddfd6e682e0
 DESCRIPTION:Home: Solihull\nAway: Nottingham & Telford & Coventry\nRink: S
  olihull\nDivision: U10NS
 LOCATION:Solihull
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Telford vs Nottingham & Solihull & Coventry
 DTSTART:20270425T120000
 DTEND:20270425T140000
-UID:eb6b9c2c-7da9-4531-baa9-6833936c1023
+UID:ef37c789-ebe3-4fcb-83c8-e869b963a94e
 DESCRIPTION:Home: Telford\nAway: Nottingham & Solihull & Coventry\nRink: T
  elford\nDivision: U10NS
 LOCATION:Telford
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Nottingham & Telford & Coventry
 DTSTART:20270502T160000
 DTEND:20270502T180000
-UID:9cf1c3ae-1767-4168-a160-af6fde19e155
+UID:e2e85621-7edc-4150-80ef-9be7de1ae362
 DESCRIPTION:Home: Solihull\nAway: Nottingham & Telford & Coventry\nRink: S
  olihull\nDivision: U10NS
 LOCATION:Solihull
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Coventry vs Nottingham & Solihull & Telford
 DTSTART:20270515T161500
 DTEND:20270515T181500
-UID:87aa3db0-0579-48f3-a1f0-b95f305dbf1e
+UID:1d56ef76-6446-435a-b6b5-c85f7e4209c0
 DESCRIPTION:Home: Coventry\nAway: Nottingham & Solihull & Telford\nRink: C
  oventry\nDivision: U10NS
 LOCATION:Coventry

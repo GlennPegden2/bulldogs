@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Basingstoke
 DTSTART:20260906T131000
 DTEND:20260906T151000
-UID:2b10e530-390f-4f7e-93c7-427ffe6ab413
+UID:db998cdd-58ab-4a53-b8e7-2316b43a5156
 DESCRIPTION:Home: Swindon\nAway: Basingstoke\nRink: Swindon\nDivision: U10
  SC
 LOCATION:Swindon
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Slough vs Basingstoke
 DTSTART:20260912T173000
 DTEND:20260912T193000
-UID:5d8cf212-dacf-4ee8-8a8d-8315df889d1e
+UID:1d6ed4f4-31fd-4f4c-be6d-867c0510f41f
 DESCRIPTION:Home: Slough\nAway: Basingstoke\nRink: Slough\nDivision: U10SC
 LOCATION:Slough
 END:VEVENT
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Basingstoke
 DTSTART:20261108T131000
 DTEND:20261108T151000
-UID:448a2780-cfc7-40fd-a085-c0d8faf0fb97
+UID:98f19ad9-22b7-4ac4-a131-de33d11b18f1
 DESCRIPTION:Home: Swindon\nAway: Basingstoke\nRink: Swindon\nDivision: U10
  SC
 LOCATION:Swindon
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20261129T161500
 DTEND:20261129T181500
-UID:642f7b45-3814-4839-b659-26bdbb92cd54
+UID:088e549c-7b6e-4f6b-9812-42c4443a82c8
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Basingstoke
 DTSTART:20270411T144500
 DTEND:20270411T164500
-UID:3271bb82-f733-4c1c-8e7b-59771a272e25
+UID:62a593b7-af3f-490b-b3ea-fda6b55f08b1
 DESCRIPTION:Home: Haringey\nAway: Basingstoke\nRink: Haringey\nDivision: U
  10SC
 LOCATION:Haringey
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270425T161500
 DTEND:20270425T181500
-UID:55c95929-b75f-455f-a255-4c3c1145fcb8
+UID:e092b3d4-5dbf-492b-8fe6-02619639d6fe
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270516T161500
 DTEND:20270516T181500
-UID:2c90c49e-25a4-4c87-8d73-4ad1d8de4ab0
+UID:b8ae1829-7e56-4957-bcdc-019911b5898f
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke

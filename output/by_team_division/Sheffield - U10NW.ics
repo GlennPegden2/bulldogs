@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Deeside
 DTSTART:20260913T123000
 DTEND:20260913T143000
-UID:4d74d767-c66f-4dae-aea5-0225552eabc1
+UID:c8c68c15-b263-46e0-8a78-7950aa2b9ab0
 DESCRIPTION:Home: Sheffield\nAway: Deeside\nRink: Sheffield\nDivision: U10
  NW
 LOCATION:Sheffield
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Sheffield
 DTSTART:20260926T161500
 DTEND:20260926T181500
-UID:95350840-b1d0-4be4-bee3-d58bce210638
+UID:27cc5690-647b-488e-b8b6-f7708bb85c45
 DESCRIPTION:Home: Manchester\nAway: Sheffield\nRink: Manchester\nDivision:
   U10NW
 LOCATION:Manchester
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Deeside
 DTSTART:20261010T181500
 DTEND:20261010T201500
-UID:be52e5de-eb0d-4f7b-bb4d-552e9d525667
+UID:5bbedd58-080d-4e09-ab0e-411f2a9df3cc
 DESCRIPTION:Home: Sheffield\nAway: Deeside\nRink: Sheffield\nDivision: U10
  NW
 LOCATION:Sheffield
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Widnes vs Sheffield
 DTSTART:20261024T161500
 DTEND:20261024T181500
-UID:ef9d8a2b-34c0-48f8-b888-bafc1f86accb
+UID:e6cc3a0c-7821-45ff-86af-0447fbf0be7d
 DESCRIPTION:Home: Widnes\nAway: Sheffield\nRink: Widnes\nDivision: U10NW
 LOCATION:Widnes
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Deeside
 DTSTART:20261107T181000
 DTEND:20261107T201000
-UID:980335a2-9292-4807-94dd-dabb0cb5d4f5
+UID:4a04024e-84a0-4a32-9399-e0d468a03f89
 DESCRIPTION:Home: Sheffield\nAway: Deeside\nRink: Sheffield\nDivision: U10
  NW
 LOCATION:Sheffield
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Sheffield
 DTSTART:20261128T161500
 DTEND:20261128T181500
-UID:2bbba573-e6ae-45bd-8116-b6c4464a22b3
+UID:0ac3ee91-157c-47bb-b1a5-a2c4c827e867
 DESCRIPTION:Home: Manchester\nAway: Sheffield\nRink: Manchester\nDivision:
   U10NW
 LOCATION:Manchester
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Widnes vs Sheffield
 DTSTART:20261212T161500
 DTEND:20261212T181500
-UID:a09dfb6e-261f-4651-8f9f-fd12ac806e88
+UID:5a7ddbd2-cd59-463d-b148-cc1a4392ddee
 DESCRIPTION:Home: Widnes\nAway: Sheffield\nRink: Widnes\nDivision: U10NW
 LOCATION:Widnes
 END:VEVENT
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Deeside vs Sheffield
 DTSTART:20270116T163000
 DTEND:20270116T183000
-UID:6ebbf91d-e686-4b5d-b9f0-0fd31557674a
+UID:026f0ab2-dcc9-45cc-80c0-06afd5001e8b
 DESCRIPTION:Home: Deeside\nAway: Sheffield\nRink: Deeside\nDivision: U10NW
 LOCATION:Deeside
 END:VEVENT
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Widnes vs Sheffield
 DTSTART:20270130T161500
 DTEND:20270130T181500
-UID:7111f224-9206-4eeb-a863-08fece56cf0f
+UID:9b2aef9d-5f7d-4d93-a7cc-053a7c672ad6
 DESCRIPTION:Home: Widnes\nAway: Sheffield\nRink: Widnes\nDivision: U10NW
 LOCATION:Widnes
 END:VEVENT
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Sheffield
 DTSTART:20270206T161500
 DTEND:20270206T181500
-UID:a6226de6-e35f-4257-b61d-dbb183f2b02e
+UID:4dc9e9af-c710-470b-a6dd-12255dd8286d
 DESCRIPTION:Home: Manchester\nAway: Sheffield\nRink: Manchester\nDivision:
   U10NW
 LOCATION:Manchester
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Deeside vs Sheffield
 DTSTART:20270314T163000
 DTEND:20270314T183000
-UID:5989e552-9413-4026-9aa1-e43aad786047
+UID:838dc5bd-36f4-4311-9ebe-ead0ee47f6ba
 DESCRIPTION:Home: Deeside\nAway: Sheffield\nRink: Deeside\nDivision: U10NW
 LOCATION:Deeside
 END:VEVENT
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Deeside vs Sheffield
 DTSTART:20270522T163000
 DTEND:20270522T183000
-UID:1fe69aec-e002-4da8-ac23-4848194263a1
+UID:8bd6af2b-db22-4c61-9a7f-844d7592fc62
 DESCRIPTION:Home: Deeside\nAway: Sheffield\nRink: Deeside\nDivision: U10NW
 LOCATION:Deeside
 END:VEVENT

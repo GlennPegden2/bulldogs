@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Invicta vs Lee Valley
 DTSTART:20261017T164500
 DTEND:20261017T184500
-UID:4fe28e63-570a-490b-b365-59117c6b8285
+UID:02f28e32-7daf-43e4-a8eb-613ecf2fbac4
 DESCRIPTION:Home: Invicta\nAway: Lee Valley\nRink: Invicta\nDivision: U10L
  E
 LOCATION:Invicta
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Lee Valley
 DTSTART:20261220T163000
 DTEND:20261220T183000
-UID:6b66eaf4-b42d-4a68-9df8-4e02fe8fa72d
+UID:4485827b-e76d-4ea0-a1c7-5414e7bffd27
 DESCRIPTION:Home: Streatham\nAway: Lee Valley\nRink: Streatham\nDivision: 
  U10LE
 LOCATION:Streatham
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Lee Valley
 DTSTART:20270110T164500
 DTEND:20270110T184500
-UID:0ee8dbbd-02fb-4cf3-8bfb-eea150883914
+UID:23663c3f-d301-46ac-9193-9b3971cbc304
 DESCRIPTION:Home: Chelmsford\nAway: Lee Valley\nRink: Chelmsford\nDivision
  : U10LE
 LOCATION:Chelmsford
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Invicta vs Lee Valley
 DTSTART:20270116T164500
 DTEND:20270116T184500
-UID:e7c55c4e-5dbf-4e2a-ad9f-2b7d4c0389a2
+UID:2d0dd564-784f-4e4f-a115-f9d153c8975f
 DESCRIPTION:Home: Invicta\nAway: Lee Valley\nRink: Invicta\nDivision: U10L
  E
 LOCATION:Invicta
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Lee Valley
 DTSTART:20270124T163000
 DTEND:20270124T183000
-UID:e0b9df1a-63d2-4a9d-99db-3a05bbaa0016
+UID:48e84ab7-fef3-40f0-b226-8f18be92a4cc
 DESCRIPTION:Home: Streatham\nAway: Lee Valley\nRink: Streatham\nDivision: 
  U10LE
 LOCATION:Streatham
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Lee Valley
 DTSTART:20270530T164500
 DTEND:20270530T184500
-UID:226c7618-53be-47a9-ab65-7b5b2b5acf8c
+UID:3c835ac2-396f-406a-8ec5-852c271fd8bd
 DESCRIPTION:Home: Chelmsford\nAway: Lee Valley\nRink: Chelmsford\nDivision
  : U10LE
 LOCATION:Chelmsford
