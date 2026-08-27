@@ -1,0 +1,45 @@
+name: Regenerate fixtures output
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "process_fixtures.py"
+      - "MasterFixtures Official.xlsx"
+      - "requirements.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fixture generator
+        run: python process_fixtures.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Auto-regenerate fixture outputs"
+          git push
