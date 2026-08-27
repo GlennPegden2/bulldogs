@@ -10,6 +10,7 @@ If no path is supplied the script looks for 'MasterFixtures Official.xlsx'
 in the same directory as this script.
 """
 
+import json
 import os
 import re
 import sys
@@ -215,11 +216,20 @@ def group_by_rink(fixtures: list) -> dict:
 # Output writers
 # ---------------------------------------------------------------------------
 
-def write_group(base_dir: str, label: str, fixtures: list) -> None:
-    """Write both .txt and .ics for a single group into *base_dir*."""
+def write_group(base_dir: str, label: str, fixtures: list) -> str:
+    """Write both .txt and .ics for a single group into *base_dir* and return filename stem."""
     name = safe_filename(label)
     write_txt(os.path.join(base_dir, f"{name}.txt"), fixtures)
     write_ics(os.path.join(base_dir, f"{name}.ics"), label, fixtures)
+    return name
+
+
+def write_manifest(path: str, entries: list) -> None:
+    """Write files.json used by index.html."""
+    entries_sorted = sorted(entries, key=lambda x: (x["club"], x["ageDivision"]))
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(entries_sorted, fh, indent=2)
+        fh.write("\n")
 
 
 # ---------------------------------------------------------------------------
@@ -231,6 +241,8 @@ def main(xlsx_path: str, output_dir: str = "output") -> None:
     fixtures = load_fixtures(xlsx_path)
     print(f"Loaded {len(fixtures)} fixtures")
 
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
     # Create output directories
     dir_team_div = os.path.join(output_dir, "by_team_division")
     dir_team = os.path.join(output_dir, "by_team")
@@ -238,10 +250,27 @@ def main(xlsx_path: str, output_dir: str = "output") -> None:
     for d in (dir_team_div, dir_team, dir_rink):
         os.makedirs(d, exist_ok=True)
 
+    manifest_entries = []
+
     # 1. By team/age-division
-    for (team, division), group_fixtures in group_by_team_division(fixtures).items():
+    team_div_groups = group_by_team_division(fixtures)
+    for (team, division), group_fixtures in team_div_groups.items():
         label = f"{team} - {division}"
-        write_group(dir_team_div, label, sorted(group_fixtures, key=lambda x: (x["date"], x["time"])))
+        stem = write_group(dir_team_div, label, sorted(group_fixtures, key=lambda x: (x["date"], x["time"])))
+
+        txt_abs = os.path.join(dir_team_div, f"{stem}.txt")
+        ics_abs = os.path.join(dir_team_div, f"{stem}.ics")
+        txt_rel = "./" + os.path.relpath(txt_abs, script_dir).replace(os.sep, "/")
+        ics_rel = "./" + os.path.relpath(ics_abs, script_dir).replace(os.sep, "/")
+
+        manifest_entries.append(
+            {
+                "club": team,
+                "ageDivision": division,
+                "txt": txt_rel,
+                "ics": ics_rel,
+            }
+        )
 
     # 2. By team (all divisions)
     for team, group_fixtures in group_by_team(fixtures).items():
@@ -251,10 +280,14 @@ def main(xlsx_path: str, output_dir: str = "output") -> None:
     for rink, group_fixtures in group_by_rink(fixtures).items():
         write_group(dir_rink, rink, sorted(group_fixtures, key=lambda x: (x["date"], x["time"])))
 
+    manifest_path = os.path.join(script_dir, "files.json")
+    write_manifest(manifest_path, manifest_entries)
+
     print(f"\nOutput written to: {output_dir}/")
-    print(f"  by_team_division/ : {len(group_by_team_division(fixtures))} groups")
+    print(f"  by_team_division/ : {len(team_div_groups)} groups")
     print(f"  by_team/          : {len(group_by_team(fixtures))} groups")
     print(f"  by_rink/          : {len(group_by_rink(fixtures))} groups")
+    print(f"\nManifest written to: {manifest_path} ({len(manifest_entries)} entries)")
 
 
 if __name__ == "__main__":
