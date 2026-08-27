@@ -322,12 +322,14 @@
           icsA.rel = 'noopener noreferrer';
           links.appendChild(icsA);
 
+          const absoluteIcsUrl = new URL(item.ics, window.location.href).toString();
+
           const copyBtn = document.createElement('button');
           copyBtn.type = 'button';
           copyBtn.className = 'copy-btn';
           copyBtn.textContent = 'Copy link';
           copyBtn.title = 'copy calendar link to clipboard so you can paste it into your calendar app';
-          copyBtn.addEventListener('click', () => copyToClipboard(item.ics, copyBtn));
+          copyBtn.addEventListener('click', () => copyToClipboard(absoluteIcsUrl, copyBtn));
           links.appendChild(copyBtn);
         }
 
