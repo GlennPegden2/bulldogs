@@ -1,0 +1,20 @@
+[
+  {
+    "club": "Example Club A",
+    "ageDivision": "U10",
+    "txt": "./docs/example-club-a-u10.txt",
+    "ics": "./docs/example-club-a-u10.ics"
+  },
+  {
+    "club": "Example Club A",
+    "ageDivision": "U12",
+    "txt": "./docs/example-club-a-u12.txt",
+    "ics": "./docs/example-club-a-u12.ics"
+  },
+  {
+    "club": "Example Club B",
+    "ageDivision": "Senior",
+    "txt": "./docs/example-club-b-senior.txt",
+    "ics": "./docs/example-club-b-senior.ics"
+  }
+]

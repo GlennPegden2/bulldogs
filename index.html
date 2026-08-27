@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bulldogs Schedules</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121a33;
+      --text: #eef2ff;
+      --muted: #aab4d6;
+      --accent: #7aa2ff;
+      --accent-2: #9fd4ff;
+      --border: #2a3768;
+      --card: #0f1730;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(180deg, #070b17 0%, var(--bg) 100%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 24px 16px 40px;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 1.8rem;
+      line-height: 1.2;
+    }
+
+    .subtitle {
+      margin: 0 0 22px;
+      color: var(--muted);
+    }
+
+    .panel {
+      background: color-mix(in srgb, var(--panel) 86%, black);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,.25);
+    }
+
+    .filters {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(180px, 1fr));
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    @media (max-width: 700px) {
+      .filters { grid-template-columns: 1fr; }
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    label {
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    select {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: #0d1530;
+      color: var(--text);
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-size: 0.95rem;
+    }
+
+    .meta {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 14px;
+    }
+
+    .list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .item {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      background: var(--card);
+      display: grid;
+      gap: 8px;
+    }
+
+    .item-title {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: baseline;
+    }
+
+    .club {
+      font-weight: 700;
+      color: var(--accent-2);
+    }
+
+    .age {
+      color: var(--text);
+      opacity: .95;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .links a {
+      color: var(--accent);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 9px;
+      background: #0c1430;
+      font-size: 0.9rem;
+    }
+
+    .links a:hover {
+      border-color: var(--accent);
+      text-decoration: underline;
+    }
+
+    .empty {
+      color: var(--muted);
+      padding: 8px 0;
+    }
+
+    .footer-note {
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>Bulldogs Documents</h1>
+    <p class="subtitle">Filter by Club and Age/Division, then open the matching TXT and iCal files.</p>
+
+    <section class="panel" aria-label="Document filter">
+      <div class="filters">
+        <div class="field">
+          <label for="clubSelect">Club</label>
+          <select id="clubSelect" aria-label="Select club">
+            <option value="All">All</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="ageSelect">Age/Division</label>
+          <select id="ageSelect" aria-label="Select age division">
+            <option value="All">All</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="meta" class="meta" aria-live="polite"></div>
+      <div id="results" class="list" aria-live="polite"></div>
+      <div class="footer-note">Tip: Add or edit entries in <code>files.json</code> to keep this page up to date.</div>
+    </section>
+  </main>
+
+  <script>
+    const clubSelect = document.getElementById('clubSelect');
+    const ageSelect = document.getElementById('ageSelect');
+    const resultsEl = document.getElementById('results');
+    const metaEl = document.getElementById('meta');
+
+    async function loadManifest() {
+      const res = await fetch('./files.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error(`Failed to load files.json (${res.status})`);
+      const data = await res.json();
+      return Array.isArray(data) ? data : [];
+    }
+
+    function uniq(values) {
+      return [...new Set(values)].sort((a, b) => a.localeCompare(b));
+    }
+
+    function populateFilters(items) {
+      const clubs = uniq(items.map(i => i.club).filter(Boolean));
+      const ages = uniq(items.map(i => i.ageDivision).filter(Boolean));
+
+      for (const c of clubs) {
+        const opt = document.createElement('option');
+        opt.value = c;
+        opt.textContent = c;
+        clubSelect.appendChild(opt);
+      }
+
+      for (const a of ages) {
+        const opt = document.createElement('option');
+        opt.value = a;
+        opt.textContent = a;
+        ageSelect.appendChild(opt);
+      }
+    }
+
+    function render(items) {
+      const club = clubSelect.value;
+      const age = ageSelect.value;
+
+      const filtered = items.filter(item => {
+        const clubOk = club === 'All' || item.club === club;
+        const ageOk = age === 'All' || item.ageDivision === age;
+        return clubOk && ageOk;
+      });
+
+      metaEl.textContent = `${filtered.length} match${filtered.length === 1 ? '' : 'es'} found`;
+      resultsEl.innerHTML = '';
+
+      if (!filtered.length) {
+        const empty = document.createElement('div');
+        empty.className = 'empty';
+        empty.textContent = 'No documents found for that filter combination.';
+        resultsEl.appendChild(empty);
+        return;
+      }
+
+      for (const item of filtered) {
+        const card = document.createElement('article');
+        card.className = 'item';
+
+        const title = document.createElement('div');
+        title.className = 'item-title';
+
+        const clubSpan = document.createElement('span');
+        clubSpan.className = 'club';
+        clubSpan.textContent = item.club;
+
+        const ageSpan = document.createElement('span');
+        ageSpan.className = 'age';
+        ageSpan.textContent = `• ${item.ageDivision}`;
+
+        title.appendChild(clubSpan);
+        title.appendChild(ageSpan);
+
+        const links = document.createElement('div');
+        links.className = 'links';
+
+        if (item.txt) {
+          const txtA = document.createElement('a');
+          txtA.href = item.txt;
+          txtA.textContent = 'Text (.txt)';
+          txtA.target = '_blank';
+          txtA.rel = 'noopener noreferrer';
+          links.appendChild(txtA);
+        }
+
+        if (item.ics) {
+          const icsA = document.createElement('a');
+          icsA.href = item.ics;
+          icsA.textContent = 'Calendar (.ics)';
+          icsA.target = '_blank';
+          icsA.rel = 'noopener noreferrer';
+          links.appendChild(icsA);
+        }
+
+        card.appendChild(title);
+        card.appendChild(links);
+        resultsEl.appendChild(card);
+      }
+    }
+
+    async function init() {
+      try {
+        const items = await loadManifest();
+        populateFilters(items);
+        render(items);
+        clubSelect.addEventListener('change', () => render(items));
+        ageSelect.addEventListener('change', () => render(items));
+      } catch (err) {
+        metaEl.textContent = 'Unable to load files.json';
+        resultsEl.innerHTML = `<div class="empty">${err.message}</div>`;
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
