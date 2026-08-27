@@ -1,20 +1,1706 @@
 [
   {
-    "club": "Example Club A",
-    "ageDivision": "U10",
-    "txt": "./docs/example-club-a-u10.txt",
-    "ics": "./docs/example-club-a-u10.ics"
+    "club": "Basingstoke",
+    "ageDivision": "U10SC",
+    "txt": "./output/by_team_division/Basingstoke - U10SC.txt",
+    "ics": "./output/by_team_division/Basingstoke - U10SC.ics"
   },
   {
-    "club": "Example Club A",
-    "ageDivision": "U12",
-    "txt": "./docs/example-club-a-u12.txt",
-    "ics": "./docs/example-club-a-u12.ics"
+    "club": "Basingstoke",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Basingstoke - U12S2.txt",
+    "ics": "./output/by_team_division/Basingstoke - U12S2.ics"
   },
   {
-    "club": "Example Club B",
-    "ageDivision": "Senior",
-    "txt": "./docs/example-club-b-senior.txt",
-    "ics": "./docs/example-club-b-senior.ics"
+    "club": "Basingstoke",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Basingstoke - U14S2.txt",
+    "ics": "./output/by_team_division/Basingstoke - U14S2.ics"
+  },
+  {
+    "club": "Basingstoke",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Basingstoke - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Basingstoke - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U10NE",
+    "txt": "./output/by_team_division/Billingham - U10NE.txt",
+    "ics": "./output/by_team_division/Billingham - U10NE.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Billingham - U12N1.txt",
+    "ics": "./output/by_team_division/Billingham - U12N1.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Billingham - U12N2.txt",
+    "ics": "./output/by_team_division/Billingham - U12N2.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Billingham - U14N1.txt",
+    "ics": "./output/by_team_division/Billingham - U14N1.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Billingham - U14N2.txt",
+    "ics": "./output/by_team_division/Billingham - U14N2.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Billingham - U16GN.txt",
+    "ics": "./output/by_team_division/Billingham - U16GN.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Billingham - U16N2.txt",
+    "ics": "./output/by_team_division/Billingham - U16N2.ics"
+  },
+  {
+    "club": "Billingham",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Billingham - U19N2.txt",
+    "ics": "./output/by_team_division/Billingham - U19N2.ics"
+  },
+  {
+    "club": "Blackburn",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Blackburn - U14N2.txt",
+    "ics": "./output/by_team_division/Blackburn - U14N2.ics"
+  },
+  {
+    "club": "Blackburn",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Blackburn - U16N2.txt",
+    "ics": "./output/by_team_division/Blackburn - U16N2.ics"
+  },
+  {
+    "club": "Blackburn",
+    "ageDivision": "WNIHL2Na",
+    "txt": "./output/by_team_division/Blackburn - WNIHL2Na.txt",
+    "ics": "./output/by_team_division/Blackburn - WNIHL2Na.ics"
+  },
+  {
+    "club": "Bradford",
+    "ageDivision": "U10NC",
+    "txt": "./output/by_team_division/Bradford - U10NC.txt",
+    "ics": "./output/by_team_division/Bradford - U10NC.ics"
+  },
+  {
+    "club": "Bradford",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Bradford - U12N1.txt",
+    "ics": "./output/by_team_division/Bradford - U12N1.ics"
+  },
+  {
+    "club": "Bradford",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Bradford - U14N2.txt",
+    "ics": "./output/by_team_division/Bradford - U14N2.ics"
+  },
+  {
+    "club": "Bradford",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Bradford - U16N1.txt",
+    "ics": "./output/by_team_division/Bradford - U16N1.ics"
+  },
+  {
+    "club": "Bradford",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Bradford - U19N1.txt",
+    "ics": "./output/by_team_division/Bradford - U19N1.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "FWCN",
+    "txt": "./output/by_team_division/Bristol - FWCN.txt",
+    "ics": "./output/by_team_division/Bristol - FWCN.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/Bristol - U10SW.txt",
+    "ics": "./output/by_team_division/Bristol - U10SW.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Bristol - U12S2.txt",
+    "ics": "./output/by_team_division/Bristol - U12S2.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Bristol - U14S2.txt",
+    "ics": "./output/by_team_division/Bristol - U14S2.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/Bristol - U16GS.txt",
+    "ics": "./output/by_team_division/Bristol - U16GS.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Bristol - U16S2.txt",
+    "ics": "./output/by_team_division/Bristol - U16S2.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "U19S2",
+    "txt": "./output/by_team_division/Bristol - U19S2.txt",
+    "ics": "./output/by_team_division/Bristol - U19S2.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Bristol - WElite.txt",
+    "ics": "./output/by_team_division/Bristol - WElite.ics"
+  },
+  {
+    "club": "Bristol",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Bristol - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Bristol - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Caledonia",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Caledonia - U16GN.txt",
+    "ics": "./output/by_team_division/Caledonia - U16GN.ics"
+  },
+  {
+    "club": "Caledonia",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Caledonia - WElite.txt",
+    "ics": "./output/by_team_division/Caledonia - WElite.ics"
+  },
+  {
+    "club": "Caledonia",
+    "ageDivision": "WNIHL2Na",
+    "txt": "./output/by_team_division/Caledonia - WNIHL2Na.txt",
+    "ics": "./output/by_team_division/Caledonia - WNIHL2Na.ics"
+  },
+  {
+    "club": "Cambridge",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/Cambridge - U10SE.txt",
+    "ics": "./output/by_team_division/Cambridge - U10SE.ics"
+  },
+  {
+    "club": "Cambridge",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Cambridge - U12S2.txt",
+    "ics": "./output/by_team_division/Cambridge - U12S2.ics"
+  },
+  {
+    "club": "Cambridge",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Cambridge - U14S2.txt",
+    "ics": "./output/by_team_division/Cambridge - U14S2.ics"
+  },
+  {
+    "club": "Cambridge",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Cambridge - U16S2.txt",
+    "ics": "./output/by_team_division/Cambridge - U16S2.ics"
+  },
+  {
+    "club": "Cambridge",
+    "ageDivision": "WNIHL1S",
+    "txt": "./output/by_team_division/Cambridge - WNIHL1S.txt",
+    "ics": "./output/by_team_division/Cambridge - WNIHL1S.ics"
+  },
+  {
+    "club": "Cambridge",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Cambridge - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Cambridge - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "FWCN",
+    "txt": "./output/by_team_division/Cardiff - FWCN.txt",
+    "ics": "./output/by_team_division/Cardiff - FWCN.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/Cardiff - U10SW.txt",
+    "ics": "./output/by_team_division/Cardiff - U10SW.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Cardiff - U12S1.txt",
+    "ics": "./output/by_team_division/Cardiff - U12S1.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Cardiff - U14S1.txt",
+    "ics": "./output/by_team_division/Cardiff - U14S1.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Cardiff - U16S1.txt",
+    "ics": "./output/by_team_division/Cardiff - U16S1.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Cardiff - U19S1.txt",
+    "ics": "./output/by_team_division/Cardiff - U19S1.ics"
+  },
+  {
+    "club": "Cardiff",
+    "ageDivision": "WNIHL2Sa",
+    "txt": "./output/by_team_division/Cardiff - WNIHL2Sa.txt",
+    "ics": "./output/by_team_division/Cardiff - WNIHL2Sa.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "FWCS",
+    "txt": "./output/by_team_division/Chelmsford - FWCS.txt",
+    "ics": "./output/by_team_division/Chelmsford - FWCS.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/Chelmsford - U10LE.txt",
+    "ics": "./output/by_team_division/Chelmsford - U10LE.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/Chelmsford - U10SE.txt",
+    "ics": "./output/by_team_division/Chelmsford - U10SE.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Chelmsford - U12S1.txt",
+    "ics": "./output/by_team_division/Chelmsford - U12S1.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Chelmsford - U12S2.txt",
+    "ics": "./output/by_team_division/Chelmsford - U12S2.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Chelmsford - U14S1.txt",
+    "ics": "./output/by_team_division/Chelmsford - U14S1.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/Chelmsford - U16GS.txt",
+    "ics": "./output/by_team_division/Chelmsford - U16GS.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Chelmsford - U16S1.txt",
+    "ics": "./output/by_team_division/Chelmsford - U16S1.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Chelmsford - U19S1.txt",
+    "ics": "./output/by_team_division/Chelmsford - U19S1.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "WNIHL1S",
+    "txt": "./output/by_team_division/Chelmsford - WNIHL1S.txt",
+    "ics": "./output/by_team_division/Chelmsford - WNIHL1S.ics"
+  },
+  {
+    "club": "Chelmsford",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Chelmsford - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Chelmsford - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "FWCN",
+    "txt": "./output/by_team_division/Coventry - FWCN.txt",
+    "ics": "./output/by_team_division/Coventry - FWCN.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "U10NS",
+    "txt": "./output/by_team_division/Coventry - U10NS.txt",
+    "ics": "./output/by_team_division/Coventry - U10NS.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Coventry - U12N2.txt",
+    "ics": "./output/by_team_division/Coventry - U12N2.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Coventry - U14N2.txt",
+    "ics": "./output/by_team_division/Coventry - U14N2.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Coventry - U16N2.txt",
+    "ics": "./output/by_team_division/Coventry - U16N2.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Coventry - U19N2.txt",
+    "ics": "./output/by_team_division/Coventry - U19N2.ics"
+  },
+  {
+    "club": "Coventry",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Coventry - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Coventry - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U10NW",
+    "txt": "./output/by_team_division/Deeside - U10NW.txt",
+    "ics": "./output/by_team_division/Deeside - U10NW.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Deeside - U12N1.txt",
+    "ics": "./output/by_team_division/Deeside - U12N1.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Deeside - U12N2.txt",
+    "ics": "./output/by_team_division/Deeside - U12N2.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Deeside - U14N1.txt",
+    "ics": "./output/by_team_division/Deeside - U14N1.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Deeside - U14N2.txt",
+    "ics": "./output/by_team_division/Deeside - U14N2.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Deeside - U16GN.txt",
+    "ics": "./output/by_team_division/Deeside - U16GN.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Deeside - U16N1.txt",
+    "ics": "./output/by_team_division/Deeside - U16N1.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Deeside - U19N2.txt",
+    "ics": "./output/by_team_division/Deeside - U19N2.ics"
+  },
+  {
+    "club": "Deeside",
+    "ageDivision": "WNIHL2Nb",
+    "txt": "./output/by_team_division/Deeside - WNIHL2Nb.txt",
+    "ics": "./output/by_team_division/Deeside - WNIHL2Nb.ics"
+  },
+  {
+    "club": "Firebees",
+    "ageDivision": "WNIHL1S",
+    "txt": "./output/by_team_division/Firebees - WNIHL1S.txt",
+    "ics": "./output/by_team_division/Firebees - WNIHL1S.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "U10SC",
+    "txt": "./output/by_team_division/Guildford - U10SC.txt",
+    "ics": "./output/by_team_division/Guildford - U10SC.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Guildford - U12S1.txt",
+    "ics": "./output/by_team_division/Guildford - U12S1.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Guildford - U14S1.txt",
+    "ics": "./output/by_team_division/Guildford - U14S1.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Guildford - U16S1.txt",
+    "ics": "./output/by_team_division/Guildford - U16S1.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Guildford - U19Nat.txt",
+    "ics": "./output/by_team_division/Guildford - U19Nat.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Guildford - WElite.txt",
+    "ics": "./output/by_team_division/Guildford - WElite.ics"
+  },
+  {
+    "club": "Guildford",
+    "ageDivision": "Welite CHALLENGE",
+    "txt": "./output/by_team_division/Guildford - Welite CHALLENGE.txt",
+    "ics": "./output/by_team_division/Guildford - Welite CHALLENGE.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U10SC",
+    "txt": "./output/by_team_division/Haringey - U10SC.txt",
+    "ics": "./output/by_team_division/Haringey - U10SC.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/Haringey - U10SE.txt",
+    "ics": "./output/by_team_division/Haringey - U10SE.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Haringey - U12S1.txt",
+    "ics": "./output/by_team_division/Haringey - U12S1.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Haringey - U12S2.txt",
+    "ics": "./output/by_team_division/Haringey - U12S2.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Haringey - U14S1.txt",
+    "ics": "./output/by_team_division/Haringey - U14S1.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Haringey - U14S2.txt",
+    "ics": "./output/by_team_division/Haringey - U14S2.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/Haringey - U16GS.txt",
+    "ics": "./output/by_team_division/Haringey - U16GS.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Haringey - U16S1.txt",
+    "ics": "./output/by_team_division/Haringey - U16S1.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Haringey - U16S2.txt",
+    "ics": "./output/by_team_division/Haringey - U16S2.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U19NAt",
+    "txt": "./output/by_team_division/Haringey - U19NAt.txt",
+    "ics": "./output/by_team_division/Haringey - U19NAt.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Haringey - U19Nat.txt",
+    "ics": "./output/by_team_division/Haringey - U19Nat.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Haringey - U19S1.txt",
+    "ics": "./output/by_team_division/Haringey - U19S1.ics"
+  },
+  {
+    "club": "Haringey",
+    "ageDivision": "WNIHL1S",
+    "txt": "./output/by_team_division/Haringey - WNIHL1S.txt",
+    "ics": "./output/by_team_division/Haringey - WNIHL1S.ics"
+  },
+  {
+    "club": "IceBees",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/IceBees - U16GS.txt",
+    "ics": "./output/by_team_division/IceBees - U16GS.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "FWCS",
+    "txt": "./output/by_team_division/Invicta - FWCS.txt",
+    "ics": "./output/by_team_division/Invicta - FWCS.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/Invicta - U10LE.txt",
+    "ics": "./output/by_team_division/Invicta - U10LE.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Invicta - U12S1.txt",
+    "ics": "./output/by_team_division/Invicta - U12S1.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Invicta - U14S2.txt",
+    "ics": "./output/by_team_division/Invicta - U14S2.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Invicta - U16S1.txt",
+    "ics": "./output/by_team_division/Invicta - U16S1.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Invicta - U16S2.txt",
+    "ics": "./output/by_team_division/Invicta - U16S2.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Invicta - U19S1.txt",
+    "ics": "./output/by_team_division/Invicta - U19S1.ics"
+  },
+  {
+    "club": "Invicta",
+    "ageDivision": "WNIHL2Sa",
+    "txt": "./output/by_team_division/Invicta - WNIHL2Sa.txt",
+    "ics": "./output/by_team_division/Invicta - WNIHL2Sa.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "U10NE",
+    "txt": "./output/by_team_division/Kingston - U10NE.txt",
+    "ics": "./output/by_team_division/Kingston - U10NE.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Kingston - U12N1.txt",
+    "ics": "./output/by_team_division/Kingston - U12N1.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Kingston - U14N1.txt",
+    "ics": "./output/by_team_division/Kingston - U14N1.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Kingston - U16GN.txt",
+    "ics": "./output/by_team_division/Kingston - U16GN.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Kingston - U16N1.txt",
+    "ics": "./output/by_team_division/Kingston - U16N1.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Kingston - U19N1.txt",
+    "ics": "./output/by_team_division/Kingston - U19N1.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Kingston - WElite.txt",
+    "ics": "./output/by_team_division/Kingston - WElite.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "WNIHL1N",
+    "txt": "./output/by_team_division/Kingston - WNIHL1N.txt",
+    "ics": "./output/by_team_division/Kingston - WNIHL1N.ics"
+  },
+  {
+    "club": "Kingston",
+    "ageDivision": "WNIHL2Nb",
+    "txt": "./output/by_team_division/Kingston - WNIHL2Nb.txt",
+    "ics": "./output/by_team_division/Kingston - WNIHL2Nb.ics"
+  },
+  {
+    "club": "Lee Valley",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/Lee Valley - U10LE.txt",
+    "ics": "./output/by_team_division/Lee Valley - U10LE.ics"
+  },
+  {
+    "club": "LeeValley",
+    "ageDivision": "FWCS",
+    "txt": "./output/by_team_division/LeeValley - FWCS.txt",
+    "ics": "./output/by_team_division/LeeValley - FWCS.ics"
+  },
+  {
+    "club": "LeeValley",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/LeeValley - U10LE.txt",
+    "ics": "./output/by_team_division/LeeValley - U10LE.ics"
+  },
+  {
+    "club": "LeeValley",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/LeeValley - U12S2.txt",
+    "ics": "./output/by_team_division/LeeValley - U12S2.ics"
+  },
+  {
+    "club": "LeeValley",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/LeeValley - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/LeeValley - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U10NE",
+    "txt": "./output/by_team_division/Leeds - U10NE.txt",
+    "ics": "./output/by_team_division/Leeds - U10NE.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Leeds - U14N1.txt",
+    "ics": "./output/by_team_division/Leeds - U14N1.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Leeds - U14N2.txt",
+    "ics": "./output/by_team_division/Leeds - U14N2.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Leeds - U16GN.txt",
+    "ics": "./output/by_team_division/Leeds - U16GN.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Leeds - U16N1.txt",
+    "ics": "./output/by_team_division/Leeds - U16N1.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Leeds - U16N2.txt",
+    "ics": "./output/by_team_division/Leeds - U16N2.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Leeds - U19N1.txt",
+    "ics": "./output/by_team_division/Leeds - U19N1.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Leeds - U19Nat.txt",
+    "ics": "./output/by_team_division/Leeds - U19Nat.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "WNIHL2Na",
+    "txt": "./output/by_team_division/Leeds - WNIHL2Na.txt",
+    "ics": "./output/by_team_division/Leeds - WNIHL2Na.ics"
+  },
+  {
+    "club": "Leeds",
+    "ageDivision": "WNIHL2Nb",
+    "txt": "./output/by_team_division/Leeds - WNIHL2Nb.txt",
+    "ics": "./output/by_team_division/Leeds - WNIHL2Nb.ics"
+  },
+  {
+    "club": "Leeds Blue",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Leeds Blue - U12N1.txt",
+    "ics": "./output/by_team_division/Leeds Blue - U12N1.ics"
+  },
+  {
+    "club": "Leeds White",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Leeds White - U12N1.txt",
+    "ics": "./output/by_team_division/Leeds White - U12N1.ics"
+  },
+  {
+    "club": "MK",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/MK - U10SE.txt",
+    "ics": "./output/by_team_division/MK - U10SE.ics"
+  },
+  {
+    "club": "MK",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/MK - U10SW.txt",
+    "ics": "./output/by_team_division/MK - U10SW.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "U10NW",
+    "txt": "./output/by_team_division/Manchester - U10NW.txt",
+    "ics": "./output/by_team_division/Manchester - U10NW.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Manchester - U12N2.txt",
+    "ics": "./output/by_team_division/Manchester - U12N2.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Manchester - U14N2.txt",
+    "ics": "./output/by_team_division/Manchester - U14N2.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Manchester - U16GN.txt",
+    "ics": "./output/by_team_division/Manchester - U16GN.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Manchester - U16N2.txt",
+    "ics": "./output/by_team_division/Manchester - U16N2.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Manchester - U19N1.txt",
+    "ics": "./output/by_team_division/Manchester - U19N1.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "WNIHL2Na",
+    "txt": "./output/by_team_division/Manchester - WNIHL2Na.txt",
+    "ics": "./output/by_team_division/Manchester - WNIHL2Na.ics"
+  },
+  {
+    "club": "Manchester",
+    "ageDivision": "WNIHL2Nb",
+    "txt": "./output/by_team_division/Manchester - WNIHL2Nb.txt",
+    "ics": "./output/by_team_division/Manchester - WNIHL2Nb.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/MiltonKeynes - U10SE.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U10SE.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/MiltonKeynes - U10SW.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U10SW.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/MiltonKeynes - U12S2.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U12S2.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/MiltonKeynes - U14S2.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U14S2.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/MiltonKeynes - U16GS.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U16GS.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/MiltonKeynes - U16S2.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U16S2.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "U19S2",
+    "txt": "./output/by_team_division/MiltonKeynes - U19S2.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - U19S2.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "WNIHL1S",
+    "txt": "./output/by_team_division/MiltonKeynes - WNIHL1S.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - WNIHL1S.ics"
+  },
+  {
+    "club": "MiltonKeynes",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/MiltonKeynes - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/MiltonKeynes - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "FWCN",
+    "txt": "./output/by_team_division/Nottingham - FWCN.txt",
+    "ics": "./output/by_team_division/Nottingham - FWCN.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U10NC",
+    "txt": "./output/by_team_division/Nottingham - U10NC.txt",
+    "ics": "./output/by_team_division/Nottingham - U10NC.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U10NS",
+    "txt": "./output/by_team_division/Nottingham - U10NS.txt",
+    "ics": "./output/by_team_division/Nottingham - U10NS.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Nottingham - U12N1.txt",
+    "ics": "./output/by_team_division/Nottingham - U12N1.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Nottingham - U12N2.txt",
+    "ics": "./output/by_team_division/Nottingham - U12N2.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Nottingham - U14N1.txt",
+    "ics": "./output/by_team_division/Nottingham - U14N1.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Nottingham - U14N2.txt",
+    "ics": "./output/by_team_division/Nottingham - U14N2.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Nottingham - U16GN.txt",
+    "ics": "./output/by_team_division/Nottingham - U16GN.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Nottingham - U16N1.txt",
+    "ics": "./output/by_team_division/Nottingham - U16N1.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Nottingham - U16N2.txt",
+    "ics": "./output/by_team_division/Nottingham - U16N2.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Nottingham - U19N1.txt",
+    "ics": "./output/by_team_division/Nottingham - U19N1.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Nottingham - U19Nat.txt",
+    "ics": "./output/by_team_division/Nottingham - U19Nat.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "WNIHL1N",
+    "txt": "./output/by_team_division/Nottingham - WNIHL1N.txt",
+    "ics": "./output/by_team_division/Nottingham - WNIHL1N.ics"
+  },
+  {
+    "club": "Nottingham",
+    "ageDivision": "WNIHL2Nb",
+    "txt": "./output/by_team_division/Nottingham - WNIHL2Nb.txt",
+    "ics": "./output/by_team_division/Nottingham - WNIHL2Nb.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/Oxford - U10SW.txt",
+    "ics": "./output/by_team_division/Oxford - U10SW.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Oxford - U12S2.txt",
+    "ics": "./output/by_team_division/Oxford - U12S2.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Oxford - U14S2.txt",
+    "ics": "./output/by_team_division/Oxford - U14S2.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/Oxford - U16GS.txt",
+    "ics": "./output/by_team_division/Oxford - U16GS.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Oxford - U16S2.txt",
+    "ics": "./output/by_team_division/Oxford - U16S2.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Oxford - U19S1.txt",
+    "ics": "./output/by_team_division/Oxford - U19S1.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "U19S2",
+    "txt": "./output/by_team_division/Oxford - U19S2.txt",
+    "ics": "./output/by_team_division/Oxford - U19S2.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "WNIHL2Sa",
+    "txt": "./output/by_team_division/Oxford - WNIHL2Sa.txt",
+    "ics": "./output/by_team_division/Oxford - WNIHL2Sa.ics"
+  },
+  {
+    "club": "Oxford",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Oxford - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Oxford - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/Peterborough - U10LE.txt",
+    "ics": "./output/by_team_division/Peterborough - U10LE.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/Peterborough - U10SE.txt",
+    "ics": "./output/by_team_division/Peterborough - U10SE.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Peterborough - U12S1.txt",
+    "ics": "./output/by_team_division/Peterborough - U12S1.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Peterborough - U14S1.txt",
+    "ics": "./output/by_team_division/Peterborough - U14S1.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Peterborough - U14S2.txt",
+    "ics": "./output/by_team_division/Peterborough - U14S2.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Peterborough - U16S1.txt",
+    "ics": "./output/by_team_division/Peterborough - U16S1.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Peterborough - U19S1.txt",
+    "ics": "./output/by_team_division/Peterborough - U19S1.ics"
+  },
+  {
+    "club": "Peterborough",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Peterborough - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Peterborough - WNIHL2Sb.ics"
+  },
+  {
+    "club": "QueenBees",
+    "ageDivision": "Welite CHALLENGE",
+    "txt": "./output/by_team_division/QueenBees - Welite CHALLENGE.txt",
+    "ics": "./output/by_team_division/QueenBees - Welite CHALLENGE.ics"
+  },
+  {
+    "club": "Queenbees",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Queenbees - WElite.txt",
+    "ics": "./output/by_team_division/Queenbees - WElite.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/Romford - U10LE.txt",
+    "ics": "./output/by_team_division/Romford - U10LE.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Romford - U12S1.txt",
+    "ics": "./output/by_team_division/Romford - U12S1.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Romford - U12S2.txt",
+    "ics": "./output/by_team_division/Romford - U12S2.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Romford - U14S1.txt",
+    "ics": "./output/by_team_division/Romford - U14S1.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Romford - U14S2.txt",
+    "ics": "./output/by_team_division/Romford - U14S2.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Romford - U16S1.txt",
+    "ics": "./output/by_team_division/Romford - U16S1.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Romford - U16S2.txt",
+    "ics": "./output/by_team_division/Romford - U16S2.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Romford - U19S1.txt",
+    "ics": "./output/by_team_division/Romford - U19S1.ics"
+  },
+  {
+    "club": "Romford",
+    "ageDivision": "U19S2",
+    "txt": "./output/by_team_division/Romford - U19S2.txt",
+    "ics": "./output/by_team_division/Romford - U19S2.ics"
+  },
+  {
+    "club": "Romford+C1425",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Romford+C1425 - U14S2.txt",
+    "ics": "./output/by_team_division/Romford+C1425 - U14S2.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "FWCN",
+    "txt": "./output/by_team_division/Sheffield - FWCN.txt",
+    "ics": "./output/by_team_division/Sheffield - FWCN.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U10NC",
+    "txt": "./output/by_team_division/Sheffield - U10NC.txt",
+    "ics": "./output/by_team_division/Sheffield - U10NC.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U10NW",
+    "txt": "./output/by_team_division/Sheffield - U10NW.txt",
+    "ics": "./output/by_team_division/Sheffield - U10NW.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Sheffield - U12N1.txt",
+    "ics": "./output/by_team_division/Sheffield - U12N1.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Sheffield - U12N2.txt",
+    "ics": "./output/by_team_division/Sheffield - U12N2.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Sheffield - U14N1.txt",
+    "ics": "./output/by_team_division/Sheffield - U14N1.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Sheffield - U14N2.txt",
+    "ics": "./output/by_team_division/Sheffield - U14N2.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/Sheffield - U16GN.txt",
+    "ics": "./output/by_team_division/Sheffield - U16GN.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Sheffield - U16N1.txt",
+    "ics": "./output/by_team_division/Sheffield - U16N1.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Sheffield - U16N2.txt",
+    "ics": "./output/by_team_division/Sheffield - U16N2.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Sheffield - U19N2.txt",
+    "ics": "./output/by_team_division/Sheffield - U19N2.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U19NAt",
+    "txt": "./output/by_team_division/Sheffield - U19NAt.txt",
+    "ics": "./output/by_team_division/Sheffield - U19NAt.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Sheffield - U19Nat.txt",
+    "ics": "./output/by_team_division/Sheffield - U19Nat.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "WNIHL1N",
+    "txt": "./output/by_team_division/Sheffield - WNIHL1N.txt",
+    "ics": "./output/by_team_division/Sheffield - WNIHL1N.ics"
+  },
+  {
+    "club": "Sheffield",
+    "ageDivision": "WNIHL2Na",
+    "txt": "./output/by_team_division/Sheffield - WNIHL2Na.txt",
+    "ics": "./output/by_team_division/Sheffield - WNIHL2Na.ics"
+  },
+  {
+    "club": "Sloguh",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/Sloguh - U10SW.txt",
+    "ics": "./output/by_team_division/Sloguh - U10SW.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U10SC",
+    "txt": "./output/by_team_division/Slough - U10SC.txt",
+    "ics": "./output/by_team_division/Slough - U10SC.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/Slough - U10SW.txt",
+    "ics": "./output/by_team_division/Slough - U10SW.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Slough - U12S1.txt",
+    "ics": "./output/by_team_division/Slough - U12S1.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Slough - U12S2.txt",
+    "ics": "./output/by_team_division/Slough - U12S2.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Slough - U14S1.txt",
+    "ics": "./output/by_team_division/Slough - U14S1.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Slough - U14S2.txt",
+    "ics": "./output/by_team_division/Slough - U14S2.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Slough - U16S1.txt",
+    "ics": "./output/by_team_division/Slough - U16S1.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Slough - U19Nat.txt",
+    "ics": "./output/by_team_division/Slough - U19Nat.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "WNIHL2Sa",
+    "txt": "./output/by_team_division/Slough - WNIHL2Sa.txt",
+    "ics": "./output/by_team_division/Slough - WNIHL2Sa.ics"
+  },
+  {
+    "club": "Slough",
+    "ageDivision": "WNIHL2Sb",
+    "txt": "./output/by_team_division/Slough - WNIHL2Sb.txt",
+    "ics": "./output/by_team_division/Slough - WNIHL2Sb.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "FWCS",
+    "txt": "./output/by_team_division/Solent - FWCS.txt",
+    "ics": "./output/by_team_division/Solent - FWCS.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "U10SC",
+    "txt": "./output/by_team_division/Solent - U10SC.txt",
+    "ics": "./output/by_team_division/Solent - U10SC.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Solent - U12S2.txt",
+    "ics": "./output/by_team_division/Solent - U12S2.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Solent - U14S2.txt",
+    "ics": "./output/by_team_division/Solent - U14S2.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Solent - U16S2.txt",
+    "ics": "./output/by_team_division/Solent - U16S2.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "U19S2",
+    "txt": "./output/by_team_division/Solent - U19S2.txt",
+    "ics": "./output/by_team_division/Solent - U19S2.ics"
+  },
+  {
+    "club": "Solent",
+    "ageDivision": "WNIHL2Sa",
+    "txt": "./output/by_team_division/Solent - WNIHL2Sa.txt",
+    "ics": "./output/by_team_division/Solent - WNIHL2Sa.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U10NS",
+    "txt": "./output/by_team_division/Solihull - U10NS.txt",
+    "ics": "./output/by_team_division/Solihull - U10NS.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Solihull - U12N1.txt",
+    "ics": "./output/by_team_division/Solihull - U12N1.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Solihull - U12N2.txt",
+    "ics": "./output/by_team_division/Solihull - U12N2.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Solihull - U14N1.txt",
+    "ics": "./output/by_team_division/Solihull - U14N1.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Solihull - U14N2.txt",
+    "ics": "./output/by_team_division/Solihull - U14N2.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Solihull - U16N1.txt",
+    "ics": "./output/by_team_division/Solihull - U16N1.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Solihull - U16N2.txt",
+    "ics": "./output/by_team_division/Solihull - U16N2.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Solihull - U19N1.txt",
+    "ics": "./output/by_team_division/Solihull - U19N1.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Solihull - U19N2.txt",
+    "ics": "./output/by_team_division/Solihull - U19N2.ics"
+  },
+  {
+    "club": "Solihull",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Solihull - WElite.txt",
+    "ics": "./output/by_team_division/Solihull - WElite.ics"
+  },
+  {
+    "club": "Solway",
+    "ageDivision": "WNIHL1N",
+    "txt": "./output/by_team_division/Solway - WNIHL1N.txt",
+    "ics": "./output/by_team_division/Solway - WNIHL1N.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "FWCS",
+    "txt": "./output/by_team_division/Streatham - FWCS.txt",
+    "ics": "./output/by_team_division/Streatham - FWCS.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U10LE",
+    "txt": "./output/by_team_division/Streatham - U10LE.txt",
+    "ics": "./output/by_team_division/Streatham - U10LE.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U10SE",
+    "txt": "./output/by_team_division/Streatham - U10SE.txt",
+    "ics": "./output/by_team_division/Streatham - U10SE.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Streatham - U12S1.txt",
+    "ics": "./output/by_team_division/Streatham - U12S1.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U12S2",
+    "txt": "./output/by_team_division/Streatham - U12S2.txt",
+    "ics": "./output/by_team_division/Streatham - U12S2.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Streatham - U14S1.txt",
+    "ics": "./output/by_team_division/Streatham - U14S1.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Streatham - U16S1.txt",
+    "ics": "./output/by_team_division/Streatham - U16S1.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Streatham - U19S1.txt",
+    "ics": "./output/by_team_division/Streatham - U19S1.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/Streatham - WElite.txt",
+    "ics": "./output/by_team_division/Streatham - WElite.ics"
+  },
+  {
+    "club": "Streatham",
+    "ageDivision": "WNIHL2Sa",
+    "txt": "./output/by_team_division/Streatham - WNIHL2Sa.txt",
+    "ics": "./output/by_team_division/Streatham - WNIHL2Sa.ics"
+  },
+  {
+    "club": "Sutton",
+    "ageDivision": "U10NC",
+    "txt": "./output/by_team_division/Sutton - U10NC.txt",
+    "ics": "./output/by_team_division/Sutton - U10NC.ics"
+  },
+  {
+    "club": "Sutton",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Sutton - U12N2.txt",
+    "ics": "./output/by_team_division/Sutton - U12N2.ics"
+  },
+  {
+    "club": "Sutton",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Sutton - U14N2.txt",
+    "ics": "./output/by_team_division/Sutton - U14N2.ics"
+  },
+  {
+    "club": "Sutton",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Sutton - U16N2.txt",
+    "ics": "./output/by_team_division/Sutton - U16N2.ics"
+  },
+  {
+    "club": "Sutton",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Sutton - U19N2.txt",
+    "ics": "./output/by_team_division/Sutton - U19N2.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U10SC",
+    "txt": "./output/by_team_division/Swindon - U10SC.txt",
+    "ics": "./output/by_team_division/Swindon - U10SC.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U10SW",
+    "txt": "./output/by_team_division/Swindon - U10SW.txt",
+    "ics": "./output/by_team_division/Swindon - U10SW.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U12S1",
+    "txt": "./output/by_team_division/Swindon - U12S1.txt",
+    "ics": "./output/by_team_division/Swindon - U12S1.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U14S1",
+    "txt": "./output/by_team_division/Swindon - U14S1.txt",
+    "ics": "./output/by_team_division/Swindon - U14S1.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U14S2",
+    "txt": "./output/by_team_division/Swindon - U14S2.txt",
+    "ics": "./output/by_team_division/Swindon - U14S2.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/Swindon - U16GS.txt",
+    "ics": "./output/by_team_division/Swindon - U16GS.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U16S1",
+    "txt": "./output/by_team_division/Swindon - U16S1.txt",
+    "ics": "./output/by_team_division/Swindon - U16S1.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U16S2",
+    "txt": "./output/by_team_division/Swindon - U16S2.txt",
+    "ics": "./output/by_team_division/Swindon - U16S2.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U19Nat",
+    "txt": "./output/by_team_division/Swindon - U19Nat.txt",
+    "ics": "./output/by_team_division/Swindon - U19Nat.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "U19S1",
+    "txt": "./output/by_team_division/Swindon - U19S1.txt",
+    "ics": "./output/by_team_division/Swindon - U19S1.ics"
+  },
+  {
+    "club": "Swindon",
+    "ageDivision": "WNIHL1S",
+    "txt": "./output/by_team_division/Swindon - WNIHL1S.txt",
+    "ics": "./output/by_team_division/Swindon - WNIHL1S.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "U10NS",
+    "txt": "./output/by_team_division/Telford - U10NS.txt",
+    "ics": "./output/by_team_division/Telford - U10NS.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/Telford - U12N2.txt",
+    "ics": "./output/by_team_division/Telford - U12N2.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/Telford - U14N1.txt",
+    "ics": "./output/by_team_division/Telford - U14N1.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "U16GS",
+    "txt": "./output/by_team_division/Telford - U16GS.txt",
+    "ics": "./output/by_team_division/Telford - U16GS.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Telford - U16N2.txt",
+    "ics": "./output/by_team_division/Telford - U16N2.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Telford - U19N1.txt",
+    "ics": "./output/by_team_division/Telford - U19N1.ics"
+  },
+  {
+    "club": "Telford",
+    "ageDivision": "WNIHL2Na",
+    "txt": "./output/by_team_division/Telford - WNIHL2Na.txt",
+    "ics": "./output/by_team_division/Telford - WNIHL2Na.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "U10NE",
+    "txt": "./output/by_team_division/WhitleyBay - U10NE.txt",
+    "ics": "./output/by_team_division/WhitleyBay - U10NE.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "U12N2",
+    "txt": "./output/by_team_division/WhitleyBay - U12N2.txt",
+    "ics": "./output/by_team_division/WhitleyBay - U12N2.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "U14N1",
+    "txt": "./output/by_team_division/WhitleyBay - U14N1.txt",
+    "ics": "./output/by_team_division/WhitleyBay - U14N1.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "U16GN",
+    "txt": "./output/by_team_division/WhitleyBay - U16GN.txt",
+    "ics": "./output/by_team_division/WhitleyBay - U16GN.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/WhitleyBay - U16N1.txt",
+    "ics": "./output/by_team_division/WhitleyBay - U16N1.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/WhitleyBay - U19N1.txt",
+    "ics": "./output/by_team_division/WhitleyBay - U19N1.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "WElite",
+    "txt": "./output/by_team_division/WhitleyBay - WElite.txt",
+    "ics": "./output/by_team_division/WhitleyBay - WElite.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "WNIHL1N",
+    "txt": "./output/by_team_division/WhitleyBay - WNIHL1N.txt",
+    "ics": "./output/by_team_division/WhitleyBay - WNIHL1N.ics"
+  },
+  {
+    "club": "WhitleyBay",
+    "ageDivision": "WNIHL2Nb",
+    "txt": "./output/by_team_division/WhitleyBay - WNIHL2Nb.txt",
+    "ics": "./output/by_team_division/WhitleyBay - WNIHL2Nb.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U10NW",
+    "txt": "./output/by_team_division/Widnes - U10NW.txt",
+    "ics": "./output/by_team_division/Widnes - U10NW.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U12N1",
+    "txt": "./output/by_team_division/Widnes - U12N1.txt",
+    "ics": "./output/by_team_division/Widnes - U12N1.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U14N2",
+    "txt": "./output/by_team_division/Widnes - U14N2.txt",
+    "ics": "./output/by_team_division/Widnes - U14N2.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U16N1",
+    "txt": "./output/by_team_division/Widnes - U16N1.txt",
+    "ics": "./output/by_team_division/Widnes - U16N1.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U16N2",
+    "txt": "./output/by_team_division/Widnes - U16N2.txt",
+    "ics": "./output/by_team_division/Widnes - U16N2.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U19N1",
+    "txt": "./output/by_team_division/Widnes - U19N1.txt",
+    "ics": "./output/by_team_division/Widnes - U19N1.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "U19N2",
+    "txt": "./output/by_team_division/Widnes - U19N2.txt",
+    "ics": "./output/by_team_division/Widnes - U19N2.ics"
+  },
+  {
+    "club": "Widnes",
+    "ageDivision": "WNIHL1N",
+    "txt": "./output/by_team_division/Widnes - WNIHL1N.txt",
+    "ics": "./output/by_team_division/Widnes - WNIHL1N.ics"
   }
 ]

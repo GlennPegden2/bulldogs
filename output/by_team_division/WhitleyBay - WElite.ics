@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Kingston
 DTSTART:20260920T120000
 DTEND:20260920T140000
-UID:7ae99084-843f-48a1-a986-199fe64b91c5
+UID:4437d662-292c-4b8b-b21e-d7cbbe28acec
 DESCRIPTION:Home: WhitleyBay\nAway: Kingston\nRink: WhitleyBay\nDivision: 
  WElite
 LOCATION:WhitleyBay
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Guildford
 DTSTART:20261018T120000
 DTEND:20261018T140000
-UID:ff0fd0d0-e0c1-4739-8ff7-f2f2a7e9f086
+UID:36d9a809-1205-4cce-a527-81f3181e4293
 DESCRIPTION:Home: WhitleyBay\nAway: Guildford\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Queenbees vs WhitleyBay
 DTSTART:20261025T180000
 DTEND:20261025T200000
-UID:e3ef1757-38b6-43b1-9f32-772453477543
+UID:d5b7d809-aafb-4069-a2d1-9f6934997273
 DESCRIPTION:Home: Queenbees\nAway: WhitleyBay\nRink: Slough\nDivision: WEl
  ite
 LOCATION:Slough
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Caledonia
 DTSTART:20261122T120000
 DTEND:20261122T140000
-UID:4d43c18e-c5b7-4233-9a13-3ea239564ef6
+UID:3b00c126-cefb-4a4f-bbde-8322ecd160d6
 DESCRIPTION:Home: WhitleyBay\nAway: Caledonia\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Solihull
 DTSTART:20261129T170000
 DTEND:20261129T190000
-UID:f73ad155-f732-412d-a279-75aed2a4eec5
+UID:2eb49ac0-bb7a-4400-a464-c26fbafa24a8
 DESCRIPTION:Home: WhitleyBay\nAway: Solihull\nRink: WhitleyBay\nDivision: 
  WElite
 LOCATION:WhitleyBay
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs WhitleyBay
 DTSTART:20261213T193000
 DTEND:20261213T213000
-UID:e794b286-7a7a-45f6-a67d-7e63b6801ec1
+UID:cdec1710-6082-4ba1-8f6d-eec1fd7c6cd4
 DESCRIPTION:Home: Caledonia\nAway: WhitleyBay\nRink: Murrayfield\nDivision
  : WElite
 LOCATION:Murrayfield
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Queenbees
 DTSTART:20270117T170000
 DTEND:20270117T190000
-UID:1941d333-2d45-429d-8519-0fb162dddaec
+UID:c8dfd8b2-cbc0-4f66-8aed-52ca6525f123
 DESCRIPTION:Home: WhitleyBay\nAway: Queenbees\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Queenbees vs WhitleyBay
 DTSTART:20270123T130000
 DTEND:20270123T150000
-UID:e2b26c44-5702-46e8-ab40-9e1d9f30dc1d
+UID:5a10cac5-fa03-4f96-a983-3af6868be0dc
 DESCRIPTION:Home: Queenbees\nAway: WhitleyBay\nRink: Slough\nDivision: WEl
  ite
 LOCATION:Slough
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs WhitleyBay
 DTSTART:20270130T184500
 DTEND:20270130T204500
-UID:782b79a7-9f3d-4201-883a-e022ce5836d3
+UID:d96ff857-abfd-4ab6-b469-6f4b3a71902b
 DESCRIPTION:Home: Guildford\nAway: WhitleyBay\nRink: Guildford\nDivision: 
  WElite
 LOCATION:Guildford
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Bristol
 DTSTART:20270221T120000
 DTEND:20270221T140000
-UID:37eeaa20-0a24-4376-970a-1efb8d7b483b
+UID:effd642f-453c-4f55-9c65-dbd715f9f5b3
 DESCRIPTION:Home: WhitleyBay\nAway: Bristol\nRink: WhitleyBay\nDivision: W
  Elite
 LOCATION:WhitleyBay
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Queenbees
 DTSTART:20270314T120000
 DTEND:20270314T140000
-UID:e62b00a6-3961-476d-a041-e8426828aa13
+UID:42a58415-ad35-4d0f-9d3f-a2ae7e70fabe
 DESCRIPTION:Home: WhitleyBay\nAway: Queenbees\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs WhitleyBay
 DTSTART:20270320T123000
 DTEND:20270320T143000
-UID:10b80743-a63b-4188-b4b8-519bff0f9b8a
+UID:58242ffe-9f81-47c2-9f8c-dd189894ab81
 DESCRIPTION:Home: Kingston\nAway: WhitleyBay\nRink: Kingston\nDivision: WE
  lite
 LOCATION:Kingston
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Guildford
 DTSTART:20270328T120000
 DTEND:20270328T140000
-UID:d0c10765-e9b6-4a2d-91bf-0ed552e0adc2
+UID:640cc41e-f3f3-49c1-b872-55639e6ae591
 DESCRIPTION:Home: WhitleyBay\nAway: Guildford\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Streatham
 DTSTART:20270404T120000
 DTEND:20270404T140000
-UID:a393706f-3655-44cd-848b-9de5a27aaad0
+UID:037c5f26-96c6-4a85-b5bd-f3b316f09ce3
 DESCRIPTION:Home: WhitleyBay\nAway: Streatham\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs WhitleyBay
 DTSTART:20270411T163000
 DTEND:20270411T183000
-UID:9b965af6-d2f4-4a43-81a6-4e676bd36d2e
+UID:3c98b921-36cf-43d7-9e7d-a43f80b22ed1
 DESCRIPTION:Home: Streatham\nAway: WhitleyBay\nRink: Streatham\nDivision: 
  WElite
 LOCATION:Streatham
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs WhitleyBay
 DTSTART:20270424T174500
 DTEND:20270424T194500
-UID:38838224-0eea-4b8c-99e7-cced708f037f
+UID:dce3ccd1-0bbf-49e6-bc82-b7d6f9fd92f6
 DESCRIPTION:Home: Solihull\nAway: WhitleyBay\nRink: Solihull\nDivision: WE
  lite
 LOCATION:Solihull
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Solihull
 DTSTART:20270509T170000
 DTEND:20270509T190000
-UID:d0f01e86-afff-47b5-b2b5-6787ed42045d
+UID:6b90f437-f964-4cc9-a506-23885ed34fb5
 DESCRIPTION:Home: WhitleyBay\nAway: Solihull\nRink: WhitleyBay\nDivision: 
  WElite
 LOCATION:WhitleyBay
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs WhitleyBay
 DTSTART:20270515T184500
 DTEND:20270515T204500
-UID:fe50fa6d-69e3-483a-abc0-455bac52e097
+UID:f00ec66b-0a0b-46a5-93fd-6aa96571f25f
 DESCRIPTION:Home: Guildford\nAway: WhitleyBay\nRink: Guildford\nDivision: 
  WElite
 LOCATION:Guildford
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs WhitleyBay
 DTSTART:20270516T174500
 DTEND:20270516T194500
-UID:fc1ab4ef-a4c5-4fa3-be1d-d81d0d4630fb
+UID:20969014-1372-4f60-b0e2-f12053799fe8
 DESCRIPTION:Home: Solihull\nAway: WhitleyBay\nRink: Solihull\nDivision: WE
  lite
 LOCATION:Solihull

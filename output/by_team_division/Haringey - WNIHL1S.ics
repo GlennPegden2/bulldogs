@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs MiltonKeynes
 DTSTART:20260912T143000
 DTEND:20260912T163000
-UID:10521721-7e4b-4c69-99de-eda89b115238
+UID:cba71b2b-101d-4fc0-91cb-5a4a727fddb3
 DESCRIPTION:Home: Haringey\nAway: MiltonKeynes\nRink: Haringey\nDivision: 
  WNIHL1S
 LOCATION:Haringey
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Firebees
 DTSTART:20260919T183000
 DTEND:20260919T203000
-UID:3e05ad8e-128e-4466-ad47-97c212408fb2
+UID:bce42d1f-cc82-48f7-8c41-8f464fdb15a8
 DESCRIPTION:Home: Haringey\nAway: Firebees\nRink: Haringey\nDivision: WNIH
  L1S
 LOCATION:Haringey
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Firebees vs Haringey
 DTSTART:20260926T130000
 DTEND:20260926T150000
-UID:8fe87288-ff51-4ee7-b42f-acb2984a56e5
+UID:1ae84828-6119-4be5-bdb8-e7fc3342a350
 DESCRIPTION:Home: Firebees\nAway: Haringey\nRink: Slough\nDivision: WNIHL1
  S
 LOCATION:Slough
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Haringey
 DTSTART:20261018T121500
 DTEND:20261018T141500
-UID:eda1bf80-c71d-4bf3-b2be-85886e9079f4
+UID:64650f43-c21d-4c1b-8f84-a320fdafbbce
 DESCRIPTION:Home: Chelmsford\nAway: Haringey\nRink: Chelmsford\nDivision: 
  WNIHL1S
 LOCATION:Chelmsford
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Haringey
 DTSTART:20261101T121500
 DTEND:20261101T141500
-UID:10d2b2df-bbc2-4479-98aa-f89dd029cdc8
+UID:6326d10b-85ff-4a6a-be40-b3a8fcadee7c
 DESCRIPTION:Home: Chelmsford\nAway: Haringey\nRink: Chelmsford\nDivision: 
  WNIHL1S
 LOCATION:Chelmsford
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Haringey
 DTSTART:20261114T161500
 DTEND:20261114T181500
-UID:98815546-beb8-4cb8-ab7b-faa0f92c3074
+UID:b0b9e0b7-0256-45af-9f7a-4a8150695bd1
 DESCRIPTION:Home: Cambridge\nAway: Haringey\nRink: Cambridge\nDivision: WN
  IHL1S
 LOCATION:Cambridge
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Firebees vs Haringey
 DTSTART:20261121T130000
 DTEND:20261121T150000
-UID:116cafd2-a859-4371-9fd5-5a82e14942b0
+UID:789a65db-e55e-4374-9afb-3b24e609940d
 DESCRIPTION:Home: Firebees\nAway: Haringey\nRink: Slough\nDivision: WNIHL1
  S
 LOCATION:Slough
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Haringey
 DTSTART:20261128T183000
 DTEND:20261128T203000
-UID:82d3c8ca-6a5f-4ea0-987f-8bc58d3713cd
+UID:3de6dc66-2735-408f-9a82-8990e56b225d
 DESCRIPTION:Home: Cambridge\nAway: Haringey\nRink: Cambridge\nDivision: WN
  IHL1S
 LOCATION:Cambridge
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Haringey
 DTSTART:20261206T131000
 DTEND:20261206T151000
-UID:68655db7-2dc9-4ae5-b4f9-38cbf65e2793
+UID:0da1ef18-bd7b-45cb-9b13-00115c9fcd5f
 DESCRIPTION:Home: Swindon\nAway: Haringey\nRink: Swindon\nDivision: WNIHL1
  S
 LOCATION:Swindon
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Cambridge
 DTSTART:20270123T183000
 DTEND:20270123T203000
-UID:7e579cd3-5742-49af-9804-1ecf19c1156e
+UID:2ef137c7-344d-424a-addc-5c5ef0c615ee
 DESCRIPTION:Home: Haringey\nAway: Cambridge\nRink: Haringey\nDivision: WNI
  HL1S
 LOCATION:Haringey
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Chelmsford
 DTSTART:20270130T183000
 DTEND:20270130T203000
-UID:fc49b5ac-989e-4a06-a2ef-0407225610a3
+UID:975e4c88-2af1-44d1-b03e-bbba4de30887
 DESCRIPTION:Home: Haringey\nAway: Chelmsford\nRink: Haringey\nDivision: WN
  IHL1S
 LOCATION:Haringey
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:MiltonKeynes vs Haringey
 DTSTART:20270131T181500
 DTEND:20270131T201500
-UID:480003b1-a352-4568-b3c8-f3a2afab8625
+UID:2f70dd3b-be95-45b4-aff2-6372d1436cc5
 DESCRIPTION:Home: MiltonKeynes\nAway: Haringey\nRink: MiltonKeynes\nDivisi
  on: WNIHL1S
 LOCATION:MiltonKeynes
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Swindon
 DTSTART:20270213T183000
 DTEND:20270213T203000
-UID:6ae923fd-a936-46d7-a7fc-9e1a5b3b6675
+UID:16e113c9-f8e5-4ee5-95a3-e940185363e0
 DESCRIPTION:Home: Haringey\nAway: Swindon\nRink: Haringey\nDivision: WNIHL
  1S
 LOCATION:Haringey
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Swindon
 DTSTART:20270227T183000
 DTEND:20270227T203000
-UID:52b58f9b-c4c1-482d-b2ec-30cdd4cddec8
+UID:fb61ab62-128d-4e7a-90c0-f793002b2299
 DESCRIPTION:Home: Haringey\nAway: Swindon\nRink: Haringey\nDivision: WNIHL
  1S
 LOCATION:Haringey
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Haringey
 DTSTART:20270306T131000
 DTEND:20270306T151000
-UID:1e2d2984-a955-44c9-a7cb-f6ee65e51cb5
+UID:3f04230c-cf2b-469f-a0fa-952e4ddecc80
 DESCRIPTION:Home: Swindon\nAway: Haringey\nRink: Swindon\nDivision: WNIHL1
  S
 LOCATION:Swindon
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Cambridge
 DTSTART:20270410T183000
 DTEND:20270410T203000
-UID:0a2f4e75-add6-4112-9b90-7a4aec90b524
+UID:8cd94907-fc21-4688-a365-37e7a0e70089
 DESCRIPTION:Home: Haringey\nAway: Cambridge\nRink: Haringey\nDivision: WNI
  HL1S
 LOCATION:Haringey
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Firebees
 DTSTART:20270417T183000
 DTEND:20270417T203000
-UID:2e744556-82d1-4a96-9894-bc1cc6c79fe4
+UID:ae3cf815-038c-4774-b06a-41b50d8895d4
 DESCRIPTION:Home: Haringey\nAway: Firebees\nRink: Haringey\nDivision: WNIH
  L1S
 LOCATION:Haringey
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs MiltonKeynes
 DTSTART:20270424T183000
 DTEND:20270424T203000
-UID:304ed3ab-a333-4339-b4ed-f714cfcc5712
+UID:ef961189-43fa-48fc-8a5b-28ffacccc7fb
 DESCRIPTION:Home: Haringey\nAway: MiltonKeynes\nRink: Haringey\nDivision: 
  WNIHL1S
 LOCATION:Haringey
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Chelmsford
 DTSTART:20270501T183000
 DTEND:20270501T203000
-UID:643bd2cc-f859-42da-a6ab-0d9361a1f3e3
+UID:2945236a-c4d2-41a0-b301-2a05235528a3
 DESCRIPTION:Home: Haringey\nAway: Chelmsford\nRink: Haringey\nDivision: WN
  IHL1S
 LOCATION:Haringey
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:MiltonKeynes vs Haringey
 DTSTART:20270516T181500
 DTEND:20270516T201500
-UID:3b8c668f-a580-4871-8484-4b6300903e51
+UID:10fcb0ee-a753-4f84-bf99-c93ffed7b85c
 DESCRIPTION:Home: MiltonKeynes\nAway: Haringey\nRink: MiltonKeynes\nDivisi
  on: WNIHL1S
 LOCATION:MiltonKeynes

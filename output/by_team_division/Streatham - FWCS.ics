@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Solent
 DTSTART:20260919T184500
 DTEND:20260919T204500
-UID:fb5578a9-9856-4e78-825d-54b213eb59dd
+UID:4558ee6d-9dc5-475c-9af5-f84c2ee94c41
 DESCRIPTION:Home: Streatham\nAway: Solent\nRink: Streatham\nDivision: FWCS
 LOCATION:Streatham
 END:VEVENT
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs LeeValley
 DTSTART:20261121T184500
 DTEND:20261121T204500
-UID:7006c53d-ce93-43d2-9318-6b7f088c7ee5
+UID:ebae4dea-69ef-4e69-ae13-71d3b0ea411a
 DESCRIPTION:Home: Streatham\nAway: LeeValley\nRink: Streatham\nDivision: F
  WCS
 LOCATION:Streatham
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:LeeValley vs Streatham
 DTSTART:20261212T140000
 DTEND:20261212T160000
-UID:31d6773c-1e30-42b6-ad64-8b866c5aa9d0
+UID:3d142c96-b69c-4b4e-b6bc-324b061989d9
 DESCRIPTION:Home: LeeValley\nAway: Streatham\nRink: LeeValley\nDivision: F
  WCS
 LOCATION:LeeValley
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Solent vs Streatham
 DTSTART:20270214T180000
 DTEND:20270214T200000
-UID:2c8d8a47-2cdd-4c02-ab4c-43507608a303
+UID:8f601600-f2c4-46d3-a6fe-457c73e8706b
 DESCRIPTION:Home: Solent\nAway: Streatham\nRink: Solent\nDivision: FWCS
 LOCATION:Solent
 END:VEVENT
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Invicta vs Streatham
 DTSTART:20270227T164500
 DTEND:20270227T184500
-UID:bdc76a85-b070-46f4-9fb2-0cf691704131
+UID:efb270e6-ced7-4a34-b7d1-ebe8abf79eb6
 DESCRIPTION:Home: Invicta\nAway: Streatham\nRink: Invicta\nDivision: FWCS
 LOCATION:Invicta
 END:VEVENT
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Invicta
 DTSTART:20270411T184500
 DTEND:20270411T204500
-UID:8b8ea667-bc45-4329-b103-b8cb261b26d5
+UID:19b6972f-bbbc-499c-a7b0-84893dd797c5
 DESCRIPTION:Home: Streatham\nAway: Invicta\nRink: Streatham\nDivision: FWC
  S
 LOCATION:Streatham
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Chelmsford
 DTSTART:20270418T163000
 DTEND:20270418T183000
-UID:64aa5a57-e8a2-47fd-83a3-e5ab803cae59
+UID:706a8ed2-4c85-4760-bb96-c75b97dad8d7
 DESCRIPTION:Home: Streatham\nAway: Chelmsford\nRink: Streatham\nDivision: 
  FWCS
 LOCATION:Streatham
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Streatham
 DTSTART:20270516T121500
 DTEND:20270516T141500
-UID:bd2ba5f6-d28f-47cb-a36c-685aca55f0fb
+UID:7bfbb965-f4ae-4f34-bd30-767a0b1313f5
 DESCRIPTION:Home: Chelmsford\nAway: Streatham\nRink: Chelmsford\nDivision:
   FWCS
 LOCATION:Chelmsford

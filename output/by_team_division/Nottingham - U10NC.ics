@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Bradford
 DTSTART:20270417T165000
 DTEND:20270417T185000
-UID:fb49c53c-f79e-4bb7-afc4-5ca9ded937bd
+UID:c7c0afb6-cf57-45cf-8d7e-0e681def64c1
 DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
  U10NC
 LOCATION:Nottingham
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Bradford
 DTSTART:20270509T165000
 DTEND:20270509T185000
-UID:371cbad2-74c5-4274-b535-b68fa2877504
+UID:97162c9a-d804-43ce-9ff2-e313e643c4ba
 DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
  U10NC
 LOCATION:Nottingham
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Bradford
 DTSTART:20270523T165000
 DTEND:20270523T185000
-UID:fdf75f65-1803-430b-a6a0-8c87a939ad67
+UID:41be3460-735e-4150-a2d7-61d619ea73a1
 DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
  U10NC
 LOCATION:Nottingham

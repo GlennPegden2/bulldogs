@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Bristol
 DTSTART:20260920T184500
 DTEND:20260920T204500
-UID:0e4a313d-4402-47b8-b8d0-03dc36d5472d
+UID:b5ec0a18-db54-4d93-b542-1ac44d5567a4
 DESCRIPTION:Home: Guildford\nAway: Bristol\nRink: Guildford\nDivision: WEl
  ite
 LOCATION:Guildford
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Guildford
 DTSTART:20261003T121500
 DTEND:20261003T141500
-UID:2e7f71c6-e5c9-4784-85fc-d45c9688741b
+UID:4585514c-86b7-497c-ba83-0180b3da4f67
 DESCRIPTION:Home: Caledonia\nAway: Guildford\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Guildford
 DTSTART:20261018T120000
 DTEND:20261018T140000
-UID:91c45b2e-f32d-491c-8ce4-b3928600ce0f
+UID:b9921c12-8085-4040-ad51-85a122fc0467
 DESCRIPTION:Home: WhitleyBay\nAway: Guildford\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Streatham
 DTSTART:20261025T184500
 DTEND:20261025T204500
-UID:519805fb-e7c4-4191-82bb-8705ee6e9363
+UID:f3831dd1-4829-4363-9262-bccd323feca9
 DESCRIPTION:Home: Guildford\nAway: Streatham\nRink: Guildford\nDivision: W
  Elite
 LOCATION:Guildford
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Solihull
 DTSTART:20261108T184500
 DTEND:20261108T204500
-UID:780fd03a-9494-4dc9-958e-70039940ee4e
+UID:f94faf76-1cb3-45a8-a5e0-c884149c50cb
 DESCRIPTION:Home: Guildford\nAway: Solihull\nRink: Guildford\nDivision: WE
  lite
 LOCATION:Guildford
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Queenbees vs Guildford
 DTSTART:20261114T130000
 DTEND:20261114T150000
-UID:bfcf1ac2-481a-4091-944e-5fb01d2ca00e
+UID:7f91d595-564a-475d-b1ea-ce58150d72f2
 DESCRIPTION:Home: Queenbees\nAway: Guildford\nRink: Slough\nDivision: WEli
  te
 LOCATION:Slough
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Guildford
 DTSTART:20261220T173000
 DTEND:20261220T193000
-UID:d7ca27f6-77a6-42de-a076-e7fc57e063bc
+UID:0e07b4fa-3ee8-4d7b-b4ac-072ee60f2835
 DESCRIPTION:Home: Bristol\nAway: Guildford\nRink: Bristol\nDivision: WElit
  e
 LOCATION:Bristol
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs WhitleyBay
 DTSTART:20270130T184500
 DTEND:20270130T204500
-UID:053524b4-ce21-46e2-a4c3-2892c9573984
+UID:663fcc45-f5a3-40cf-8662-5562e8062dd6
 DESCRIPTION:Home: Guildford\nAway: WhitleyBay\nRink: Guildford\nDivision: 
  WElite
 LOCATION:Guildford
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Kingston
 DTSTART:20270206T190000
 DTEND:20270206T210000
-UID:5ed4c5c5-6001-4436-8fb6-48027ccb5b5d
+UID:a970e3b8-d98c-40b1-bacb-ec05582e55f7
 DESCRIPTION:Home: Guildford\nAway: Kingston\nRink: Guildford\nDivision: WE
  lite
 LOCATION:Guildford
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Guildford
 DTSTART:20270228T170000
 DTEND:20270228T190000
-UID:03c343c5-2c12-461a-a4e8-dd582d78e412
+UID:72ddf017-c502-4a66-97eb-ec7a4dfaa975
 DESCRIPTION:Home: Solihull\nAway: Guildford\nRink: Solihull\nDivision: WEl
  ite
 LOCATION:Solihull
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Guildford
 DTSTART:20270307T163000
 DTEND:20270307T183000
-UID:d097d5fc-560c-42fc-a659-ca03bfbf22c1
+UID:ec1f8053-859e-4b00-b3ed-16cf3b51bd5e
 DESCRIPTION:Home: Streatham\nAway: Guildford\nRink: Streatham\nDivision: W
  Elite
 LOCATION:Streatham
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Guildford
 DTSTART:20270314T123000
 DTEND:20270314T143000
-UID:74b4af64-e7c3-4763-8297-1096e485ef2a
+UID:b5863b98-987c-438f-861e-5fa8410b1f42
 DESCRIPTION:Home: Kingston\nAway: Guildford\nRink: Kingston\nDivision: WEl
  ite
 LOCATION:Kingston
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Guildford
 DTSTART:20270328T120000
 DTEND:20270328T140000
-UID:489b4910-f74f-4c09-ab7a-4151bd190ff5
+UID:957ba2df-1466-4904-94c4-7c3aa7622bde
 DESCRIPTION:Home: WhitleyBay\nAway: Guildford\nRink: WhitleyBay\nDivision:
   WElite
 LOCATION:WhitleyBay
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Guildford
 DTSTART:20270410T174500
 DTEND:20270410T194500
-UID:95f7af19-4a4a-41ef-838f-517d45feb1cc
+UID:eb5ebf63-5a86-4a80-9374-7fa6427543bc
 DESCRIPTION:Home: Solihull\nAway: Guildford\nRink: Solihull\nDivision: WEl
  ite
 LOCATION:Solihull
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Solihull
 DTSTART:20270417T184500
 DTEND:20270417T204500
-UID:b8a629d2-00c5-460e-a654-9459bb659813
+UID:74ae9615-ae72-48ae-8daf-8e8e6738e962
 DESCRIPTION:Home: Guildford\nAway: Solihull\nRink: Guildford\nDivision: WE
  lite
 LOCATION:Guildford
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Queenbees vs Guildford
 DTSTART:20270418T170000
 DTEND:20270418T190000
-UID:7cb9ea54-2e96-4248-b603-f215c6636c53
+UID:c986c1a0-b994-4c64-8d2e-21c05e5797dc
 DESCRIPTION:Home: Queenbees\nAway: Guildford\nRink: Slough\nDivision: WEli
  te
 LOCATION:Slough
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Queenbees
 DTSTART:20270424T184500
 DTEND:20270424T204500
-UID:e73c747c-dc08-42a8-831f-c403867484fd
+UID:60d30c21-351d-4d5c-977f-1a31b4909851
 DESCRIPTION:Home: Guildford\nAway: Queenbees\nRink: Guildford\nDivision: W
  Elite
 LOCATION:Guildford
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Queenbees
 DTSTART:20270425T184500
 DTEND:20270425T204500
-UID:e6c7ab23-cde3-4373-b6d4-f51bef5ec19f
+UID:285333f1-1932-4db8-b010-9b6223d8f774
 DESCRIPTION:Home: Guildford\nAway: Queenbees\nRink: Guildford\nDivision: W
  Elite
 LOCATION:Guildford
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Caledonia
 DTSTART:20270508T184500
 DTEND:20270508T204500
-UID:18866239-5f09-4cad-8c75-5e6d05f16e1b
+UID:270c0108-65a5-4243-b840-d394a31e95d4
 DESCRIPTION:Home: Guildford\nAway: Caledonia\nRink: Guildford\nDivision: W
  Elite
 LOCATION:Guildford
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs WhitleyBay
 DTSTART:20270515T184500
 DTEND:20270515T204500
-UID:d65945f7-dec4-4bf9-ace8-cf0745e95f11
+UID:c95efa7d-1c0f-4bbb-bd65-530831e789bc
 DESCRIPTION:Home: Guildford\nAway: WhitleyBay\nRink: Guildford\nDivision: 
  WElite
 LOCATION:Guildford

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Bradford
 DTSTART:20260906T164000
 DTEND:20260906T184000
-UID:47e2870d-a1f3-4003-ae38-b9427b491bcd
+UID:bfd5b6e2-8ccc-4e57-b62c-208449ad5428
 DESCRIPTION:Home: Sheffield\nAway: Bradford\nRink: Sheffield\nDivision: U1
  0NC
 LOCATION:Sheffield
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Bradford
 DTSTART:20260927T164000
 DTEND:20260927T184000
-UID:0b69c482-74a4-4f6e-a42d-eb86118c1c90
+UID:4fef98f1-8d97-4c0b-ae55-8c8d9881189d
 DESCRIPTION:Home: Sheffield\nAway: Bradford\nRink: Sheffield\nDivision: U1
  0NC
 LOCATION:Sheffield
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Sheffield vs Bradford
 DTSTART:20261115T124000
 DTEND:20261115T144000
-UID:e1cc0d52-02fa-4fd0-b2aa-e8e93a32e27d
+UID:e51ae229-0d53-41a5-acff-8f777098994b
 DESCRIPTION:Home: Sheffield\nAway: Bradford\nRink: Sheffield\nDivision: U1
  0NC
 LOCATION:Sheffield

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs WhitleyBay
 DTSTART:20260920T193000
 DTEND:20260920T213000
-UID:26dd14dd-e13e-49b1-b6da-36cc803c6f00
+UID:55d5fba5-a78e-40b8-a59e-7c976defc9d9
 DESCRIPTION:Home: Manchester\nAway: WhitleyBay\nRink: Manchester\nDivision
  : U19N1
 LOCATION:Manchester
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Nottingham
 DTSTART:20260927T193000
 DTEND:20260927T213000
-UID:b2905eef-2b5e-4a83-8fe0-2bec31c2e8b6
+UID:18c3b376-df7e-4dd2-ac14-7c3341fbb5da
 DESCRIPTION:Home: Manchester\nAway: Nottingham\nRink: Manchester\nDivision
  : U19N1
 LOCATION:Manchester
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Solihull
 DTSTART:20261004T193000
 DTEND:20261004T213000
-UID:a39a36aa-59af-437b-92fd-ff5fdaa86941
+UID:815ab57e-8f9e-4d4b-8693-49a73186ced9
 DESCRIPTION:Home: Manchester\nAway: Solihull\nRink: Manchester\nDivision: 
  U19N1
 LOCATION:Manchester
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Bradford
 DTSTART:20261010T180000
 DTEND:20261010T200000
-UID:f4eb04f8-7ae3-4bb6-bcaf-e0bef734c715
+UID:f27f0e0a-5156-49fa-a562-6f27fffe4f0c
 DESCRIPTION:Home: Manchester\nAway: Bradford\nRink: Manchester\nDivision: 
  U19N1
 LOCATION:Manchester
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Solihull vs Manchester
 DTSTART:20261018T193000
 DTEND:20261018T213000
-UID:45189ceb-a88c-43e8-8fcd-c035fae4eaee
+UID:b2cda64f-4c68-4f09-81ef-0dab71fc88a7
 DESCRIPTION:Home: Solihull\nAway: Manchester\nRink: Solihull\nDivision: U1
  9N1
 LOCATION:Solihull
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Widnes
 DTSTART:20261025T191500
 DTEND:20261025T211500
-UID:ac62ec0a-b5d6-4e07-a6bc-45882efff1fd
+UID:7bf0b210-c186-47f7-8dd1-256a4982cbe6
 DESCRIPTION:Home: Manchester\nAway: Widnes\nRink: Manchester\nDivision: U1
  9N1
 LOCATION:Manchester
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Manchester
 DTSTART:20261108T165000
 DTEND:20261108T185000
-UID:f54d8918-8ce7-426b-950d-a7ca2f9aa5df
+UID:6aeb3354-cb06-42c6-8bf6-431c97b87cbc
 DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
  : U19N1
 LOCATION:Nottingham
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds vs Manchester
 DTSTART:20261115T163000
 DTEND:20261115T183000
-UID:6a010870-64a4-4931-81e6-1428c723ea09
+UID:c3d60903-0ead-4213-8eb7-77f355235867
 DESCRIPTION:Home: Leeds\nAway: Manchester\nRink: Leeds\nDivision: U19N1
 LOCATION:Leeds
 END:VEVENT
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Kingston
 DTSTART:20261122T174500
 DTEND:20261122T194500
-UID:0c620fb4-3c36-4211-9f40-56e9e69215b7
+UID:4c13e15a-ee12-44ae-a2fb-da743b18fae1
 DESCRIPTION:Home: Manchester\nAway: Kingston\nRink: Manchester\nDivision: 
  U19N1
 LOCATION:Manchester
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Leeds
 DTSTART:20270109T193000
 DTEND:20270109T213000
-UID:84fae269-195c-45b0-b42d-52ac391ba19e
+UID:30227c27-756f-4157-9b36-ebaee1513ab1
 DESCRIPTION:Home: Manchester\nAway: Leeds\nRink: Manchester\nDivision: U19
  N1
 LOCATION:Manchester
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Bradford vs Manchester
 DTSTART:20270131T170000
 DTEND:20270131T190000
-UID:a6eafc3b-0fd9-4c19-948e-d24a2d9f3994
+UID:4d20fedc-4851-4d9f-b074-4290a4724625
 DESCRIPTION:Home: Bradford\nAway: Manchester\nRink: Bradford\nDivision: U1
  9N1
 LOCATION:Bradford
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Manchester
 DTSTART:20270207T123000
 DTEND:20270207T143000
-UID:298782aa-5bc2-49ce-98cb-dc6dc557b947
+UID:a44b921b-7046-4dbf-8faa-fd9faffb2b30
 DESCRIPTION:Home: Kingston\nAway: Manchester\nRink: Kingston\nDivision: U1
  9N1
 LOCATION:Kingston
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Manchester
 DTSTART:20270220T120000
 DTEND:20270220T140000
-UID:000fb23e-2893-40f7-bb66-e107bed7d112
+UID:075dd230-9d53-4ed4-b9bd-b4dff74bb1dd
 DESCRIPTION:Home: WhitleyBay\nAway: Manchester\nRink: WhitleyBay\nDivision
  : U19N1
 LOCATION:WhitleyBay
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Telford
 DTSTART:20270321T191500
 DTEND:20270321T211500
-UID:748f1965-3051-4130-987b-261e81c0bdde
+UID:c0d53e99-9239-42c7-af05-c94870bf08b1
 DESCRIPTION:Home: Manchester\nAway: Telford\nRink: Manchester\nDivision: U
  19N1
 LOCATION:Manchester
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Widnes vs Manchester
 DTSTART:20270328T161500
 DTEND:20270328T181500
-UID:ee1ba268-1c2c-4c24-bec8-378e9a7778ad
+UID:f4aaa241-1c72-4a71-ab41-ae63318e6f3a
 DESCRIPTION:Home: Widnes\nAway: Manchester\nRink: Widnes\nDivision: U19N1
 LOCATION:Widnes
 END:VEVENT
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Telford vs Manchester
 DTSTART:20270425T170500
 DTEND:20270425T190500
-UID:0fb40713-d201-4efb-8254-67bd24e8aa53
+UID:59bc6216-d0c3-44fd-9018-469e14685969
 DESCRIPTION:Home: Telford\nAway: Manchester\nRink: Telford\nDivision: U19N
  1
 LOCATION:Telford

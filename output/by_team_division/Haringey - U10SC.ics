@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Haringey
 DTSTART:20260920T083000
 DTEND:20260920T103000
-UID:31ab8a38-819d-49c9-8aec-524a82453eb5
+UID:1e6f0c1a-e2cf-46c4-adcf-e57314e8eb27
 DESCRIPTION:Home: Guildford\nAway: Haringey\nRink: Guildford\nDivision: U1
  0SC
 LOCATION:Guildford
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Solent vs Haringey
 DTSTART:20261018T162500
 DTEND:20261018T182500
-UID:04673e7e-89dd-4fa1-a3bf-0dddfa7af2eb
+UID:ed8ed43b-f8e5-4b0b-afd3-419449dc0254
 DESCRIPTION:Home: Solent\nAway: Haringey\nRink: Solent\nDivision: U10SC
 LOCATION:Solent
 END:VEVENT
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Swindon
 DTSTART:20261025T164500
 DTEND:20261025T184500
-UID:d342a4b0-f71c-4ed4-baba-75babcb2c97a
+UID:18ae3e7a-fbdb-424d-a6a3-1658bb03ccf9
 DESCRIPTION:Home: Haringey\nAway: Swindon\nRink: Haringey\nDivision: U10SC
 LOCATION:Haringey
 END:VEVENT
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Haringey
 DTSTART:20261115T083000
 DTEND:20261115T103000
-UID:fa78d316-98d4-47f1-a43b-bca6a4efd96c
+UID:1511650e-5881-4d30-86bf-da5129fc7669
 DESCRIPTION:Home: Guildford\nAway: Haringey\nRink: Guildford\nDivision: U1
  0SC
 LOCATION:Guildford
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20261129T161500
 DTEND:20261129T181500
-UID:ff1d60f6-23e9-4b45-b602-0d1d85f1a37b
+UID:41a067a1-b6a1-44d4-9b7a-ee808c7a0991
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Guildford vs Haringey
 DTSTART:20270110T083000
 DTEND:20270110T103000
-UID:38919991-dc1c-429d-bf63-0935e6a0c793
+UID:4f24f941-3c3c-4d7b-ab1b-728106b5f857
 DESCRIPTION:Home: Guildford\nAway: Haringey\nRink: Guildford\nDivision: U1
  0SC
 LOCATION:Guildford
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Slough vs Haringey
 DTSTART:20270403T173000
 DTEND:20270403T193000
-UID:01318f46-fc0a-4c28-9584-025aa2e69c48
+UID:2214ce09-d287-4fb7-b622-41f0ca3fae1a
 DESCRIPTION:Home: Slough\nAway: Haringey\nRink: Slough\nDivision: U10SC
 LOCATION:Slough
 END:VEVENT
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Basingstoke
 DTSTART:20270411T144500
 DTEND:20270411T164500
-UID:ddd38c5d-60d4-4acb-9b94-2fd4d6c2c49c
+UID:0f2b0970-f28d-4bdc-887a-57485ba696cf
 DESCRIPTION:Home: Haringey\nAway: Basingstoke\nRink: Haringey\nDivision: U
  10SC
 LOCATION:Haringey
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270425T161500
 DTEND:20270425T181500
-UID:89486569-ba76-4858-86a9-c1ba66d48257
+UID:95172e9c-2681-4b29-9d65-fc8f302ef50b
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Swindon
 DTSTART:20270509T144500
 DTEND:20270509T164500
-UID:a6057182-f885-4763-b5a7-f32e143840d1
+UID:b6f9dfaa-75c2-478b-9af2-940fd9d2f7d0
 DESCRIPTION:Home: Haringey\nAway: Swindon\nRink: Haringey\nDivision: U10SC
 LOCATION:Haringey
 END:VEVENT
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270516T161500
 DTEND:20270516T181500
-UID:9b738a6b-20b3-4181-9b43-a36ae85e51fc
+UID:7ce3d3c9-8f01-4328-968e-7d70fce4da4f
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
