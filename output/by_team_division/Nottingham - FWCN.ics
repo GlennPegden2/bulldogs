@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Nottingham - FWCN//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Nottingham - FWCN
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bristol
+DTSTART:20260927T143000
+DTEND:20260927T163000
+UID:2c0c264f-4954-4d1a-a3b5-4d5b0bf80eb3
+DESCRIPTION:Home: Nottingham\nAway: Bristol\nRink: Nottingham\nDivision: F
+ WCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Coventry
+DTSTART:20261206T153000
+DTEND:20261206T173000
+UID:98ffae50-ca1b-43b1-8fc1-42b7c33ebade
+DESCRIPTION:Home: Nottingham\nAway: Coventry\nRink: Nottingham\nDivision: 
+ FWCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheffield vs Nottingham
+DTSTART:20270131T164000
+DTEND:20270131T184000
+UID:9ab9e467-b225-4f5f-86a5-ad191d2dadcd
+DESCRIPTION:Home: Sheffield\nAway: Nottingham\nRink: Sheffield\nDivision: 
+ FWCN
+LOCATION:Sheffield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff vs Nottingham
+DTSTART:20270214T160000
+DTEND:20270214T180000
+UID:d5ea5401-c9fa-4547-8fe9-3c257c54e801
+DESCRIPTION:Home: Cardiff\nAway: Nottingham\nRink: Cardiff\nDivision: FWCN
+LOCATION:Cardiff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Cardiff
+DTSTART:20270221T153000
+DTEND:20270221T173000
+UID:a7f5101f-7edf-4ebb-9dd3-4df68f3d1bda
+DESCRIPTION:Home: Nottingham\nAway: Cardiff\nRink: Nottingham\nDivision: F
+ WCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270410T114500
+DTEND:20270410T134500
+UID:d642ab23-bf25-4974-bfc7-792aa2fbd5fd
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  FWCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Nottingham
+DTSTART:20270417T203000
+DTEND:20270417T223000
+UID:1da8c75c-bd8d-410f-af4f-578684ff4610
+DESCRIPTION:Home: Bristol\nAway: Nottingham\nRink: Bristol\nDivision: FWCN
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry vs Nottingham
+DTSTART:20270515T180000
+DTEND:20270515T200000
+UID:477d7d97-7432-40c2-95db-53e3fe9b606c
+DESCRIPTION:Home: Coventry\nAway: Nottingham\nRink: Coventry\nDivision: FW
+ CN
+LOCATION:Coventry
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,8 @@
+2026-09-05  16:30  Cambridge vs Haringey  [Cambridge]  (U10SE)
+2026-09-13  16:45  Haringey vs Streatham  [Haringey]  (U10SE)
+2026-10-25  18:15  Haringey vs Streatham  [Haringey]  (U10SE)
+2027-01-23  16:15  Peterborough vs Haringey  [Peterborough]  (U10SE)
+2027-02-21  16:45  Chelmsford vs Haringey  [Chelmsford]  (U10SE)
+2027-03-13  16:15  Peterborough vs Haringey  [Peterborough]  (U10SE)
+2027-04-25  16:30  Streatham vs Haringey  [Streatham]  (U10SE)
+2027-05-08  14:45  Haringey vs Streatham  [Haringey]  (U10SE)

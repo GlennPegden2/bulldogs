@@ -1,0 +1,951 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Nottingham//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Nottingham
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull & Telford & Coventry
+DTSTART:20260905T165000
+DTEND:20260905T185000
+UID:b5d0a024-d78d-4e86-94c6-142d23f39a7a
+DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
+ ottingham\nDivision: U10NS
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20260906T165000
+DTEND:20260906T185000
+UID:3caf4fcd-836a-41c2-abd0-a99e90c1b03a
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U14N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Blackburn
+DTSTART:20260912T165000
+DTEND:20260912T185000
+UID:d1550215-23a5-41c3-8f58-8be61f356a6f
+DESCRIPTION:Home: Nottingham\nAway: Blackburn\nRink: Nottingham\nDivision:
+  U16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Swindon
+DTSTART:20260913T165000
+DTEND:20260913T185000
+UID:8ef36217-2e7a-4e6c-a6ba-6e7de349ec7b
+DESCRIPTION:Home: Nottingham\nAway: Swindon\nRink: Nottingham\nDivision: U
+ 19Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Telford
+DTSTART:20260919T165000
+DTEND:20260919T185000
+UID:59786a3c-6bc4-48e0-bba6-c8d690498f42
+DESCRIPTION:Home: Nottingham\nAway: Telford\nRink: Nottingham\nDivision: U
+ 19N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Manchester
+DTSTART:20260926T140000
+DTEND:20260926T160000
+UID:ba9f1aa2-5d57-4839-b76f-2ec50ba739d0
+DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
+ : WNIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20260926T165000
+DTEND:20260926T185000
+UID:74e9d844-8f20-484b-bf28-cfb22ce81d23
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ U14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solway
+DTSTART:20260927T121500
+DTEND:20260927T141500
+UID:ac7f4d99-3be0-4836-ac1f-000fb9cfaeaa
+DESCRIPTION:Home: Nottingham\nAway: Solway\nRink: Nottingham\nDivision: WN
+ IHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bristol
+DTSTART:20260927T143000
+DTEND:20260927T163000
+UID:e68d4369-9dd0-4088-9edd-09ff1f3e5360
+DESCRIPTION:Home: Nottingham\nAway: Bristol\nRink: Nottingham\nDivision: F
+ WCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20260927T165000
+DTEND:20260927T185000
+UID:d3ba588b-b69e-4845-9e6d-1687aa7491c4
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U16N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20261003T114500
+DTEND:20261003T134500
+UID:ee1b2d21-eea4-4ad8-887e-63df6b2a2b42
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Coventry
+DTSTART:20261003T165000
+DTEND:20261003T185000
+UID:f8f6afe3-671d-4003-ab36-f1c5d6bc2a6d
+DESCRIPTION:Home: Nottingham\nAway: Coventry\nRink: Nottingham\nDivision: 
+ U14N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Billingham
+DTSTART:20261004T165000
+DTEND:20261004T185000
+UID:f643de7b-1db7-43d4-aaf7-b0cd53fa3b3c
+DESCRIPTION:Home: Nottingham\nAway: Billingham\nRink: Nottingham\nDivision
+ : U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20261010T120000
+DTEND:20261010T140000
+UID:d825a793-d9f4-4e19-a1d3-986355501e3f
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: W
+ NIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20261010T141500
+DTEND:20261010T161500
+UID:6005e3b7-30ab-4122-8a9a-15b7bb18e0bd
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : U16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20261010T163000
+DTEND:20261010T183000
+UID:54a8653d-8528-438b-89c7-876ad0531c75
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: WN
+ IHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull & Telford & Coventry
+DTSTART:20261010T165000
+DTEND:20261010T185000
+UID:338cba41-4da8-4833-a161-f2caa7824ede
+DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
+ ottingham\nDivision: U10NS
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20261011T165000
+DTEND:20261011T185000
+UID:ef065b31-c451-439e-9b07-85541489c3b5
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: U
+ 14N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Telford
+DTSTART:20261017T165000
+DTEND:20261017T185000
+UID:af7698ae-bef9-4a05-9189-beb38c44a21d
+DESCRIPTION:Home: Nottingham\nAway: Telford\nRink: Nottingham\nDivision: U
+ 16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20261024T165000
+DTEND:20261024T185000
+UID:2f498cc5-623d-4137-ba20-a6028e9d1613
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : U14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sutton
+DTSTART:20261025T165000
+DTEND:20261025T185000
+UID:2ab785c2-f526-41b6-9a92-fd18e4ebfe79
+DESCRIPTION:Home: Nottingham\nAway: Sutton\nRink: Nottingham\nDivision: U1
+ 4N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Guildford
+DTSTART:20261031T165000
+DTEND:20261031T185000
+UID:f170d30f-95a5-463e-b53b-b0b5c543687f
+DESCRIPTION:Home: Nottingham\nAway: Guildford\nRink: Nottingham\nDivision:
+  U19Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20261101T165000
+DTEND:20261101T185000
+UID:b5515f12-c3a7-41ca-b78a-3d3232474e06
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20261101T183000
+DTEND:20261101T203000
+UID:c16820ff-7805-4f77-9c22-43b6ce3ce660
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U16
+ N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20261107T165000
+DTEND:20261107T185000
+UID:7ec0a79b-e633-4304-b781-55e6d54f1c71
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: U
+ 16N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20261108T110000
+DTEND:20261108T130000
+UID:742b70cf-72fe-4187-a184-34ac8f46631c
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: W
+ NIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Manchester
+DTSTART:20261108T165000
+DTEND:20261108T185000
+UID:9b015202-bc77-40e9-9404-62a8aa324752
+DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
+ : U19N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Coventry
+DTSTART:20261114T165000
+DTEND:20261114T185000
+UID:aac34b8b-094a-41c3-a1f7-a325b6da7f09
+DESCRIPTION:Home: Nottingham\nAway: Coventry\nRink: Nottingham\nDivision: 
+ U12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20261115T165000
+DTEND:20261115T185000
+UID:88b34475-1fbf-40f9-9f0c-0dd2adf5307d
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: U
+ 14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20261121T165000
+DTEND:20261121T185000
+UID:8380f870-8faf-41cc-862c-175bf4141065
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U14
+ N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20261122T165000
+DTEND:20261122T185000
+UID:cf2ea1ef-207f-4c58-8644-99c7339bdc45
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U19
+ Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20261128T165000
+DTEND:20261128T185000
+UID:0bb9031c-f04e-4874-a7be-4e0d66916892
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Caledonia
+DTSTART:20261129T110000
+DTEND:20261129T130000
+UID:a9d09913-c2a0-4687-b110-1d0165f7b867
+DESCRIPTION:Home: Nottingham\nAway: Caledonia\nRink: Nottingham\nDivision:
+  U16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20261129T165000
+DTEND:20261129T185000
+UID:c38d3971-81e7-4017-8960-ee4b9aea7e46
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : U16N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20261205T165000
+DTEND:20261205T185000
+UID:d1d8a3e9-1cb6-48cb-ad5f-556b27f3febb
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: U1
+ 2N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20261206T110000
+DTEND:20261206T130000
+UID:9b927c9c-e731-475b-8caf-cc02a6ab1d40
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  WNIHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20261206T131500
+DTEND:20261206T151500
+UID:d73c908c-8972-4458-92b2-9aba14b99aa6
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ WNIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Coventry
+DTSTART:20261206T153000
+DTEND:20261206T173000
+UID:6c7c9148-b267-482d-b756-e0c6ca1fd975
+DESCRIPTION:Home: Nottingham\nAway: Coventry\nRink: Nottingham\nDivision: 
+ FWCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20261206T165000
+DTEND:20261206T185000
+UID:f54d056b-1b6d-4a05-9618-63083b7aaa32
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20261206T174500
+DTEND:20261206T194500
+UID:5055840d-379a-4126-9c7a-38b1e1acc6f4
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ U16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20261212T165000
+DTEND:20261212T185000
+UID:731730a5-3743-4e01-ad25-5117e0e12a98
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U16N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20261213T110000
+DTEND:20261213T130000
+UID:a73bb82c-7b84-4c2c-a6c1-44debd5a54cd
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : WNIHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20261213T165000
+DTEND:20261213T185000
+UID:6f913277-aa89-4279-a6e9-82e5cb64a36d
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Telford
+DTSTART:20261219T165000
+DTEND:20261219T185000
+UID:1e08388f-1766-4239-b29f-f24e64d9990b
+DESCRIPTION:Home: Nottingham\nAway: Telford\nRink: Nottingham\nDivision: U
+ 12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20261220T110000
+DTEND:20261220T130000
+UID:2f851726-1aff-49c4-b096-aa54cd0350d4
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: WNI
+ HL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20261220T153000
+DTEND:20261220T173000
+UID:d3fca1ce-19e8-4d03-9d21-2d344b46f9d3
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: WN
+ IHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20270102T165000
+DTEND:20270102T185000
+UID:13d64590-b010-4138-b672-b8bcac3fdbfa
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ U16N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20270103T120000
+DTEND:20270103T140000
+UID:c37f23fd-bcb6-4197-be51-9d5441bb8b65
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U16
+ GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Billingham
+DTSTART:20270103T165000
+DTEND:20270103T185000
+UID:9c961ce3-6a11-4c8b-be45-7a1510992ad8
+DESCRIPTION:Home: Nottingham\nAway: Billingham\nRink: Nottingham\nDivision
+ : U16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20270109T165000
+DTEND:20270109T185000
+UID:7c2b4e11-40e1-4b2b-8767-ca89730b4d2c
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: U1
+ 9N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20270110T110000
+DTEND:20270110T130000
+UID:928dee31-24ab-4ca4-8a6f-79fceccf31ba
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ WNIHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20270110T165000
+DTEND:20270110T185000
+UID:e7f98a97-c9be-456b-ac69-f0004a4e990c
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: U1
+ 4N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Manchester
+DTSTART:20270116T165000
+DTEND:20270116T185000
+UID:1d22bb64-2b18-4dcf-b14c-8c013c33a7fb
+DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
+ : U16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Manchester
+DTSTART:20270123T104500
+DTEND:20270123T124500
+UID:ea84ac30-a4e4-46fe-ab5b-b16969be8e4d
+DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
+ : WNIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20270123T165000
+DTEND:20270123T185000
+UID:c037a2cb-b675-465f-a23e-3e73d607d871
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U16N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Billingham
+DTSTART:20270124T165000
+DTEND:20270124T185000
+UID:23c35a52-d75a-4130-8ebf-2ce24b1d9779
+DESCRIPTION:Home: Nottingham\nAway: Billingham\nRink: Nottingham\nDivision
+ : U14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20270130T165000
+DTEND:20270130T185000
+UID:043deba9-dea6-4a60-b3b4-0cb4be7f0da0
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: U1
+ 6N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270131T165000
+DTEND:20270131T185000
+UID:1b938ca1-d504-4c02-a117-e8196af5790a
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20270131T190000
+DTEND:20270131T210000
+UID:5ee1d9b8-6c26-445e-a201-728a85c38679
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U19
+ N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Blackburn
+DTSTART:20270206T165000
+DTEND:20270206T185000
+UID:5b0a04b1-b3c3-42cf-89af-e3c8b6aa84a3
+DESCRIPTION:Home: Nottingham\nAway: Blackburn\nRink: Nottingham\nDivision:
+  U14N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Billingham
+DTSTART:20270207T110000
+DTEND:20270207T130000
+UID:1157947a-35d0-464a-8fc2-d3e5744e1a71
+DESCRIPTION:Home: Nottingham\nAway: Billingham\nRink: Nottingham\nDivision
+ : U16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20270207T131500
+DTEND:20270207T151500
+UID:b71b80d6-b48e-46c5-8e70-5af49d7e9603
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ WNIHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20270207T153000
+DTEND:20270207T173000
+UID:9b27a049-eae7-4502-893a-864af567adbd
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ WNIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20270207T165000
+DTEND:20270207T185000
+UID:9917fb29-dae7-42fe-a233-5afe2726c046
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: U
+ 12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20270213T165000
+DTEND:20270213T185000
+UID:d1e47f03-9dd8-4af6-9c96-5690edb15f97
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U19N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20270214T165000
+DTEND:20270214T185000
+UID:41db4f18-ca2a-48ca-b4d8-5666f5ca5fb2
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20270214T183000
+DTEND:20270214T203000
+UID:888aab0e-f5d9-4052-b693-8438893aa014
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U14N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270220T165000
+DTEND:20270220T185000
+UID:bb49df91-6ec9-4c10-ae40-bed7095877b2
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20270221T110000
+DTEND:20270221T130000
+UID:348d2cbb-1fae-4d9c-bcc3-4a8d93ced764
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : WNIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solway
+DTSTART:20270221T131500
+DTEND:20270221T151500
+UID:3c11d47a-9734-4652-a9fe-8519a59f0037
+DESCRIPTION:Home: Nottingham\nAway: Solway\nRink: Nottingham\nDivision: WN
+ IHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Cardiff
+DTSTART:20270221T153000
+DTEND:20270221T173000
+UID:77a644fd-c314-47b3-8df8-6bdf9931f8fa
+DESCRIPTION:Home: Nottingham\nAway: Cardiff\nRink: Nottingham\nDivision: F
+ WCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Haringey
+DTSTART:20270221T165000
+DTEND:20270221T185000
+UID:09c46a85-9e7b-4bf4-90bc-8590bb3f8db0
+DESCRIPTION:Home: Nottingham\nAway: Haringey\nRink: Nottingham\nDivision: 
+ U19Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Widnes
+DTSTART:20270227T165000
+DTEND:20270227T185000
+UID:2096f727-01ae-4f3b-a5e0-4ef47753b067
+DESCRIPTION:Home: Nottingham\nAway: Widnes\nRink: Nottingham\nDivision: U1
+ 6N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20270228T110000
+DTEND:20270228T130000
+UID:993a8b66-853a-4faa-b66f-f813e32a89bf
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: U
+ 16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Manchester
+DTSTART:20270228T165000
+DTEND:20270228T185000
+UID:47fee539-3bff-4873-b172-a4ebf3e9d425
+DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
+ : U12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20270306T120000
+DTEND:20270306T140000
+UID:31b9aefb-e532-40e1-a12a-bea96769e275
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : WNIHL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs WhitleyBay
+DTSTART:20270306T141500
+DTEND:20270306T161500
+UID:4c82d45c-eb20-4007-b2ac-94a3233dc7d5
+DESCRIPTION:Home: Nottingham\nAway: WhitleyBay\nRink: Nottingham\nDivision
+ : WNIHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sutton
+DTSTART:20270306T165000
+DTEND:20270306T185000
+UID:766d0161-845f-4631-94d0-4d0c1e7e5d14
+DESCRIPTION:Home: Nottingham\nAway: Sutton\nRink: Nottingham\nDivision: U1
+ 6N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Manchester
+DTSTART:20270307T110000
+DTEND:20270307T130000
+UID:a39848cf-8c7f-4c44-924d-f94025e303d1
+DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
+ : U16GN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20270313T165000
+DTEND:20270313T185000
+UID:5b9b2a39-9850-4fb4-9a5c-e8a74c0c1c37
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U16
+ N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270314T165000
+DTEND:20270314T185000
+UID:f72af050-2edb-4e17-bce6-d4075e677d70
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U14N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20270320T165000
+DTEND:20270320T185000
+UID:5520e7be-6aaa-417f-9376-98f5153b5efd
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U14
+ N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds Blue
+DTSTART:20270321T165000
+DTEND:20270321T185000
+UID:7440a535-ca29-4329-9140-8d47b53932f1
+DESCRIPTION:Home: Nottingham\nAway: Leeds Blue\nRink: Nottingham\nDivision
+ : U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20270321T183000
+DTEND:20270321T203000
+UID:cf08512a-30ab-417e-b800-aa6488e3d4b2
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: U19
+ Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270410T114500
+DTEND:20270410T134500
+UID:fdf60020-3eb9-48ef-808e-3c882d628c33
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  FWCN
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds
+DTSTART:20270410T114500
+DTEND:20270410T134500
+UID:8234071a-99f1-41a4-a78e-fb68d0b13a87
+DESCRIPTION:Home: Nottingham\nAway: Leeds\nRink: Nottingham\nDivision: WNI
+ HL2Nb
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270410T140000
+DTEND:20270410T160000
+UID:cce85d04-7e1f-4317-b8f1-65c285eaa8e7
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  WNIHL1N
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull
+DTSTART:20270410T165000
+DTEND:20270410T185000
+UID:3c9cbe66-0127-4650-81ed-6075c173e948
+DESCRIPTION:Home: Nottingham\nAway: Solihull\nRink: Nottingham\nDivision: 
+ U16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull & Telford & Coventry
+DTSTART:20270411T165000
+DTEND:20270411T185000
+UID:9a8d8001-927e-4de2-ad27-8c77cc7ff87f
+DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
+ ottingham\nDivision: U10NS
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Guildford
+DTSTART:20270411T185000
+DTEND:20270411T205000
+UID:3a9e1b02-86bd-4252-a32d-f239a6bc0cb2
+DESCRIPTION:Home: Nottingham\nAway: Guildford\nRink: Nottingham\nDivision:
+  U19Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20270417T165000
+DTEND:20270417T185000
+UID:caace724-8d66-4eed-95e8-6f68177dfe43
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U10NC
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20270418T165000
+DTEND:20270418T185000
+UID:d86195e1-2777-4e1e-bff0-173906c589f1
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270418T180500
+DTEND:20270418T200500
+UID:6e460662-59a7-4561-bb12-f690d73fbbc9
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20270418T192000
+DTEND:20270418T212000
+UID:ba9ecb96-2d73-481c-935e-cb54d5b5e01d
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U19N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Sheffield
+DTSTART:20270424T165000
+DTEND:20270424T185000
+UID:b60ef569-bbcf-4f3a-a58a-65a70d28c1e3
+DESCRIPTION:Home: Nottingham\nAway: Sheffield\nRink: Nottingham\nDivision:
+  U19Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Deeside
+DTSTART:20270425T165000
+DTEND:20270425T185000
+UID:31e1dfb4-ee0c-4d22-bd85-5674aaed6c0b
+DESCRIPTION:Home: Nottingham\nAway: Deeside\nRink: Nottingham\nDivision: U
+ 12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Slough
+DTSTART:20270425T165000
+DTEND:20270425T185000
+UID:98de381d-0c1d-4f92-80c7-9dd084fd6cc7
+DESCRIPTION:Home: Nottingham\nAway: Slough\nRink: Nottingham\nDivision: U1
+ 9Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Billingham
+DTSTART:20270501T165000
+DTEND:20270501T185000
+UID:02fc13ef-de7a-40f2-9bad-4c0eb45375b7
+DESCRIPTION:Home: Nottingham\nAway: Billingham\nRink: Nottingham\nDivision
+ : U12N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Telford
+DTSTART:20270502T165000
+DTEND:20270502T185000
+UID:240b8435-1b8f-4275-bc6a-fc1a7b4533f2
+DESCRIPTION:Home: Nottingham\nAway: Telford\nRink: Nottingham\nDivision: U
+ 14N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Coventry
+DTSTART:20270502T184500
+DTEND:20270502T204500
+UID:e97b1e30-fe82-4b3b-b439-544d728a0e71
+DESCRIPTION:Home: Nottingham\nAway: Coventry\nRink: Nottingham\nDivision: 
+ U16N2
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Leeds White
+DTSTART:20270508T165000
+DTEND:20270508T185000
+UID:193fff21-d1b9-4e11-a9b6-839b9ed963f9
+DESCRIPTION:Home: Nottingham\nAway: Leeds White\nRink: Nottingham\nDivisio
+ n: U12N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20270509T165000
+DTEND:20270509T185000
+UID:faa4eddd-1b38-46f8-b775-1ea35648456b
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U10NC
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Slough
+DTSTART:20270509T185000
+DTEND:20270509T205000
+UID:989246a0-386a-4155-b38e-39ba26d3da72
+DESCRIPTION:Home: Nottingham\nAway: Slough\nRink: Nottingham\nDivision: U1
+ 9Nat
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Kingston
+DTSTART:20270515T165000
+DTEND:20270515T185000
+UID:034084c8-0b44-41d1-b97a-226a1dd3ae9f
+DESCRIPTION:Home: Nottingham\nAway: Kingston\nRink: Nottingham\nDivision: 
+ U19N1
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Bradford
+DTSTART:20270523T165000
+DTEND:20270523T185000
+UID:91b0f8e9-551d-4b40-a9dc-8653d6140154
+DESCRIPTION:Home: Nottingham\nAway: Bradford\nRink: Nottingham\nDivision: 
+ U10NC
+LOCATION:Nottingham
+END:VEVENT
+END:VCALENDAR

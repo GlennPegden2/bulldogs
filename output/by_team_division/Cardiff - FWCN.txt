@@ -1,0 +1,8 @@
+2026-10-11  16:40  Sheffield vs Cardiff  [Sheffield]  (FWCN)
+2026-11-01  16:00  Cardiff vs Bristol  [Cardiff]  (FWCN)
+2026-11-15  19:45  Coventry vs Cardiff  [Coventry]  (FWCN)
+2027-01-10  16:00  Cardiff vs Sheffield  [Cardiff]  (FWCN)
+2027-02-14  16:00  Cardiff vs Nottingham  [Cardiff]  (FWCN)
+2027-02-21  15:30  Nottingham vs Cardiff  [Nottingham]  (FWCN)
+2027-04-17  20:30  Cardiff vs Coventry  [Cardiff]  (FWCN)
+2027-05-08  20:30  Bristol vs Cardiff  [Bristol]  (FWCN)

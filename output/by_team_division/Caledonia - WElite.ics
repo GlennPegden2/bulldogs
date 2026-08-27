@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Caledonia - WElite//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Caledonia - WElite
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Guildford
+DTSTART:20261003T121500
+DTEND:20261003T141500
+UID:5ab4670b-b2d8-49c0-965b-1a0594843962
+DESCRIPTION:Home: Caledonia\nAway: Guildford\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Caledonia
+DTSTART:20261115T153000
+DTEND:20261115T173000
+UID:894de59f-d7fb-4101-ba5a-f2a337bd0b57
+DESCRIPTION:Home: Bristol\nAway: Caledonia\nRink: Bristol\nDivision: WElit
+ e
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Caledonia
+DTSTART:20261122T120000
+DTEND:20261122T140000
+UID:19e0a7cf-16ac-4c24-b067-8e07bc034aba
+DESCRIPTION:Home: WhitleyBay\nAway: Caledonia\nRink: WhitleyBay\nDivision:
+  WElite
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Kingston
+DTSTART:20261128T121500
+DTEND:20261128T141500
+UID:c9514975-0e16-4597-83fd-0e5ee2c6779b
+DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
+ WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Kingston
+DTSTART:20261129T080000
+DTEND:20261129T100000
+UID:82a883b4-c439-40f5-ac83-2c6454a90070
+DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
+ WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs WhitleyBay
+DTSTART:20261213T193000
+DTEND:20261213T213000
+UID:3042f879-9586-4850-8988-e9271ba9fb8a
+DESCRIPTION:Home: Caledonia\nAway: WhitleyBay\nRink: Murrayfield\nDivision
+ : WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Caledonia
+DTSTART:20261220T123000
+DTEND:20261220T143000
+UID:cf03c9f8-2ee0-4190-a9ca-474bafc3108f
+DESCRIPTION:Home: Kingston\nAway: Caledonia\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Solihull
+DTSTART:20270116T121500
+DTEND:20270116T141500
+UID:580b42d9-2481-4b64-96a0-f50b18ef8d70
+DESCRIPTION:Home: Caledonia\nAway: Solihull\nRink: Murrayfield\nDivision: 
+ WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Streatham
+DTSTART:20270123T121500
+DTEND:20270123T141500
+UID:b542634a-d109-457c-b532-49efe4208522
+DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Streatham
+DTSTART:20270124T080000
+DTEND:20270124T100000
+UID:8afd5034-f7d2-4238-bfc4-80c0ee2aaf53
+DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Caledonia
+DTSTART:20270206T130000
+DTEND:20270206T150000
+UID:97698fa1-7d44-4b94-86e7-3acb1abb08cf
+DESCRIPTION:Home: Queenbees\nAway: Caledonia\nRink: Slough\nDivision: WEli
+ te
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Caledonia
+DTSTART:20270207T170000
+DTEND:20270207T190000
+UID:792ba725-d345-4234-a9bc-2f2d04fa4046
+DESCRIPTION:Home: Solihull\nAway: Caledonia\nRink: Solihull\nDivision: WEl
+ ite
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Bristol
+DTSTART:20270227T121500
+DTEND:20270227T141500
+UID:17fe3190-6d4c-4ccc-8078-a63bb30de7e4
+DESCRIPTION:Home: Caledonia\nAway: Bristol\nRink: Murrayfield\nDivision: W
+ Elite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Bristol
+DTSTART:20270228T080000
+DTEND:20270228T100000
+UID:2e74c8f0-5fd3-4100-bd4d-970d48a86906
+DESCRIPTION:Home: Caledonia\nAway: Bristol\nRink: Murrayfield\nDivision: W
+ Elite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Caledonia
+DTSTART:20270320T163000
+DTEND:20270320T183000
+UID:28d5e9a9-e8cf-4ab5-ab72-2be1e7a4a444
+DESCRIPTION:Home: Streatham\nAway: Caledonia\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Queenbees
+DTSTART:20270328T193000
+DTEND:20270328T213000
+UID:e8fba9f1-b1d4-4092-b971-cb4887a16c8a
+DESCRIPTION:Home: Caledonia\nAway: Queenbees\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Caledonia
+DTSTART:20270418T123000
+DTEND:20270418T143000
+UID:c22d6ba9-924f-47fc-ac2d-55076f383f7d
+DESCRIPTION:Home: Kingston\nAway: Caledonia\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Caledonia
+DTSTART:20270424T184500
+DTEND:20270424T204500
+UID:e4016de2-0dfb-409d-9723-c6d4f4a1f3af
+DESCRIPTION:Home: Streatham\nAway: Caledonia\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Caledonia
+DTSTART:20270508T184500
+DTEND:20270508T204500
+UID:4b5805ab-a93d-4464-9102-4ab4c120c926
+DESCRIPTION:Home: Guildford\nAway: Caledonia\nRink: Guildford\nDivision: W
+ Elite
+LOCATION:Guildford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Caledonia
+DTSTART:20270509T153000
+DTEND:20270509T173000
+UID:87107898-16c0-4fb3-b149-8a6e0b12ee16
+DESCRIPTION:Home: Bristol\nAway: Caledonia\nRink: Bristol\nDivision: WElit
+ e
+LOCATION:Bristol
+END:VEVENT
+END:VCALENDAR

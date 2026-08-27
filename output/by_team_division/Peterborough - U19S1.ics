@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Peterborough - U19S1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Peterborough - U19S1
+BEGIN:VEVENT
+SUMMARY:Streatham vs Peterborough
+DTSTART:20260905T184500
+DTEND:20260905T204500
+UID:20add69b-659d-4cd1-aac2-449cf42461c4
+DESCRIPTION:Home: Streatham\nAway: Peterborough\nRink: Streatham\nDivision
+ : U19S1
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff vs Peterborough
+DTSTART:20260913T160000
+DTEND:20260913T180000
+UID:7bb583de-7afc-4c3d-a6a8-31b0eb0fcb1f
+DESCRIPTION:Home: Cardiff\nAway: Peterborough\nRink: Cardiff\nDivision: U1
+ 9S1
+LOCATION:Cardiff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford vs Peterborough
+DTSTART:20260920T181000
+DTEND:20260920T201000
+UID:2c9dd461-356f-4573-81c5-7c464ec40dd0
+DESCRIPTION:Home: Oxford\nAway: Peterborough\nRink: Oxford\nDivision: U19S
+ 1
+LOCATION:Oxford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Invicta
+DTSTART:20261011T190000
+DTEND:20261011T210000
+UID:79223c41-e61d-4de6-9b65-e681e1361f2f
+DESCRIPTION:Home: Peterborough\nAway: Invicta\nRink: Peterborough\nDivisio
+ n: U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Peterborough
+DTSTART:20261025T121500
+DTEND:20261025T141500
+UID:813ca45d-3a3f-40f7-a0cd-700a347617c4
+DESCRIPTION:Home: Chelmsford\nAway: Peterborough\nRink: Chelmsford\nDivisi
+ on: U19S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Streatham
+DTSTART:20270109T190000
+DTEND:20270109T210000
+UID:368ab468-2f2d-4654-98e7-c3317d5c2315
+DESCRIPTION:Home: Peterborough\nAway: Streatham\nRink: Peterborough\nDivis
+ ion: U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romford vs Peterborough
+DTSTART:20270117T114500
+DTEND:20270117T134500
+UID:48fafab5-4bb0-448f-a68e-c77eae044645
+DESCRIPTION:Home: Romford\nAway: Peterborough\nRink: Romford\nDivision: U1
+ 9S1
+LOCATION:Romford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swindon vs Peterborough
+DTSTART:20270221T131000
+DTEND:20270221T151000
+UID:3471d3c2-9db0-4787-bcce-81a51669f407
+DESCRIPTION:Home: Swindon\nAway: Peterborough\nRink: Swindon\nDivision: U1
+ 9S1
+LOCATION:Swindon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haringey vs Peterborough
+DTSTART:20270307T173000
+DTEND:20270307T193000
+UID:3d0f5f57-e7f2-41b4-b99d-25c4aa44929c
+DESCRIPTION:Home: Haringey\nAway: Peterborough\nRink: Haringey\nDivision: 
+ U19S1
+LOCATION:Haringey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invicta vs Peterborough
+DTSTART:20270320T183000
+DTEND:20270320T203000
+UID:c5b2dd37-6f7d-479d-89c2-a6c22f44be30
+DESCRIPTION:Home: Invicta\nAway: Peterborough\nRink: Invicta\nDivision: U1
+ 9S1
+LOCATION:Invicta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Swindon
+DTSTART:20270411T161500
+DTEND:20270411T181500
+UID:053446ab-9994-4c62-b390-4535d0001b01
+DESCRIPTION:Home: Peterborough\nAway: Swindon\nRink: Peterborough\nDivisio
+ n: U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Oxford
+DTSTART:20270417T190000
+DTEND:20270417T210000
+UID:cfdd3da6-1016-45b9-a87c-8c13a1513596
+DESCRIPTION:Home: Peterborough\nAway: Oxford\nRink: Peterborough\nDivision
+ : U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Haringey
+DTSTART:20270424T191500
+DTEND:20270424T211500
+UID:5b2fbfd6-e711-41d5-9f72-08eaabf5ab6d
+DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
+ on: U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Romford
+DTSTART:20270501T190000
+DTEND:20270501T210000
+UID:231dfa05-d75a-4da4-8bd7-6c2859a262d9
+DESCRIPTION:Home: Peterborough\nAway: Romford\nRink: Peterborough\nDivisio
+ n: U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Chelmsford
+DTSTART:20270502T161500
+DTEND:20270502T181500
+UID:7f550b3b-cd98-44a3-b7a5-7c42224971d3
+DESCRIPTION:Home: Peterborough\nAway: Chelmsford\nRink: Peterborough\nDivi
+ sion: U19S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Cardiff
+DTSTART:20270509T190000
+DTEND:20270509T210000
+UID:bbb373e5-7fa4-4cb7-823d-3a699c4e26b1
+DESCRIPTION:Home: Peterborough\nAway: Cardiff\nRink: Peterborough\nDivisio
+ n: U19S1
+LOCATION:Peterborough
+END:VEVENT
+END:VCALENDAR

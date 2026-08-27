@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Billingham - U10NE//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Billingham - U10NE
+BEGIN:VEVENT
+SUMMARY:Leeds vs WhitleyBay & Billingham & Kingston
+DTSTART:20260913T143000
+DTEND:20260913T163000
+UID:a4d75023-3994-42a0-a4c5-d4e81cd92373
+DESCRIPTION:Home: Leeds\nAway: WhitleyBay & Billingham & Kingston\nRink: L
+ eeds\nDivision: U10NE
+LOCATION:Leeds
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Leeds & Billingham & Kingston
+DTSTART:20260920T170000
+DTEND:20260920T190000
+UID:2a48f766-df6f-4bde-8b2a-dc536fc6b97c
+DESCRIPTION:Home: WhitleyBay\nAway: Leeds & Billingham & Kingston\nRink: W
+ hitleyBay\nDivision: U10NE
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
+DTSTART:20260926T160000
+DTEND:20260926T180000
+UID:b564866e-05a6-4b1d-859a-ad456f3cc1d0
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
+ illingham\nDivision: U10NE
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs WhitleyBay & Leeds & Billingham
+DTSTART:20261017T123000
+DTEND:20261017T143000
+UID:843cd593-9915-46d8-a967-d860439c3f05
+DESCRIPTION:Home: Kingston\nAway: WhitleyBay & Leeds & Billingham\nRink: K
+ ingston\nDivision: U10NE
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Leeds & Billingham & Kingston
+DTSTART:20261024T120000
+DTEND:20261024T140000
+UID:a93d0c07-d4a1-4b23-944d-31272129287c
+DESCRIPTION:Home: WhitleyBay\nAway: Leeds & Billingham & Kingston\nRink: W
+ hitleyBay\nDivision: U10NE
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
+DTSTART:20261114T160000
+DTEND:20261114T180000
+UID:23e86477-b43f-42e9-a07a-11666382d7c5
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
+ illingham\nDivision: U10NE
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs WhitleyBay & Leeds & Billingham
+DTSTART:20261122T123000
+DTEND:20261122T143000
+UID:9a7c46ac-bdbe-4b96-b389-c8437f2a101d
+DESCRIPTION:Home: Kingston\nAway: WhitleyBay & Leeds & Billingham\nRink: K
+ ingston\nDivision: U10NE
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs WhitleyBay & Leeds & Billingham
+DTSTART:20270103T123000
+DTEND:20270103T143000
+UID:36744081-becf-4670-8748-94106245219a
+DESCRIPTION:Home: Kingston\nAway: WhitleyBay & Leeds & Billingham\nRink: K
+ ingston\nDivision: U10NE
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Leeds & Billingham & Kingston
+DTSTART:20270206T120000
+DTEND:20270206T140000
+UID:d5da53c6-d405-4378-9ec8-3c59448ce08e
+DESCRIPTION:Home: WhitleyBay\nAway: Leeds & Billingham & Kingston\nRink: W
+ hitleyBay\nDivision: U10NE
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
+DTSTART:20270220T160000
+DTEND:20270220T180000
+UID:a4821c10-23be-44f8-a089-abc394ced672
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
+ illingham\nDivision: U10NE
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds vs WhitleyBay & Billingham & Kingston
+DTSTART:20270228T143000
+DTEND:20270228T163000
+UID:819775b5-a174-40b2-8b7a-5db83055d293
+DESCRIPTION:Home: Leeds\nAway: WhitleyBay & Billingham & Kingston\nRink: L
+ eeds\nDivision: U10NE
+LOCATION:Leeds
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leeds vs WhitleyBay & Billingham & Kingston
+DTSTART:20270403T153000
+DTEND:20270403T173000
+UID:3690e5b5-4740-47a3-8058-8867dbe03d84
+DESCRIPTION:Home: Leeds\nAway: WhitleyBay & Billingham & Kingston\nRink: L
+ eeds\nDivision: U10NE
+LOCATION:Leeds
+END:VEVENT
+END:VCALENDAR

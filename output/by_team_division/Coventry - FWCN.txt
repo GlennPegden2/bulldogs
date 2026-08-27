@@ -1,0 +1,8 @@
+2026-10-24  20:30  Bristol vs Coventry  [Bristol]  (FWCN)
+2026-11-15  19:45  Coventry vs Cardiff  [Coventry]  (FWCN)
+2026-12-06  15:30  Nottingham vs Coventry  [Nottingham]  (FWCN)
+2027-01-30  20:00  Coventry vs Bristol  [Coventry]  (FWCN)
+2027-02-27  20:00  Coventry vs Sheffield  [Coventry]  (FWCN)
+2027-04-17  20:30  Cardiff vs Coventry  [Cardiff]  (FWCN)
+2027-04-25  16:40  Sheffield vs Coventry  [Sheffield]  (FWCN)
+2027-05-15  18:00  Coventry vs Nottingham  [Coventry]  (FWCN)

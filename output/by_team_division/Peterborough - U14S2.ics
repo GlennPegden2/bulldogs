@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Peterborough - U14S2//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Peterborough - U14S2
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Solent
+DTSTART:20260905T161500
+DTEND:20260905T181500
+UID:336c7293-81d2-4867-9c29-da35cf4407ed
+DESCRIPTION:Home: Peterborough\nAway: Solent\nRink: Peterborough\nDivision
+ : U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slough vs Peterborough
+DTSTART:20260913T184500
+DTEND:20260913T204500
+UID:cdd67423-656a-43ef-b32a-0067e63211cc
+DESCRIPTION:Home: Slough\nAway: Peterborough\nRink: Slough\nDivision: U14S
+ 2
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MiltonKeynes vs Peterborough
+DTSTART:20260920T161500
+DTEND:20260920T181500
+UID:d2bdab31-f28a-4063-b892-15e94a8295d7
+DESCRIPTION:Home: MiltonKeynes\nAway: Peterborough\nRink: MiltonKeynes\nDi
+ vision: U14S2
+LOCATION:MiltonKeynes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Peterborough
+DTSTART:20260926T164500
+DTEND:20260926T184500
+UID:ae7fbb5c-932e-4270-9919-d15343c87d26
+DESCRIPTION:Home: Bristol\nAway: Peterborough\nRink: Bristol\nDivision: U1
+ 4S2
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swindon vs Peterborough
+DTSTART:20261003T131000
+DTEND:20261003T151000
+UID:e048a293-3f90-4e2e-9e48-54de28591182
+DESCRIPTION:Home: Swindon\nAway: Peterborough\nRink: Swindon\nDivision: U1
+ 4S2
+LOCATION:Swindon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romford vs Peterborough
+DTSTART:20261017T171500
+DTEND:20261017T191500
+UID:ff6cdd73-2eb5-4111-a656-41e367afcd3b
+DESCRIPTION:Home: Romford\nAway: Peterborough\nRink: Romford\nDivision: U1
+ 4S2
+LOCATION:Romford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Oxford
+DTSTART:20261031T161500
+DTEND:20261031T181500
+UID:3caff880-9e22-4ca5-8682-3c02d2780210
+DESCRIPTION:Home: Peterborough\nAway: Oxford\nRink: Peterborough\nDivision
+ : U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Slough
+DTSTART:20261128T161500
+DTEND:20261128T181500
+UID:ccb80e49-f8b8-40c1-921d-e1513c166139
+DESCRIPTION:Home: Peterborough\nAway: Slough\nRink: Peterborough\nDivision
+ : U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford vs Peterborough
+DTSTART:20261205T164000
+DTEND:20261205T184000
+UID:051634d9-2542-4def-b9b5-2ae86602640b
+DESCRIPTION:Home: Oxford\nAway: Peterborough\nRink: Oxford\nDivision: U14S
+ 2
+LOCATION:Oxford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Bristol
+DTSTART:20261212T161500
+DTEND:20261212T181500
+UID:34743df5-2112-49f2-8c16-21d74956b98a
+DESCRIPTION:Home: Peterborough\nAway: Bristol\nRink: Peterborough\nDivisio
+ n: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Cambridge
+DTSTART:20261219T173000
+DTEND:20261219T193000
+UID:dd4111bd-5a3a-49a4-b721-1461c8539340
+DESCRIPTION:Home: Peterborough\nAway: Cambridge\nRink: Peterborough\nDivis
+ ion: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Swindon
+DTSTART:20270109T173000
+DTEND:20270109T193000
+UID:9b6fb01a-34b5-4b16-a6df-281d4db0301e
+DESCRIPTION:Home: Peterborough\nAway: Swindon\nRink: Peterborough\nDivisio
+ n: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solent vs Peterborough
+DTSTART:20270116T162500
+DTEND:20270116T182500
+UID:6b4d77de-8ab2-4558-8c2a-4a83755f7ba1
+DESCRIPTION:Home: Solent\nAway: Peterborough\nRink: Solent\nDivision: U14S
+ 2
+LOCATION:Solent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haringey vs Peterborough
+DTSTART:20270117T183000
+DTEND:20270117T203000
+UID:8123a753-a629-4f5d-b9d3-316011ca6fc6
+DESCRIPTION:Home: Haringey\nAway: Peterborough\nRink: Haringey\nDivision: 
+ U14S2
+LOCATION:Haringey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Haringey
+DTSTART:20270213T173000
+DTEND:20270213T193000
+UID:c853b2c9-5b6e-4702-8d09-9d5d167e96e7
+DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
+ on: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Invicta
+DTSTART:20270221T161500
+DTEND:20270221T181500
+UID:b845d446-5456-4f70-a4bf-cfdbeb55e838
+DESCRIPTION:Home: Peterborough\nAway: Invicta\nRink: Peterborough\nDivisio
+ n: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cambridge vs Peterborough
+DTSTART:20270313T181500
+DTEND:20270313T201500
+UID:4a4e6faa-787d-4167-ac9e-21275417bffa
+DESCRIPTION:Home: Cambridge\nAway: Peterborough\nRink: Cambridge\nDivision
+ : U14S2
+LOCATION:Cambridge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Basingstoke
+DTSTART:20270403T161500
+DTEND:20270403T181500
+UID:f5d8909d-7e40-4293-83d7-d9d59fc93c47
+DESCRIPTION:Home: Peterborough\nAway: Basingstoke\nRink: Peterborough\nDiv
+ ision: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Romford
+DTSTART:20270417T173000
+DTEND:20270417T193000
+UID:e5260abc-1042-423c-8e4e-719c8acfc949
+DESCRIPTION:Home: Peterborough\nAway: Romford\nRink: Peterborough\nDivisio
+ n: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Peterborough
+DTSTART:20270502T173000
+DTEND:20270502T193000
+UID:76081eda-d93b-4cf2-a4df-37454dcb7104
+DESCRIPTION:Home: Basingstoke\nAway: Peterborough\nRink: Basingstoke\nDivi
+ sion: U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs MiltonKeynes
+DTSTART:20270508T161500
+DTEND:20270508T181500
+UID:1f1044d7-8d12-4164-b7ba-d0cf61226f7e
+DESCRIPTION:Home: Peterborough\nAway: MiltonKeynes\nRink: Peterborough\nDi
+ vision: U14S2
+LOCATION:Peterborough
+END:VEVENT
+END:VCALENDAR

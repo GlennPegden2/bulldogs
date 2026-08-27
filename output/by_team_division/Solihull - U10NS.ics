@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Solihull - U10NS//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Solihull - U10NS
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull & Telford & Coventry
+DTSTART:20260905T165000
+DTEND:20260905T185000
+UID:f505f801-5d7a-4ec6-95c8-9d176b3f574e
+DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
+ ottingham\nDivision: U10NS
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry vs Nottingham & Solihull & Telford
+DTSTART:20261003T161500
+DTEND:20261003T181500
+UID:7ec2b894-d071-4f8d-bb00-690147fba800
+DESCRIPTION:Home: Coventry\nAway: Nottingham & Solihull & Telford\nRink: C
+ oventry\nDivision: U10NS
+LOCATION:Coventry
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull & Telford & Coventry
+DTSTART:20261010T165000
+DTEND:20261010T185000
+UID:f1731b96-9854-4316-8951-5ffd53f0aa3a
+DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
+ ottingham\nDivision: U10NS
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Telford vs Nottingham & Solihull & Coventry
+DTSTART:20261108T170500
+DTEND:20261108T190500
+UID:714fd047-30eb-4cb2-91dc-87b5076cbb76
+DESCRIPTION:Home: Telford\nAway: Nottingham & Solihull & Coventry\nRink: T
+ elford\nDivision: U10NS
+LOCATION:Telford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Nottingham & Telford & Coventry
+DTSTART:20261122T160000
+DTEND:20261122T180000
+UID:a316b8fc-546c-4d6c-a549-8acb09752699
+DESCRIPTION:Home: Solihull\nAway: Nottingham & Telford & Coventry\nRink: S
+ olihull\nDivision: U10NS
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry vs Nottingham & Solihull & Telford
+DTSTART:20270227T161500
+DTEND:20270227T181500
+UID:533bee42-726f-4f7c-8ddb-a8950d5cbe57
+DESCRIPTION:Home: Coventry\nAway: Nottingham & Solihull & Telford\nRink: C
+ oventry\nDivision: U10NS
+LOCATION:Coventry
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nottingham vs Solihull & Telford & Coventry
+DTSTART:20270411T165000
+DTEND:20270411T185000
+UID:0253c173-d6ab-48f3-af3d-130bb8701235
+DESCRIPTION:Home: Nottingham\nAway: Solihull & Telford & Coventry\nRink: N
+ ottingham\nDivision: U10NS
+LOCATION:Nottingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Nottingham & Telford & Coventry
+DTSTART:20270418T160000
+DTEND:20270418T180000
+UID:ca5d5c3c-95fc-4f4f-ba7f-817e87a5f1d5
+DESCRIPTION:Home: Solihull\nAway: Nottingham & Telford & Coventry\nRink: S
+ olihull\nDivision: U10NS
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Telford vs Nottingham & Solihull & Coventry
+DTSTART:20270425T120000
+DTEND:20270425T140000
+UID:a77b7aca-b0df-4081-8deb-342b6da06037
+DESCRIPTION:Home: Telford\nAway: Nottingham & Solihull & Coventry\nRink: T
+ elford\nDivision: U10NS
+LOCATION:Telford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Nottingham & Telford & Coventry
+DTSTART:20270502T160000
+DTEND:20270502T180000
+UID:ca0bcd7b-d056-4b87-b44e-c55f6aeaaddb
+DESCRIPTION:Home: Solihull\nAway: Nottingham & Telford & Coventry\nRink: S
+ olihull\nDivision: U10NS
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coventry vs Nottingham & Solihull & Telford
+DTSTART:20270515T161500
+DTEND:20270515T181500
+UID:ed93e171-10ff-4358-b1b0-871f4d7f8b7c
+DESCRIPTION:Home: Coventry\nAway: Nottingham & Solihull & Telford\nRink: C
+ oventry\nDivision: U10NS
+LOCATION:Coventry
+END:VEVENT
+END:VCALENDAR

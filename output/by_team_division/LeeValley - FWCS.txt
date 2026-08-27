@@ -1,0 +1,8 @@
+2026-11-21  18:45  Streatham vs LeeValley  [Streatham]  (FWCS)
+2026-12-06  18:00  Solent vs LeeValley  [Solent]  (FWCS)
+2026-12-12  14:00  LeeValley vs Streatham  [LeeValley]  (FWCS)
+2027-01-24  16:30  LeeValley vs Chelmsford  [LeeValley]  (FWCS)
+2027-03-13  18:15  Invicta vs LeeValley  [Invicta]  (FWCS)
+2027-04-17  14:00  LeeValley vs Invicta  [LeeValley]  (FWCS)
+2027-04-25  16:45  Chelmsford vs LeeValley  [Chelmsford]  (FWCS)
+2027-05-08  14:00  LeeValley vs Solent  [LeeValley]  (FWCS)

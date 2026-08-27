@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Kingston - WElite//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kingston - WElite
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Kingston
+DTSTART:20260920T120000
+DTEND:20260920T140000
+UID:8b52f0f6-cd4c-4b2e-93c3-d945ae3c49fd
+DESCRIPTION:Home: WhitleyBay\nAway: Kingston\nRink: WhitleyBay\nDivision: 
+ WElite
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Bristol
+DTSTART:20260926T123000
+DTEND:20260926T143000
+UID:5848aa23-d26e-4e2c-94f9-29a78b65dbb7
+DESCRIPTION:Home: Kingston\nAway: Bristol\nRink: Kingston\nDivision: WElit
+ e
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Streatham
+DTSTART:20261018T123000
+DTEND:20261018T143000
+UID:e9151488-05c1-4d99-96e1-d6f5baf1f66d
+DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Kingston
+DTSTART:20261024T183000
+DTEND:20261024T203000
+UID:9fe5391e-d608-4e05-91e1-a7a29d1ad41d
+DESCRIPTION:Home: Bristol\nAway: Kingston\nRink: Bristol\nDivision: WElite
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Kingston
+DTSTART:20261108T163000
+DTEND:20261108T183000
+UID:dff0e6d4-6758-482d-9351-1be1efcc2165
+DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
+ lite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Kingston
+DTSTART:20261128T121500
+DTEND:20261128T141500
+UID:a66ee13d-4114-4523-8de1-ed6f94a14b7c
+DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
+ WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Kingston
+DTSTART:20261129T080000
+DTEND:20261129T100000
+UID:7acd59a6-edf8-4317-be6a-5e968892cbb9
+DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
+ WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Caledonia
+DTSTART:20261220T123000
+DTEND:20261220T143000
+UID:d64acb58-5cf4-4555-8115-2cffa8886320
+DESCRIPTION:Home: Kingston\nAway: Caledonia\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Solihull
+DTSTART:20270124T123000
+DTEND:20270124T143000
+UID:a93b80dc-c70f-45b7-aa4a-6ec61b14ed8b
+DESCRIPTION:Home: Kingston\nAway: Solihull\nRink: Kingston\nDivision: WEli
+ te
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Kingston
+DTSTART:20270130T181500
+DTEND:20270130T201500
+UID:6d400458-9a35-4084-8ca9-056b4ee775a2
+DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
+ lite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Kingston
+DTSTART:20270131T153000
+DTEND:20270131T173000
+UID:77413ab9-2da2-4df1-9cc3-e6c4012012a6
+DESCRIPTION:Home: Bristol\nAway: Kingston\nRink: Bristol\nDivision: WElite
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Kingston
+DTSTART:20270206T190000
+DTEND:20270206T210000
+UID:ea7e05e9-bd51-4615-92e9-3f16d59fc418
+DESCRIPTION:Home: Guildford\nAway: Kingston\nRink: Guildford\nDivision: WE
+ lite
+LOCATION:Guildford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Queenbees
+DTSTART:20270228T123000
+DTEND:20270228T143000
+UID:a9392e7f-ba79-46e9-87b2-668e87c79083
+DESCRIPTION:Home: Kingston\nAway: Queenbees\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Kingston
+DTSTART:20270306T174500
+DTEND:20270306T194500
+UID:3272bda6-24e2-4055-8960-0631a84ef7e6
+DESCRIPTION:Home: Solihull\nAway: Kingston\nRink: Solihull\nDivision: WEli
+ te
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Guildford
+DTSTART:20270314T123000
+DTEND:20270314T143000
+UID:e222156f-f126-406a-bc6a-ba0dac207a5b
+DESCRIPTION:Home: Kingston\nAway: Guildford\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs WhitleyBay
+DTSTART:20270320T123000
+DTEND:20270320T143000
+UID:16343152-0339-42fd-a5e1-33fb2539028b
+DESCRIPTION:Home: Kingston\nAway: WhitleyBay\nRink: Kingston\nDivision: WE
+ lite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Kingston
+DTSTART:20270410T130000
+DTEND:20270410T150000
+UID:9bd4d979-c4f4-496e-9452-47cf4c12f7b1
+DESCRIPTION:Home: Queenbees\nAway: Kingston\nRink: Slough\nDivision: WElit
+ e
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Caledonia
+DTSTART:20270418T123000
+DTEND:20270418T143000
+UID:36eb532a-b7e2-43ca-ac7d-7e9a6633ce5c
+DESCRIPTION:Home: Kingston\nAway: Caledonia\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Bristol
+DTSTART:20270425T123000
+DTEND:20270425T143000
+UID:e166760b-e7fe-4fe9-822a-955c2e4557a9
+DESCRIPTION:Home: Kingston\nAway: Bristol\nRink: Kingston\nDivision: WElit
+ e
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Streatham
+DTSTART:20270516T123000
+DTEND:20270516T143000
+UID:bebf9d80-7dab-4ba1-a93f-5a84995b33d6
+DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+END:VCALENDAR

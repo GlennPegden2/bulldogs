@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Streatham - WElite//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Streatham - WElite
+BEGIN:VEVENT
+SUMMARY:Streatham vs Bristol
+DTSTART:20260905T163000
+DTEND:20260905T183000
+UID:108c8118-63b4-44ce-ab41-5edd62c4520a
+DESCRIPTION:Home: Streatham\nAway: Bristol\nRink: Streatham\nDivision: WEl
+ ite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Streatham
+DTSTART:20260913T173000
+DTEND:20260913T193000
+UID:63222579-707d-476d-b5e2-fc2d9d6dc206
+DESCRIPTION:Home: Bristol\nAway: Streatham\nRink: Bristol\nDivision: WElit
+ e
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Queenbees
+DTSTART:20260920T163000
+DTEND:20260920T183000
+UID:46c4dc74-ed9f-4ce3-b241-98115b2ff8c9
+DESCRIPTION:Home: Streatham\nAway: Queenbees\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Streatham
+DTSTART:20261018T123000
+DTEND:20261018T143000
+UID:98817975-fba2-4c13-98e7-1f6233a7d2e5
+DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Streatham
+DTSTART:20261025T184500
+DTEND:20261025T204500
+UID:65b908b0-dfa7-4e45-80d8-0d7204d99a07
+DESCRIPTION:Home: Guildford\nAway: Streatham\nRink: Guildford\nDivision: W
+ Elite
+LOCATION:Guildford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Kingston
+DTSTART:20261108T163000
+DTEND:20261108T183000
+UID:affc8f89-7f83-427f-8b05-e224878700c4
+DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
+ lite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Streatham
+DTSTART:20261114T174500
+DTEND:20261114T194500
+UID:7e4fd16b-45f2-4158-9976-baa6b61c4a25
+DESCRIPTION:Home: Solihull\nAway: Streatham\nRink: Solihull\nDivision: WEl
+ ite
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Solihull
+DTSTART:20270103T163000
+DTEND:20270103T183000
+UID:48a1d6da-6ca6-46a0-a4a2-90bf4953359d
+DESCRIPTION:Home: Streatham\nAway: Solihull\nRink: Streatham\nDivision: WE
+ lite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Streatham
+DTSTART:20270123T121500
+DTEND:20270123T141500
+UID:1982be41-346e-4d88-9077-d56b8f35e8da
+DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Streatham
+DTSTART:20270124T080000
+DTEND:20270124T100000
+UID:dce4e6e5-31ff-4ef3-8e3c-c66290e5b6d9
+DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Kingston
+DTSTART:20270130T181500
+DTEND:20270130T201500
+UID:715ec469-8309-44d3-a288-a3c3f57a8d99
+DESCRIPTION:Home: Streatham\nAway: Kingston\nRink: Streatham\nDivision: WE
+ lite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Bristol
+DTSTART:20270206T184500
+DTEND:20270206T204500
+UID:a12ae1a4-1d4a-42f5-abfd-c61837220cb3
+DESCRIPTION:Home: Streatham\nAway: Bristol\nRink: Streatham\nDivision: WEl
+ ite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Guildford
+DTSTART:20270307T163000
+DTEND:20270307T183000
+UID:85154b9f-d029-42fe-b7cf-05b60c64623a
+DESCRIPTION:Home: Streatham\nAway: Guildford\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Caledonia
+DTSTART:20270320T163000
+DTEND:20270320T183000
+UID:63178e0d-b74c-4751-a1ad-f7fadde73c84
+DESCRIPTION:Home: Streatham\nAway: Caledonia\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Streatham
+DTSTART:20270404T120000
+DTEND:20270404T140000
+UID:952dfa00-c154-4d40-825c-b7ff26eb690a
+DESCRIPTION:Home: WhitleyBay\nAway: Streatham\nRink: WhitleyBay\nDivision:
+  WElite
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs WhitleyBay
+DTSTART:20270411T163000
+DTEND:20270411T183000
+UID:1fbf1991-c306-4d07-b59a-eeeab93d7b75
+DESCRIPTION:Home: Streatham\nAway: WhitleyBay\nRink: Streatham\nDivision: 
+ WElite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Streatham
+DTSTART:20270418T173000
+DTEND:20270418T193000
+UID:ebd9b94e-08a0-45dc-983d-b012a8b2768e
+DESCRIPTION:Home: Bristol\nAway: Streatham\nRink: Bristol\nDivision: WElit
+ e
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Caledonia
+DTSTART:20270424T184500
+DTEND:20270424T204500
+UID:50c95226-3acc-4e1c-a8e0-26ab52d29894
+DESCRIPTION:Home: Streatham\nAway: Caledonia\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Streatham
+DTSTART:20270508T130000
+DTEND:20270508T150000
+UID:b15257a4-476b-4f88-9d8a-d15ba0533bc9
+DESCRIPTION:Home: Queenbees\nAway: Streatham\nRink: Slough\nDivision: WEli
+ te
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Streatham
+DTSTART:20270516T123000
+DTEND:20270516T143000
+UID:920d12ff-9e04-45a8-b73d-8673f8eb2731
+DESCRIPTION:Home: Kingston\nAway: Streatham\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+END:VCALENDAR

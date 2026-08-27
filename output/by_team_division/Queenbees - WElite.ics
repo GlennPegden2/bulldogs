@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Queenbees - WElite//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Queenbees - WElite
+BEGIN:VEVENT
+SUMMARY:Solihull vs Queenbees
+DTSTART:20260912T174500
+DTEND:20260912T194500
+UID:dbebe285-d240-4192-a886-094fc7c592f6
+DESCRIPTION:Home: Solihull\nAway: Queenbees\nRink: Solihull\nDivision: WEl
+ ite
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Solihull
+DTSTART:20260919T130000
+DTEND:20260919T150000
+UID:1993d890-eb92-4ebe-9aec-01d3d1c1f4c2
+DESCRIPTION:Home: Queenbees\nAway: Solihull\nRink: Slough\nDivision: WElit
+ e
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Queenbees
+DTSTART:20260920T163000
+DTEND:20260920T183000
+UID:89e7da92-83dd-4ba2-8d15-2afb5d04cf54
+DESCRIPTION:Home: Streatham\nAway: Queenbees\nRink: Streatham\nDivision: W
+ Elite
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs WhitleyBay
+DTSTART:20261025T180000
+DTEND:20261025T200000
+UID:b8e6938d-44cc-4103-9352-52ba764d0ece
+DESCRIPTION:Home: Queenbees\nAway: WhitleyBay\nRink: Slough\nDivision: WEl
+ ite
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Queenbees
+DTSTART:20261108T173000
+DTEND:20261108T193000
+UID:c9ab8260-fc02-433c-badc-beb917eaa257
+DESCRIPTION:Home: Bristol\nAway: Queenbees\nRink: Bristol\nDivision: WElit
+ e
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Guildford
+DTSTART:20261114T130000
+DTEND:20261114T150000
+UID:d40f4e46-d511-4c4f-8d5b-dfadb8bc981a
+DESCRIPTION:Home: Queenbees\nAway: Guildford\nRink: Slough\nDivision: WEli
+ te
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solihull vs Queenbees
+DTSTART:20261212T174500
+DTEND:20261212T194500
+UID:f302dc1d-3c9e-4135-b75d-5f229ab15ec3
+DESCRIPTION:Home: Solihull\nAway: Queenbees\nRink: Solihull\nDivision: WEl
+ ite
+LOCATION:Solihull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Queenbees
+DTSTART:20270117T170000
+DTEND:20270117T190000
+UID:84f9d93a-a4d4-46e3-9a4b-50e192fd14fb
+DESCRIPTION:Home: WhitleyBay\nAway: Queenbees\nRink: WhitleyBay\nDivision:
+  WElite
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs WhitleyBay
+DTSTART:20270123T130000
+DTEND:20270123T150000
+UID:f4118547-3303-48e5-9b1d-b93b493217ae
+DESCRIPTION:Home: Queenbees\nAway: WhitleyBay\nRink: Slough\nDivision: WEl
+ ite
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Caledonia
+DTSTART:20270206T130000
+DTEND:20270206T150000
+UID:2ff94bfe-e987-414b-92cd-fbe7e5f48a36
+DESCRIPTION:Home: Queenbees\nAway: Caledonia\nRink: Slough\nDivision: WEli
+ te
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston vs Queenbees
+DTSTART:20270228T123000
+DTEND:20270228T143000
+UID:9ea89e03-ddea-4c66-b2da-d825466855eb
+DESCRIPTION:Home: Kingston\nAway: Queenbees\nRink: Kingston\nDivision: WEl
+ ite
+LOCATION:Kingston
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WhitleyBay vs Queenbees
+DTSTART:20270314T120000
+DTEND:20270314T140000
+UID:8de935a2-6e17-483c-89a9-eed351734c92
+DESCRIPTION:Home: WhitleyBay\nAway: Queenbees\nRink: WhitleyBay\nDivision:
+  WElite
+LOCATION:WhitleyBay
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Solihull
+DTSTART:20270327T130000
+DTEND:20270327T150000
+UID:9f4e42ed-9211-42bc-92d0-7f3d87e127ec
+DESCRIPTION:Home: Queenbees\nAway: Solihull\nRink: Slough\nDivision: WElit
+ e
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Caledonia vs Queenbees
+DTSTART:20270328T193000
+DTEND:20270328T213000
+UID:d6ded183-1444-4d76-b620-ce43c4b9619c
+DESCRIPTION:Home: Caledonia\nAway: Queenbees\nRink: Murrayfield\nDivision:
+  WElite
+LOCATION:Murrayfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Kingston
+DTSTART:20270410T130000
+DTEND:20270410T150000
+UID:e5e0e4be-fe4d-4e8f-8851-a6d97ad06c34
+DESCRIPTION:Home: Queenbees\nAway: Kingston\nRink: Slough\nDivision: WElit
+ e
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Guildford
+DTSTART:20270418T170000
+DTEND:20270418T190000
+UID:3ec1468c-7c19-47fc-b1d6-40e153890d6f
+DESCRIPTION:Home: Queenbees\nAway: Guildford\nRink: Slough\nDivision: WEli
+ te
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Queenbees
+DTSTART:20270424T184500
+DTEND:20270424T204500
+UID:465911f7-f804-47c1-8f48-398676da18ff
+DESCRIPTION:Home: Guildford\nAway: Queenbees\nRink: Guildford\nDivision: W
+ Elite
+LOCATION:Guildford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Queenbees
+DTSTART:20270425T184500
+DTEND:20270425T204500
+UID:5ae6a821-cef3-42d3-8f50-3cfc6c1f45bf
+DESCRIPTION:Home: Guildford\nAway: Queenbees\nRink: Guildford\nDivision: W
+ Elite
+LOCATION:Guildford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Streatham
+DTSTART:20270508T130000
+DTEND:20270508T150000
+UID:f0acbf5a-0e69-4d91-bda3-6037dc69e241
+DESCRIPTION:Home: Queenbees\nAway: Streatham\nRink: Slough\nDivision: WEli
+ te
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queenbees vs Bristol
+DTSTART:20270516T160000
+DTEND:20270516T180000
+UID:765c891a-b3f8-4192-a488-b313e10ab7ba
+DESCRIPTION:Home: Queenbees\nAway: Bristol\nRink: Slough\nDivision: WElite
+LOCATION:Slough
+END:VEVENT
+END:VCALENDAR

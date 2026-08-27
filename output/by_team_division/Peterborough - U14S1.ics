@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Peterborough - U14S1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Peterborough - U14S1
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Slough
+DTSTART:20260912T173000
+DTEND:20260912T193000
+UID:8fb2faf4-b221-4e8f-b7f0-208732e8016b
+DESCRIPTION:Home: Peterborough\nAway: Slough\nRink: Peterborough\nDivision
+ : U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Guildford
+DTSTART:20261003T173000
+DTEND:20261003T193000
+UID:0b4d62c5-7b03-4146-99fa-8460b484d4fd
+DESCRIPTION:Home: Peterborough\nAway: Guildford\nRink: Peterborough\nDivis
+ ion: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Romford
+DTSTART:20261011T173000
+DTEND:20261011T193000
+UID:ecd99e67-68e0-4f81-975d-3099b399e976
+DESCRIPTION:Home: Peterborough\nAway: Romford\nRink: Peterborough\nDivisio
+ n: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Peterborough
+DTSTART:20261017T184500
+DTEND:20261017T204500
+UID:bf5c1d8a-f52c-4106-bec6-b9c6840a8d89
+DESCRIPTION:Home: Streatham\nAway: Peterborough\nRink: Streatham\nDivision
+ : U14S1
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Haringey
+DTSTART:20261107T173000
+DTEND:20261107T193000
+UID:19058230-4c52-481e-a5fc-6244bfe00e01
+DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
+ on: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swindon vs Peterborough
+DTSTART:20261129T131000
+DTEND:20261129T151000
+UID:6812d477-bc7f-4cc6-86ad-bbeec8f8474d
+DESCRIPTION:Home: Swindon\nAway: Peterborough\nRink: Swindon\nDivision: U1
+ 4S1
+LOCATION:Swindon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Peterborough
+DTSTART:20261206T164500
+DTEND:20261206T184500
+UID:6c7cc2fb-2ec5-4aa9-ba82-126870480daa
+DESCRIPTION:Home: Chelmsford\nAway: Peterborough\nRink: Chelmsford\nDivisi
+ on: U14S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Swindon
+DTSTART:20270116T161500
+DTEND:20270116T181500
+UID:e5a96721-0add-4764-8386-6e6bf92e1262
+DESCRIPTION:Home: Peterborough\nAway: Swindon\nRink: Peterborough\nDivisio
+ n: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Cardiff
+DTSTART:20270124T161500
+DTEND:20270124T181500
+UID:4d3c1eaf-f87c-4e5d-87b3-8a694964028e
+DESCRIPTION:Home: Peterborough\nAway: Cardiff\nRink: Peterborough\nDivisio
+ n: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Peterborough
+DTSTART:20270131T165500
+DTEND:20270131T185500
+UID:b4283e92-c70a-47c8-9d81-20898832e044
+DESCRIPTION:Home: Guildford\nAway: Peterborough\nRink: Guildford\nDivision
+ : U14S1
+LOCATION:Guildford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Chelmsford
+DTSTART:20270206T161500
+DTEND:20270206T181500
+UID:cad9d98d-6256-4488-bdb3-8a763fd64960
+DESCRIPTION:Home: Peterborough\nAway: Chelmsford\nRink: Peterborough\nDivi
+ sion: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romford vs Peterborough
+DTSTART:20270214T114500
+DTEND:20270214T134500
+UID:7e348478-2f1e-425b-97ed-ad630292bd94
+DESCRIPTION:Home: Romford\nAway: Peterborough\nRink: Romford\nDivision: U1
+ 4S1
+LOCATION:Romford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haringey vs Peterborough
+DTSTART:20270228T161500
+DTEND:20270228T181500
+UID:138a829e-d143-4a35-9a21-f81eaafecb50
+DESCRIPTION:Home: Haringey\nAway: Peterborough\nRink: Haringey\nDivision: 
+ U14S1
+LOCATION:Haringey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slough vs Peterborough
+DTSTART:20270321T151500
+DTEND:20270321T171500
+UID:fe103afe-f1b6-4a04-b006-5ee95ce6e184
+DESCRIPTION:Home: Slough\nAway: Peterborough\nRink: Slough\nDivision: U14S
+ 1
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Streatham
+DTSTART:20270424T161500
+DTEND:20270424T181500
+UID:2c9878fa-3bc0-464c-a587-40263e2ecdbb
+DESCRIPTION:Home: Peterborough\nAway: Streatham\nRink: Peterborough\nDivis
+ ion: U14S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff vs Peterborough
+DTSTART:20270501T160000
+DTEND:20270501T180000
+UID:b1ebb166-5fb2-488b-9186-b267d84da689
+DESCRIPTION:Home: Cardiff\nAway: Peterborough\nRink: Cardiff\nDivision: U1
+ 4S1
+LOCATION:Cardiff
+END:VEVENT
+END:VCALENDAR

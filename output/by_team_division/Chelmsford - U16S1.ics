@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Chelmsford - U16S1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Chelmsford - U16S1
+BEGIN:VEVENT
+SUMMARY:Haringey vs Chelmsford
+DTSTART:20260906T164500
+DTEND:20260906T184500
+UID:eec6c063-e921-473c-9491-63214151c297
+DESCRIPTION:Home: Haringey\nAway: Chelmsford\nRink: Haringey\nDivision: U1
+ 6S1
+LOCATION:Haringey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Peterborough
+DTSTART:20260912T183000
+DTEND:20260912T203000
+UID:da72e7dd-1c06-4fde-ae5d-bc38416abaa1
+DESCRIPTION:Home: Chelmsford\nAway: Peterborough\nRink: Chelmsford\nDivisi
+ on: U16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Chelmsford
+DTSTART:20260919T174500
+DTEND:20260919T194500
+UID:22918fbb-b1c9-44e2-a3cc-c88fec8b444f
+DESCRIPTION:Home: Peterborough\nAway: Chelmsford\nRink: Peterborough\nDivi
+ sion: U16S1
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Romford
+DTSTART:20261010T164500
+DTEND:20261010T184500
+UID:f6babcb3-8f96-4993-88ab-e2c5e045d005
+DESCRIPTION:Home: Chelmsford\nAway: Romford\nRink: Chelmsford\nDivision: U
+ 16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Slough
+DTSTART:20261024T181500
+DTEND:20261024T201500
+UID:f2234327-fffd-434a-ac37-9f6c50fcf0c1
+DESCRIPTION:Home: Chelmsford\nAway: Slough\nRink: Chelmsford\nDivision: U1
+ 6S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Swindon
+DTSTART:20261108T121500
+DTEND:20261108T141500
+UID:385d566e-1ac8-422d-b336-6644aaf74dc6
+DESCRIPTION:Home: Chelmsford\nAway: Swindon\nRink: Chelmsford\nDivision: U
+ 16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cardiff vs Chelmsford
+DTSTART:20261114T181500
+DTEND:20261114T201500
+UID:cefcb037-1f00-4cb7-a4af-da99aeb9b84e
+DESCRIPTION:Home: Cardiff\nAway: Chelmsford\nRink: Cardiff\nDivision: U16S
+ 1
+LOCATION:Cardiff
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Guildford
+DTSTART:20261206T183000
+DTEND:20261206T203000
+UID:ec378d8b-edf7-4d88-be2a-b3624d718932
+DESCRIPTION:Home: Chelmsford\nAway: Guildford\nRink: Chelmsford\nDivision:
+  U16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Cardiff
+DTSTART:20261213T121500
+DTEND:20261213T141500
+UID:bc08cbee-312d-4ec1-b0e6-fd6663e01283
+DESCRIPTION:Home: Chelmsford\nAway: Cardiff\nRink: Chelmsford\nDivision: U
+ 16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Haringey
+DTSTART:20270102T183000
+DTEND:20270102T203000
+UID:dc638189-6739-434d-9ceb-302027c723c1
+DESCRIPTION:Home: Chelmsford\nAway: Haringey\nRink: Chelmsford\nDivision: 
+ U16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Streatham vs Chelmsford
+DTSTART:20270123T184500
+DTEND:20270123T204500
+UID:8e5a4136-28fb-43ee-92d3-d0fb8ea6813d
+DESCRIPTION:Home: Streatham\nAway: Chelmsford\nRink: Streatham\nDivision: 
+ U16S1
+LOCATION:Streatham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Invicta
+DTSTART:20270213T183000
+DTEND:20270213T203000
+UID:d338f62c-bbcc-4f14-8243-d264b06d569f
+DESCRIPTION:Home: Chelmsford\nAway: Invicta\nRink: Chelmsford\nDivision: U
+ 16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invicta vs Chelmsford
+DTSTART:20270221T183000
+DTEND:20270221T203000
+UID:f8346925-f622-4a34-9744-25014ffc7174
+DESCRIPTION:Home: Invicta\nAway: Chelmsford\nRink: Invicta\nDivision: U16S
+ 1
+LOCATION:Invicta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slough vs Chelmsford
+DTSTART:20270227T130000
+DTEND:20270227T150000
+UID:20cf1794-6b41-4504-a280-652cf7edaaff
+DESCRIPTION:Home: Slough\nAway: Chelmsford\nRink: Slough\nDivision: U16S1
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelmsford vs Streatham
+DTSTART:20270306T181500
+DTEND:20270306T201500
+UID:c6ca5d8f-05d2-42aa-abc9-b0c7c6b797f8
+DESCRIPTION:Home: Chelmsford\nAway: Streatham\nRink: Chelmsford\nDivision:
+  U16S1
+LOCATION:Chelmsford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swindon vs Chelmsford
+DTSTART:20270404T131000
+DTEND:20270404T151000
+UID:6ceea43a-f4dc-46e8-a2ac-c7b955a7ce66
+DESCRIPTION:Home: Swindon\nAway: Chelmsford\nRink: Swindon\nDivision: U16S
+ 1
+LOCATION:Swindon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romford vs Chelmsford
+DTSTART:20270417T160000
+DTEND:20270417T180000
+UID:d1c0f90d-2fc6-453d-a2ef-0d096f58d95e
+DESCRIPTION:Home: Romford\nAway: Chelmsford\nRink: Romford\nDivision: U16S
+ 1
+LOCATION:Romford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guildford vs Chelmsford
+DTSTART:20270424T165500
+DTEND:20270424T185500
+UID:676d0a5b-0db1-4b6b-87c4-0c129a2c6abf
+DESCRIPTION:Home: Guildford\nAway: Chelmsford\nRink: Guildford\nDivision: 
+ U16S1
+LOCATION:Guildford
+END:VEVENT
+END:VCALENDAR

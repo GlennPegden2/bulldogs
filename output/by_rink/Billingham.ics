@@ -1,0 +1,591 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Billingham//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Billingham
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay
+DTSTART:20260905T160000
+DTEND:20260905T180000
+UID:e2f188e7-7e5c-417e-b4e2-420826813c07
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay\nRink: Billingham\nDivision
+ : U12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Widnes
+DTSTART:20260905T171500
+DTEND:20260905T191500
+UID:b304e1af-0460-4b01-9fd4-2105c9c77e15
+DESCRIPTION:Home: Billingham\nAway: Widnes\nRink: Billingham\nDivision: U1
+ 4N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20260905T184500
+DTEND:20260905T204500
+UID:58ac5de3-d799-4cb2-a80d-753b11c67fa2
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 19N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Telford
+DTSTART:20260912T160000
+DTEND:20260912T180000
+UID:10ec426c-9985-41f6-bbe1-e1318031738c
+DESCRIPTION:Home: Billingham\nAway: Telford\nRink: Billingham\nDivision: U
+ 14N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20260912T173000
+DTEND:20260912T193000
+UID:8a26cb20-b51d-40e2-9828-26bb1a83cb90
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Telford
+DTSTART:20260912T191500
+DTEND:20260912T211500
+UID:06552c01-5a20-437c-97db-992c5dddcd93
+DESCRIPTION:Home: Billingham\nAway: Telford\nRink: Billingham\nDivision: U
+ 16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
+DTSTART:20260926T160000
+DTEND:20260926T180000
+UID:6b10b51e-bf28-4e8a-93ad-6afd9715d684
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
+ illingham\nDivision: U10NE
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20260926T180000
+DTEND:20260926T200000
+UID:2cb94b53-2a10-479d-b468-cf9ff6be4486
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Coventry
+DTSTART:20260926T191500
+DTEND:20260926T211500
+UID:b881e354-e633-4f01-a2e6-8fe83e16620c
+DESCRIPTION:Home: Billingham\nAway: Coventry\nRink: Billingham\nDivision: 
+ U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20261003T160000
+DTEND:20261003T180000
+UID:cd95a26f-9d84-4da0-8f5f-cf62f8acc233
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20261003T171500
+DTEND:20261003T191500
+UID:5a77253f-7356-45ee-9a63-63422908ba40
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sutton
+DTSTART:20261003T190000
+DTEND:20261003T210000
+UID:22a00376-6b61-4e01-b96f-4f1fcbdb4f37
+DESCRIPTION:Home: Billingham\nAway: Sutton\nRink: Billingham\nDivision: U1
+ 9N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Leeds
+DTSTART:20261010T160000
+DTEND:20261010T180000
+UID:c4fd4cf4-73b6-4b68-bb7e-7342236a5d50
+DESCRIPTION:Home: Billingham\nAway: Leeds\nRink: Billingham\nDivision: U14
+ N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Kingston
+DTSTART:20261010T173000
+DTEND:20261010T193000
+UID:39bd8611-5b41-493f-bd20-ab3f7c3b42df
+DESCRIPTION:Home: Billingham\nAway: Kingston\nRink: Billingham\nDivision: 
+ U14N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Kingston
+DTSTART:20261010T190000
+DTEND:20261010T210000
+UID:b59750ef-ae09-4710-9362-fe8b7c95267f
+DESCRIPTION:Home: Billingham\nAway: Kingston\nRink: Billingham\nDivision: 
+ U16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Widnes
+DTSTART:20261017T163000
+DTEND:20261017T183000
+UID:716b611a-718f-4dda-baa1-9bc358d488b4
+DESCRIPTION:Home: Billingham\nAway: Widnes\nRink: Billingham\nDivision: U1
+ 2N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Leeds
+DTSTART:20261017T174500
+DTEND:20261017T194500
+UID:24f35274-e02b-4156-8d86-aabe7b9548b4
+DESCRIPTION:Home: Billingham\nAway: Leeds\nRink: Billingham\nDivision: U14
+ N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Nottingham
+DTSTART:20261017T191500
+DTEND:20261017T211500
+UID:30e9c936-318b-491b-b2cf-4688f57c6ac6
+DESCRIPTION:Home: Billingham\nAway: Nottingham\nRink: Billingham\nDivision
+ : U16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20261024T160000
+DTEND:20261024T180000
+UID:ac7479bf-8e22-4c69-a3f9-54b1c9e4ebb4
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sutton
+DTSTART:20261024T171500
+DTEND:20261024T191500
+UID:92d422d8-aa45-4a44-8a47-ea923f57b5aa
+DESCRIPTION:Home: Billingham\nAway: Sutton\nRink: Billingham\nDivision: U1
+ 6N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20261024T190000
+DTEND:20261024T210000
+UID:1f61fd9c-5384-47b1-a467-6074620abf4e
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U19N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
+DTSTART:20261114T160000
+DTEND:20261114T180000
+UID:27baf684-6ead-46f5-83a9-41b517511335
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
+ illingham\nDivision: U10NE
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20261114T180000
+DTEND:20261114T200000
+UID:7581795b-f1d8-46ca-9e81-03ceecff6405
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Manchester
+DTSTART:20261114T191500
+DTEND:20261114T211500
+UID:edd0e237-5aa1-4e5b-9ec9-76974aef868c
+DESCRIPTION:Home: Billingham\nAway: Manchester\nRink: Billingham\nDivision
+ : U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Caledonia
+DTSTART:20261128T160000
+DTEND:20261128T180000
+UID:2f7778e5-d5c8-4f5b-b3d7-51583882a25f
+DESCRIPTION:Home: Billingham\nAway: Caledonia\nRink: Billingham\nDivision:
+  U16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Coventry
+DTSTART:20261128T174500
+DTEND:20261128T194500
+UID:5bdafac8-37e1-4b78-9f31-48cd11ab775f
+DESCRIPTION:Home: Billingham\nAway: Coventry\nRink: Billingham\nDivision: 
+ U16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20261205T160000
+DTEND:20261205T180000
+UID:826303b5-fc70-4d3e-82a2-13471ca6aca1
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20261205T171500
+DTEND:20261205T191500
+UID:6aa1e689-da26-42bf-bcc7-9a8fc75a45ef
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Manchester
+DTSTART:20261205T190000
+DTEND:20261205T210000
+UID:55cb42fb-dfaf-4b89-b276-428be6e94fc1
+DESCRIPTION:Home: Billingham\nAway: Manchester\nRink: Billingham\nDivision
+ : U16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Leeds
+DTSTART:20261212T163000
+DTEND:20261212T183000
+UID:1f1422e8-f0dc-4d01-8c0a-aae4186a542c
+DESCRIPTION:Home: Billingham\nAway: Leeds\nRink: Billingham\nDivision: U16
+ GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Widnes
+DTSTART:20261212T181500
+DTEND:20261212T201500
+UID:b0e7a902-7b9a-4b02-9bd1-dd765b34f245
+DESCRIPTION:Home: Billingham\nAway: Widnes\nRink: Billingham\nDivision: U1
+ 6N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Nottingham
+DTSTART:20270109T160000
+DTEND:20270109T180000
+UID:f06e4330-35c5-485c-bced-012cd86701f9
+DESCRIPTION:Home: Billingham\nAway: Nottingham\nRink: Billingham\nDivision
+ : U12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Blackburn
+DTSTART:20270109T171500
+DTEND:20270109T191500
+UID:c17aa959-291b-44b9-a9dc-9c54622328b3
+DESCRIPTION:Home: Billingham\nAway: Blackburn\nRink: Billingham\nDivision:
+  U16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Widnes
+DTSTART:20270109T190000
+DTEND:20270109T210000
+UID:d696e501-5001-4a35-bb29-94ad29aaebad
+DESCRIPTION:Home: Billingham\nAway: Widnes\nRink: Billingham\nDivision: U1
+ 9N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Bradford
+DTSTART:20270123T160000
+DTEND:20270123T180000
+UID:92d3aa2b-c246-433a-b7a3-5eef3835a718
+DESCRIPTION:Home: Billingham\nAway: Bradford\nRink: Billingham\nDivision: 
+ U12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20270123T171500
+DTEND:20270123T191500
+UID:71dc17fb-fb78-4b32-b9d7-523041678da3
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20270130T160000
+DTEND:20270130T180000
+UID:9e46a0f1-41b1-4530-92ba-61836e6e8c7e
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Manchester
+DTSTART:20270130T171500
+DTEND:20270130T191500
+UID:51ce5f11-0ed7-409b-b236-ada8ab6e9f5b
+DESCRIPTION:Home: Billingham\nAway: Manchester\nRink: Billingham\nDivision
+ : U16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Nottingham
+DTSTART:20270130T190000
+DTEND:20270130T210000
+UID:0417cb52-423e-4142-b383-4a3934addb70
+DESCRIPTION:Home: Billingham\nAway: Nottingham\nRink: Billingham\nDivision
+ : U16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20270206T171500
+DTEND:20270206T191500
+UID:1135f80b-4aa1-41a8-94ad-bfec336b1da4
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U16N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Coventry
+DTSTART:20270206T190000
+DTEND:20270206T210000
+UID:b759c082-f27a-4df4-b81d-3fe4b5550681
+DESCRIPTION:Home: Billingham\nAway: Coventry\nRink: Billingham\nDivision: 
+ U19N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20270213T160000
+DTEND:20270213T180000
+UID:3254ab9b-3683-4383-9048-29cb7252c951
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20270213T173000
+DTEND:20270213T193000
+UID:e8200362-00b7-4170-9163-cf1c26222ce5
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U19N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay & Leeds & Kingston
+DTSTART:20270220T160000
+DTEND:20270220T180000
+UID:7305000e-843f-44b5-bb2d-781a14ccb54d
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay & Leeds & Kingston\nRink: B
+ illingham\nDivision: U10NE
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sutton
+DTSTART:20270220T180000
+DTEND:20270220T200000
+UID:055df8c2-2c4c-4f3b-ac4e-00115ff659cd
+DESCRIPTION:Home: Billingham\nAway: Sutton\nRink: Billingham\nDivision: U1
+ 2N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Nottingham
+DTSTART:20270227T160000
+DTEND:20270227T180000
+UID:26f2e45f-69e1-4370-ade1-152f5708f86c
+DESCRIPTION:Home: Billingham\nAway: Nottingham\nRink: Billingham\nDivision
+ : U12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Blackburn
+DTSTART:20270227T171500
+DTEND:20270227T191500
+UID:677caee4-2981-4519-a26f-33f0fe1949b5
+DESCRIPTION:Home: Billingham\nAway: Blackburn\nRink: Billingham\nDivision:
+  U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20270227T184500
+DTEND:20270227T204500
+UID:05bde3a9-b304-4476-873f-631b9724a68b
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U19N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Telford
+DTSTART:20270313T160000
+DTEND:20270313T180000
+UID:c185d82a-50fa-42de-b08b-3db7c47fb949
+DESCRIPTION:Home: Billingham\nAway: Telford\nRink: Billingham\nDivision: U
+ 12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Nottingham
+DTSTART:20270313T171500
+DTEND:20270313T191500
+UID:1f2c50ce-2bc3-4be3-b4b5-d024e8352ac6
+DESCRIPTION:Home: Billingham\nAway: Nottingham\nRink: Billingham\nDivision
+ : U14N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Widnes
+DTSTART:20270313T184500
+DTEND:20270313T204500
+UID:c0bf6bc2-faf1-4074-b045-afe6f4f2a3ca
+DESCRIPTION:Home: Billingham\nAway: Widnes\nRink: Billingham\nDivision: U1
+ 9N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Leeds White
+DTSTART:20270320T160000
+DTEND:20270320T180000
+UID:e7f6f4c4-1fae-44f2-a325-96590e78f2c4
+DESCRIPTION:Home: Billingham\nAway: Leeds White\nRink: Billingham\nDivisio
+ n: U12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20270320T171500
+DTEND:20270320T191500
+UID:35c6a014-2d90-437d-bbb0-0d38f25aad8d
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U14N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs WhitleyBay
+DTSTART:20270320T184500
+DTEND:20270320T204500
+UID:6a708a16-b2f0-49f4-bb14-341a66aec7c8
+DESCRIPTION:Home: Billingham\nAway: WhitleyBay\nRink: Billingham\nDivision
+ : U16GN
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Leeds
+DTSTART:20270403T160000
+DTEND:20270403T180000
+UID:c0ba530d-385e-41df-90cd-f4a9102f7baa
+DESCRIPTION:Home: Billingham\nAway: Leeds\nRink: Billingham\nDivision: U16
+ N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Bradford
+DTSTART:20270410T160000
+DTEND:20270410T180000
+UID:5c6a3994-fc13-497a-91d6-079504e9cd76
+DESCRIPTION:Home: Billingham\nAway: Bradford\nRink: Billingham\nDivision: 
+ U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20270410T173000
+DTEND:20270410T193000
+UID:b065ff59-2ddc-447a-a8d8-79914d7058cc
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 14N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Deeside
+DTSTART:20270410T190000
+DTEND:20270410T210000
+UID:55032bd4-6ad9-4044-93a5-c7767ad69a6c
+DESCRIPTION:Home: Billingham\nAway: Deeside\nRink: Billingham\nDivision: U
+ 19N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Coventry
+DTSTART:20270417T160000
+DTEND:20270417T180000
+UID:81ca4bc8-4a78-4057-af71-13711dd01ce8
+DESCRIPTION:Home: Billingham\nAway: Coventry\nRink: Billingham\nDivision: 
+ U12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Solihull
+DTSTART:20270417T173000
+DTEND:20270417T193000
+UID:2ac0e100-3f7a-4930-8bbb-de9bc103f53e
+DESCRIPTION:Home: Billingham\nAway: Solihull\nRink: Billingham\nDivision: 
+ U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Manchester
+DTSTART:20270424T160000
+DTEND:20270424T180000
+UID:80216b1d-560f-4e5f-8f66-ac9342dbccb7
+DESCRIPTION:Home: Billingham\nAway: Manchester\nRink: Billingham\nDivision
+ : U12N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Nottingham
+DTSTART:20270424T171500
+DTEND:20270424T191500
+UID:20ca5d1d-4a3c-4baa-aa21-4a69f5360b7b
+DESCRIPTION:Home: Billingham\nAway: Nottingham\nRink: Billingham\nDivision
+ : U14N2
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Kingston
+DTSTART:20270501T160000
+DTEND:20270501T180000
+UID:f3217485-19a4-4620-a87a-55a9fa9b4f45
+DESCRIPTION:Home: Billingham\nAway: Kingston\nRink: Billingham\nDivision: 
+ U12N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sheffield
+DTSTART:20270501T171500
+DTEND:20270501T191500
+UID:57566aaf-d0f0-42d0-99cc-dcc3215202ce
+DESCRIPTION:Home: Billingham\nAway: Sheffield\nRink: Billingham\nDivision:
+  U14N1
+LOCATION:Billingham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billingham vs Sutton
+DTSTART:20270508T160000
+DTEND:20270508T180000
+UID:1f102570-d1b3-4f91-8237-6ef69c3acc93
+DESCRIPTION:Home: Billingham\nAway: Sutton\nRink: Billingham\nDivision: U1
+ 4N2
+LOCATION:Billingham
+END:VEVENT
+END:VCALENDAR

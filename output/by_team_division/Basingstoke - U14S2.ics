@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ice Hockey Fixtures//Basingstoke - U14S2//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Basingstoke - U14S2
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Solent
+DTSTART:20260912T161500
+DTEND:20260912T181500
+UID:50f2ceac-a5b8-4e9f-8b00-e9ad5939dd52
+DESCRIPTION:Home: Basingstoke\nAway: Solent\nRink: Basingstoke\nDivision: 
+ U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Oxford
+DTSTART:20260913T173000
+DTEND:20260913T193000
+UID:c9ba9382-2148-4006-ba77-07bf517421b5
+DESCRIPTION:Home: Basingstoke\nAway: Oxford\nRink: Basingstoke\nDivision: 
+ U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Swindon
+DTSTART:20260920T161500
+DTEND:20260920T181500
+UID:6fd4b3ab-ecc6-432b-86ee-36f91ac4e08f
+DESCRIPTION:Home: Basingstoke\nAway: Swindon\nRink: Basingstoke\nDivision:
+  U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Cambridge
+DTSTART:20261004T161500
+DTEND:20261004T181500
+UID:f7e8332c-0897-4cf8-bdae-439160c9e26b
+DESCRIPTION:Home: Basingstoke\nAway: Cambridge\nRink: Basingstoke\nDivisio
+ n: U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bristol vs Basingstoke
+DTSTART:20261018T153000
+DTEND:20261018T173000
+UID:07abb935-00fd-4110-94d2-6fc80d40cb11
+DESCRIPTION:Home: Bristol\nAway: Basingstoke\nRink: Bristol\nDivision: U14
+ S2
+LOCATION:Bristol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Invicta
+DTSTART:20261025T184500
+DTEND:20261025T204500
+UID:0d128f11-3d5c-47d3-afd9-7cd5ffc84af8
+DESCRIPTION:Home: Basingstoke\nAway: Invicta\nRink: Basingstoke\nDivision:
+  U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Slough
+DTSTART:20261101T161500
+DTEND:20261101T181500
+UID:a71750a0-e2a5-480f-98ed-22e962665ad2
+DESCRIPTION:Home: Basingstoke\nAway: Slough\nRink: Basingstoke\nDivision: 
+ U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MiltonKeynes vs Basingstoke
+DTSTART:20261107T161500
+DTEND:20261107T181500
+UID:f3d65033-a4e0-426e-96f7-d48422f0d950
+DESCRIPTION:Home: MiltonKeynes\nAway: Basingstoke\nRink: MiltonKeynes\nDiv
+ ision: U14S2
+LOCATION:MiltonKeynes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slough vs Basingstoke
+DTSTART:20261115T170000
+DTEND:20261115T190000
+UID:ebd137c8-5979-4aa3-aa94-e99c1f5fb0eb
+DESCRIPTION:Home: Slough\nAway: Basingstoke\nRink: Slough\nDivision: U14S2
+LOCATION:Slough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Bristol
+DTSTART:20261206T161500
+DTEND:20261206T181500
+UID:69cedb74-1c9b-4d4b-b772-067653d75735
+DESCRIPTION:Home: Basingstoke\nAway: Bristol\nRink: Basingstoke\nDivision:
+  U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swindon vs Basingstoke
+DTSTART:20270103T131000
+DTEND:20270103T151000
+UID:bc2bd7f9-0ba7-4c32-a239-f6b8daddc46f
+DESCRIPTION:Home: Swindon\nAway: Basingstoke\nRink: Swindon\nDivision: U14
+ S2
+LOCATION:Swindon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invicta vs Basingstoke
+DTSTART:20270213T164500
+DTEND:20270213T184500
+UID:37bfc2fe-84e5-458b-8cc0-82df23f6fbfe
+DESCRIPTION:Home: Invicta\nAway: Basingstoke\nRink: Invicta\nDivision: U14
+ S2
+LOCATION:Invicta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solent vs Basingstoke
+DTSTART:20270221T162500
+DTEND:20270221T182500
+UID:c323d11d-e83e-439b-ad57-dec9e9f2d3da
+DESCRIPTION:Home: Solent\nAway: Basingstoke\nRink: Solent\nDivision: U14S2
+LOCATION:Solent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxford vs Basingstoke
+DTSTART:20270227T175500
+DTEND:20270227T195500
+UID:ec79f7cc-9191-4d33-9030-f5ee12d0b8be
+DESCRIPTION:Home: Oxford\nAway: Basingstoke\nRink: Oxford\nDivision: U14S2
+LOCATION:Oxford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romford vs Basingstoke
+DTSTART:20270306T171500
+DTEND:20270306T191500
+UID:3f9f01e8-ab90-4753-b689-f0fa6a55886f
+DESCRIPTION:Home: Romford\nAway: Basingstoke\nRink: Romford\nDivision: U14
+ S2
+LOCATION:Romford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Romford
+DTSTART:20270314T161500
+DTEND:20270314T181500
+UID:d5528149-2fd1-487a-9937-eadd32bb1dce
+DESCRIPTION:Home: Basingstoke\nAway: Romford\nRink: Basingstoke\nDivision:
+  U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peterborough vs Basingstoke
+DTSTART:20270403T161500
+DTEND:20270403T181500
+UID:8a5fa884-dea5-46d9-8e4b-35db52db7d6f
+DESCRIPTION:Home: Peterborough\nAway: Basingstoke\nRink: Peterborough\nDiv
+ ision: U14S2
+LOCATION:Peterborough
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cambridge vs Basingstoke
+DTSTART:20270410T163000
+DTEND:20270410T183000
+UID:25049cc3-b341-41f8-b3f5-dbfdb0c59fde
+DESCRIPTION:Home: Cambridge\nAway: Basingstoke\nRink: Cambridge\nDivision:
+  U14S2
+LOCATION:Cambridge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haringey vs Basingstoke
+DTSTART:20270418T173000
+DTEND:20270418T193000
+UID:440a44d8-3e84-47ee-be95-881e985fe325
+DESCRIPTION:Home: Haringey\nAway: Basingstoke\nRink: Haringey\nDivision: U
+ 14S2
+LOCATION:Haringey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs MiltonKeynes
+DTSTART:20270424T161500
+DTEND:20270424T181500
+UID:396c852e-4b32-4c99-8f19-049522be070c
+DESCRIPTION:Home: Basingstoke\nAway: MiltonKeynes\nRink: Basingstoke\nDivi
+ sion: U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Peterborough
+DTSTART:20270502T173000
+DTEND:20270502T193000
+UID:eec14eb8-2503-4508-b2d4-530dde3484d6
+DESCRIPTION:Home: Basingstoke\nAway: Peterborough\nRink: Basingstoke\nDivi
+ sion: U14S2
+LOCATION:Basingstoke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basingstoke vs Haringey
+DTSTART:20270508T184500
+DTEND:20270508T204500
+UID:65f4db43-b436-463f-aaae-8e741d695fdd
+DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
+ : U14S2
+LOCATION:Basingstoke
+END:VEVENT
+END:VCALENDAR
