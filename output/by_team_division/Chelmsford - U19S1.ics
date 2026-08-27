@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Cardiff
 DTSTART:20261011T121500
 DTEND:20261011T141500
-UID:10093818-ef3c-44da-aa29-3e20f8c80ff1
+UID:74e8e4c9-b2ec-4825-910f-16b9ba6aba60
 DESCRIPTION:Home: Chelmsford\nAway: Cardiff\nRink: Chelmsford\nDivision: U
  19S1
 LOCATION:Chelmsford
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Invicta vs Chelmsford
 DTSTART:20261018T180000
 DTEND:20261018T200000
-UID:b25b5d33-e29b-41b6-bf9a-ccf58e612667
+UID:d84f9a5c-51c7-4b0d-812e-bacfbb2f6e10
 DESCRIPTION:Home: Invicta\nAway: Chelmsford\nRink: Invicta\nDivision: U19S
  1
 LOCATION:Invicta
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Peterborough
 DTSTART:20261025T121500
 DTEND:20261025T141500
-UID:458c19b0-7f2f-4619-b73b-ac9e6ae3f7e0
+UID:ff5643f5-91b7-4efb-844e-1d25db3714b6
 DESCRIPTION:Home: Chelmsford\nAway: Peterborough\nRink: Chelmsford\nDivisi
  on: U19S1
 LOCATION:Chelmsford
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Oxford
 DTSTART:20261115T121500
 DTEND:20261115T141500
-UID:998a0fd8-07ef-4675-80d3-abe0bc266b0f
+UID:bf48384e-eeb6-4d13-b62e-eb99ca6441bc
 DESCRIPTION:Home: Chelmsford\nAway: Oxford\nRink: Chelmsford\nDivision: U1
  9S1
 LOCATION:Chelmsford
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Haringey
 DTSTART:20261129T121500
 DTEND:20261129T141500
-UID:b67812fe-7830-439f-8242-cc85ab9ec118
+UID:1754aad6-3056-4314-8d79-fb311af08fd6
 DESCRIPTION:Home: Chelmsford\nAway: Haringey\nRink: Chelmsford\nDivision: 
  U19S1
 LOCATION:Chelmsford
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Swindon
 DTSTART:20261206T121500
 DTEND:20261206T141500
-UID:44d9579d-73c8-4355-9dfc-5b1d16055f2c
+UID:b35622a8-061d-409f-ae35-d9f4cdcf3588
 DESCRIPTION:Home: Chelmsford\nAway: Swindon\nRink: Chelmsford\nDivision: U
  19S1
 LOCATION:Chelmsford
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Streatham
 DTSTART:20261220T121500
 DTEND:20261220T141500
-UID:4192d739-b968-4d2a-94b0-da7c917cdcf0
+UID:8ec4dd51-e9f2-46d0-be11-107a1ad31720
 DESCRIPTION:Home: Chelmsford\nAway: Streatham\nRink: Chelmsford\nDivision:
   U19S1
 LOCATION:Chelmsford
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Invicta
 DTSTART:20270103T121500
 DTEND:20270103T141500
-UID:5c0e7c5c-df98-4651-8cd7-395d8fe13245
+UID:04ef879d-6b28-46c1-81b5-48f23ae384db
 DESCRIPTION:Home: Chelmsford\nAway: Invicta\nRink: Chelmsford\nDivision: U
  19S1
 LOCATION:Chelmsford
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Oxford vs Chelmsford
 DTSTART:20270110T182500
 DTEND:20270110T202500
-UID:43a215d1-230b-4092-886c-eee13c05824b
+UID:01433f8f-bb31-4b80-94c6-1eebcff04289
 DESCRIPTION:Home: Oxford\nAway: Chelmsford\nRink: Oxford\nDivision: U19S1
 LOCATION:Oxford
 END:VEVENT
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Chelmsford
 DTSTART:20270124T183000
 DTEND:20270124T203000
-UID:0da54588-a10b-4602-853a-851d8a3912be
+UID:63f1b8ef-4e25-4c18-bb15-3e7b67f4e3bf
 DESCRIPTION:Home: Haringey\nAway: Chelmsford\nRink: Haringey\nDivision: U1
  9S1
 LOCATION:Haringey
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiff vs Chelmsford
 DTSTART:20270220T160000
 DTEND:20270220T180000
-UID:248f356a-6cae-4e50-9708-6fc742818311
+UID:892d5450-733d-402a-ab60-b46a42c15ce4
 DESCRIPTION:Home: Cardiff\nAway: Chelmsford\nRink: Cardiff\nDivision: U19S
  1
 LOCATION:Cardiff
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Romford vs Chelmsford
 DTSTART:20270328T114500
 DTEND:20270328T134500
-UID:e175edaf-a23b-4a60-ae9d-69433d6a2bb7
+UID:0d75120e-1cdb-42a9-9f31-2ef754f289c6
 DESCRIPTION:Home: Romford\nAway: Chelmsford\nRink: Romford\nDivision: U19S
  1
 LOCATION:Romford
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Chelmsford
 DTSTART:20270410T184500
 DTEND:20270410T204500
-UID:a319f5a5-62c3-4be8-ad1b-3bad1a2224b0
+UID:5992f592-89d1-42f9-8df8-32d98f2352cc
 DESCRIPTION:Home: Streatham\nAway: Chelmsford\nRink: Streatham\nDivision: 
  U19S1
 LOCATION:Streatham
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Chelmsford
 DTSTART:20270417T131000
 DTEND:20270417T151000
-UID:6cb5667a-7ed6-4c24-b31f-8a3f2bc3f08d
+UID:df146ea7-c069-425c-b6c4-a5b90e7b70f9
 DESCRIPTION:Home: Swindon\nAway: Chelmsford\nRink: Swindon\nDivision: U19S
  1
 LOCATION:Swindon
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Romford
 DTSTART:20270425T121500
 DTEND:20270425T141500
-UID:b4613151-e467-4e94-8ff8-d65572c2ee1a
+UID:b221f5b7-32c1-4c08-afdb-e43860a8420b
 DESCRIPTION:Home: Chelmsford\nAway: Romford\nRink: Chelmsford\nDivision: U
  19S1
 LOCATION:Chelmsford
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Chelmsford
 DTSTART:20270502T161500
 DTEND:20270502T181500
-UID:c3ae2691-d552-4e38-a23e-0ae84065e30e
+UID:ffbac260-715f-4b49-a71a-26212854bb9d
 DESCRIPTION:Home: Peterborough\nAway: Chelmsford\nRink: Peterborough\nDivi
  sion: U19S1
 LOCATION:Peterborough

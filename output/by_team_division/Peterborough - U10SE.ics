@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs MK
 DTSTART:20260919T161500
 DTEND:20260919T181500
-UID:e8f754d4-96ac-4774-a2b2-9bc5a145e01f
+UID:05936401-049d-4fa3-89d6-fa1b54f4c456
 DESCRIPTION:Home: Peterborough\nAway: MK\nRink: Peterborough\nDivision: U1
  0SE
 LOCATION:Peterborough
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Haringey
 DTSTART:20270123T161500
 DTEND:20270123T181500
-UID:b90011e3-3dcc-47e3-8ef6-97935f06faff
+UID:a5c9e09f-4591-4808-9a4c-9b0d8028ac20
 DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
  on: U10SE
 LOCATION:Peterborough
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Haringey
 DTSTART:20270313T161500
 DTEND:20270313T181500
-UID:d0c0ed9e-201e-4bed-85a3-f467564c05b2
+UID:7f9289e1-c2f3-4b76-a5e3-87aabf2889b3
 DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
  on: U10SE
 LOCATION:Peterborough

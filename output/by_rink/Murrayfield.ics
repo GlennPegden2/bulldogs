@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Guildford
 DTSTART:20261003T121500
 DTEND:20261003T141500
-UID:fe7eb13c-ae04-4061-b6fc-37424c8b451e
+UID:28b0c132-4d6a-44f1-aaad-a75e88813113
 DESCRIPTION:Home: Caledonia\nAway: Guildford\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Kingston
 DTSTART:20261128T121500
 DTEND:20261128T141500
-UID:ea573907-8ba1-4aa3-80b1-22540316312d
+UID:f0793fc3-3703-4c92-8930-2df0efccd45d
 DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
  WElite
 LOCATION:Murrayfield
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Kingston
 DTSTART:20261129T080000
 DTEND:20261129T100000
-UID:25060b39-7170-40b4-8840-8ebed76c95d3
+UID:cb3fd077-8085-4034-b1b8-91aca9223199
 DESCRIPTION:Home: Caledonia\nAway: Kingston\nRink: Murrayfield\nDivision: 
  WElite
 LOCATION:Murrayfield
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs WhitleyBay
 DTSTART:20261213T193000
 DTEND:20261213T213000
-UID:e6cf25e1-75d2-4c9d-abb9-9682bac67d9c
+UID:b3039075-acdc-4177-b8fa-399bfa6c2a03
 DESCRIPTION:Home: Caledonia\nAway: WhitleyBay\nRink: Murrayfield\nDivision
  : WElite
 LOCATION:Murrayfield
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Solihull
 DTSTART:20270116T121500
 DTEND:20270116T141500
-UID:6120df8a-cc09-4c53-b225-e87c2582ead8
+UID:31a34670-c8b3-4c08-8bb8-e228dd7f9c0b
 DESCRIPTION:Home: Caledonia\nAway: Solihull\nRink: Murrayfield\nDivision: 
  WElite
 LOCATION:Murrayfield
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Streatham
 DTSTART:20270123T121500
 DTEND:20270123T141500
-UID:734cedda-fe6e-44e6-8170-6e0bdd277209
+UID:c99e8b34-218e-47ba-9fea-bccf0f71a1e3
 DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Streatham
 DTSTART:20270124T080000
 DTEND:20270124T100000
-UID:325c4bc7-064c-4d6d-b8b4-95f5c36d22be
+UID:33cf230b-2a13-430d-ab32-79700054b8bd
 DESCRIPTION:Home: Caledonia\nAway: Streatham\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Bristol
 DTSTART:20270227T121500
 DTEND:20270227T141500
-UID:c42961a1-0a91-4a2b-9eef-8087a30ab8a3
+UID:6adf4f61-c1ca-4f9a-b5b6-a80867b46c5d
 DESCRIPTION:Home: Caledonia\nAway: Bristol\nRink: Murrayfield\nDivision: W
  Elite
 LOCATION:Murrayfield
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Bristol
 DTSTART:20270228T080000
 DTEND:20270228T100000
-UID:4e86fe8e-1086-4df9-a8ac-01bed8a36772
+UID:75d29cdb-e6c6-4cf4-9705-0f27b41eaaf4
 DESCRIPTION:Home: Caledonia\nAway: Bristol\nRink: Murrayfield\nDivision: W
  Elite
 LOCATION:Murrayfield
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Caledonia vs Queenbees
 DTSTART:20270328T193000
 DTEND:20270328T213000
-UID:3076cee1-1ef4-435a-a9f2-f0207c795009
+UID:f24facb0-69ee-4f6b-8217-d0dd8b5048fd
 DESCRIPTION:Home: Caledonia\nAway: Queenbees\nRink: Murrayfield\nDivision:
   WElite
 LOCATION:Murrayfield

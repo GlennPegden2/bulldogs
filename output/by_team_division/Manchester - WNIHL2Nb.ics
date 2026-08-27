@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Leeds
 DTSTART:20260912T173000
 DTEND:20260912T193000
-UID:8a199393-f906-4cca-8ba2-950f1b5ed51f
+UID:10bee142-1091-4b81-9004-c5a404b22fc8
 DESCRIPTION:Home: Manchester\nAway: Leeds\nRink: Manchester\nDivision: WNI
  HL2Nb
 LOCATION:Manchester
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Manchester
 DTSTART:20260919T144500
 DTEND:20260919T164500
-UID:69a26e3c-7ccf-4813-b5ce-f59f966e6edf
+UID:a98acd85-7a1a-43dd-bec3-415c698ea44f
 DESCRIPTION:Home: WhitleyBay\nAway: Manchester\nRink: Solway\nDivision: WN
  IHL2Nb
 LOCATION:Solway
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Manchester
 DTSTART:20260926T140000
 DTEND:20260926T160000
-UID:41aceb3c-56ab-459c-bf1e-8360bc95d5dc
+UID:e4e82dc0-d022-4c27-bcba-7b472193c3f7
 DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
  : WNIHL2Nb
 LOCATION:Nottingham
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Deeside
 DTSTART:20261003T161500
 DTEND:20261003T181500
-UID:dfe641c1-cd18-4015-a264-c91b61296e23
+UID:3cb2c757-ef90-4583-ae7f-8d6d463b035d
 DESCRIPTION:Home: Manchester\nAway: Deeside\nRink: Manchester\nDivision: W
  NIHL2Nb
 LOCATION:Manchester
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Kingston
 DTSTART:20261024T161500
 DTEND:20261024T181500
-UID:5ea5f686-0f97-45db-97a8-0da0030f446d
+UID:f46f716c-790a-4ea9-b306-9e638a5b8995
 DESCRIPTION:Home: Manchester\nAway: Kingston\nRink: Manchester\nDivision: 
  WNIHL2Nb
 LOCATION:Manchester
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Deeside
 DTSTART:20261114T161500
 DTEND:20261114T181500
-UID:7da1ac62-cba2-47ec-9f26-e17bb2279dfe
+UID:403deae9-bd12-4ebf-8e9b-c789de5a08d3
 DESCRIPTION:Home: Manchester\nAway: Deeside\nRink: Manchester\nDivision: W
  NIHL2Nb
 LOCATION:Manchester
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds vs Manchester
 DTSTART:20261121T171500
 DTEND:20261121T191500
-UID:7e944e40-e0c9-412f-a52f-ae877b691657
+UID:65e060ad-8bd1-4414-9f15-b93e74259144
 DESCRIPTION:Home: Leeds\nAway: Manchester\nRink: Leeds\nDivision: WNIHL2Nb
 LOCATION:Leeds
 END:VEVENT
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Nottingham
 DTSTART:20261212T193000
 DTEND:20261212T213000
-UID:1c1d79d4-36b4-4389-afd5-39b4ab890c38
+UID:03b950a4-673f-4a26-96d2-f70ab2c01f62
 DESCRIPTION:Home: Manchester\nAway: Nottingham\nRink: Manchester\nDivision
  : WNIHL2Nb
 LOCATION:Manchester
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs WhitleyBay
 DTSTART:20270116T161500
 DTEND:20270116T181500
-UID:a767b848-d081-4fa3-89e3-55302901fac8
+UID:80e67bc3-81bd-4d2a-9cd2-368ce848139e
 DESCRIPTION:Home: Manchester\nAway: WhitleyBay\nRink: Manchester\nDivision
  : WNIHL2Nb
 LOCATION:Manchester
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Nottingham vs Manchester
 DTSTART:20270123T104500
 DTEND:20270123T124500
-UID:0063c6cb-b11f-40b3-a138-789981e0f953
+UID:fd8ebff7-9fc7-40fb-894d-41804f3a0a7c
 DESCRIPTION:Home: Nottingham\nAway: Manchester\nRink: Nottingham\nDivision
  : WNIHL2Nb
 LOCATION:Nottingham
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:WhitleyBay vs Manchester
 DTSTART:20270206T144500
 DTEND:20270206T164500
-UID:8e7c9e86-d321-4fd5-9a49-ff87856ad589
+UID:b4846ff1-01e7-498e-9526-595e5b71c618
 DESCRIPTION:Home: WhitleyBay\nAway: Manchester\nRink: Solway\nDivision: WN
  IHL2Nb
 LOCATION:Solway
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Kingston
 DTSTART:20270213T193000
 DTEND:20270213T213000
-UID:05f7dd5f-46d1-42d4-bcc2-9a727996ec54
+UID:f1df4df1-99a6-41ce-86b0-8f74597704ad
 DESCRIPTION:Home: Manchester\nAway: Kingston\nRink: Manchester\nDivision: 
  WNIHL2Nb
 LOCATION:Manchester
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Nottingham
 DTSTART:20270227T161500
 DTEND:20270227T181500
-UID:1335fc08-34b9-4aec-b71b-7a12d1d6db6c
+UID:0ccebb52-b1e1-42af-9b37-5cbda5c8f065
 DESCRIPTION:Home: Manchester\nAway: Nottingham\nRink: Manchester\nDivision
  : WNIHL2Nb
 LOCATION:Manchester
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs Leeds
 DTSTART:20270306T193000
 DTEND:20270306T213000
-UID:7d1a2f7d-2b4d-4690-bf77-b97f7e40437c
+UID:054b07de-ddbe-49a2-95ad-5e3517f596b0
 DESCRIPTION:Home: Manchester\nAway: Leeds\nRink: Manchester\nDivision: WNI
  HL2Nb
 LOCATION:Manchester
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Manchester vs WhitleyBay
 DTSTART:20270313T191500
 DTEND:20270313T211500
-UID:3d11d055-c273-4eeb-a10b-66c9e2f7537c
+UID:a4dd6356-7cb7-46bd-9210-5da942fa9a26
 DESCRIPTION:Home: Manchester\nAway: WhitleyBay\nRink: Manchester\nDivision
  : WNIHL2Nb
 LOCATION:Manchester
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Deeside vs Manchester
 DTSTART:20270417T174500
 DTEND:20270417T194500
-UID:b939ca4d-323f-4ba5-9f58-8a116ea613fa
+UID:be81f7ca-214c-4983-9214-4ee47db52125
 DESCRIPTION:Home: Deeside\nAway: Manchester\nRink: Deeside\nDivision: WNIH
  L2Nb
 LOCATION:Deeside
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Deeside vs Manchester
 DTSTART:20270424T180000
 DTEND:20270424T200000
-UID:94723491-cf25-4afb-8811-b84cff6a8426
+UID:982f0023-42db-4f10-a221-a0e9d2c45729
 DESCRIPTION:Home: Deeside\nAway: Manchester\nRink: Deeside\nDivision: WNIH
  L2Nb
 LOCATION:Deeside
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Manchester
 DTSTART:20270502T163000
 DTEND:20270502T183000
-UID:e29488fa-01a5-4e00-8320-738ece3f1753
+UID:83cba0e8-4e89-49e4-9d06-3ae675334a29
 DESCRIPTION:Home: Kingston\nAway: Manchester\nRink: Kingston\nDivision: WN
  IHL2Nb
 LOCATION:Kingston
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Kingston vs Manchester
 DTSTART:20270509T183000
 DTEND:20270509T203000
-UID:62c81872-3362-44e2-a9ef-5048c19f4e84
+UID:ec711ccd-9758-4d92-8d5a-7b56fdbc45d8
 DESCRIPTION:Home: Kingston\nAway: Manchester\nRink: Kingston\nDivision: WN
  IHL2Nb
 LOCATION:Kingston
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Leeds vs Manchester
 DTSTART:20270516T163000
 DTEND:20270516T183000
-UID:d205d74a-9868-4c10-93a0-1d7e148ca1b6
+UID:2bad7324-0d6d-4ae0-840a-2bc8712c7166
 DESCRIPTION:Home: Leeds\nAway: Manchester\nRink: Leeds\nDivision: WNIHL2Nb
 LOCATION:Leeds
 END:VEVENT
