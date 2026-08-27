@@ -124,6 +124,7 @@
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
+      align-items: center;
     }
 
     .links a {
@@ -141,15 +142,28 @@
       text-decoration: underline;
     }
 
+    .copy-btn {
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 9px;
+      background: #0c1430;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    .copy-btn:hover {
+      border-color: var(--accent);
+    }
+
+    .copy-btn.copied {
+      border-color: #5fd38d;
+      color: #5fd38d;
+    }
+
     .empty {
       color: var(--muted);
       padding: 8px 0;
-    }
-
-    .footer-note {
-      margin-top: 16px;
-      color: var(--muted);
-      font-size: 0.85rem;
     }
   </style>
 </head>
@@ -177,7 +191,6 @@
 
       <div id="meta" class="meta" aria-live="polite"></div>
       <div id="results" class="list" aria-live="polite"></div>
-      <div class="footer-note">Tip: Add or edit entries in <code>files.json</code> to keep this page up to date.</div>
     </section>
   </main>
 
@@ -230,6 +243,24 @@
         : items.filter(i => i.club === selectedClub);
       const ages = uniq(candidateItems.map(i => i.ageDivision).filter(Boolean));
       setSelectOptions(ageSelect, ages, ageSelect.value || 'All');
+    }
+
+    async function copyToClipboard(text, button) {
+      try {
+        await navigator.clipboard.writeText(text);
+        const original = button.textContent;
+        button.textContent = 'Copied';
+        button.classList.add('copied');
+        setTimeout(() => {
+          button.textContent = original;
+          button.classList.remove('copied');
+        }, 1200);
+      } catch {
+        button.textContent = 'Copy failed';
+        setTimeout(() => {
+          button.textContent = 'Copy link';
+        }, 1200);
+      }
     }
 
     function render(items) {
@@ -290,6 +321,14 @@
           icsA.target = '_blank';
           icsA.rel = 'noopener noreferrer';
           links.appendChild(icsA);
+
+          const copyBtn = document.createElement('button');
+          copyBtn.type = 'button';
+          copyBtn.className = 'copy-btn';
+          copyBtn.textContent = 'Copy link';
+          copyBtn.title = 'copy calendar link to clipboard so you can paste it into your calendar app';
+          copyBtn.addEventListener('click', () => copyToClipboard(item.ics, copyBtn));
+          links.appendChild(copyBtn);
         }
 
         card.appendChild(title);
