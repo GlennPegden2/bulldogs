@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Bristol
 DTSTART:20260906T164500
 DTEND:20260906T184500
-UID:464cb731-31ff-420a-8cdf-0536d8da55fd
+UID:b5eee76a-5b7b-4008-98a0-3b918195b8c0
 DESCRIPTION:Home: Chelmsford\nAway: Bristol\nRink: Chelmsford\nDivision: U
  16GS
 LOCATION:Chelmsford
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs MiltonKeynes
 DTSTART:20260927T121500
 DTEND:20260927T141500
-UID:854dc78c-172e-4997-bac5-3c351f87c70e
+UID:313714a6-fb1c-4111-b48c-6fcd747f3b86
 DESCRIPTION:Home: Chelmsford\nAway: MiltonKeynes\nRink: Chelmsford\nDivisi
  on: U16GS
 LOCATION:Chelmsford
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Telford
 DTSTART:20261025T183000
 DTEND:20261025T203000
-UID:5e031bee-a2e5-46dc-99f7-c981f10516c1
+UID:57af2287-66c1-4cb5-8424-4da4d068f0fd
 DESCRIPTION:Home: Chelmsford\nAway: Telford\nRink: Chelmsford\nDivision: U
  16GS
 LOCATION:Chelmsford
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Oxford vs Chelmsford
 DTSTART:20261114T164000
 DTEND:20261114T184000
-UID:f9f2ec97-766a-49a7-8651-5698af482f43
+UID:5b77a77d-b02e-4b52-b976-d311a202539e
 DESCRIPTION:Home: Oxford\nAway: Chelmsford\nRink: Oxford\nDivision: U16GS
 LOCATION:Oxford
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Haringey
 DTSTART:20261121T183000
 DTEND:20261121T203000
-UID:61111566-b325-4b67-9e90-adbf89826b14
+UID:e540bdd8-1c16-46c1-93ec-d3eb6c63bf2a
 DESCRIPTION:Home: Chelmsford\nAway: Haringey\nRink: Chelmsford\nDivision: 
  U16GS
 LOCATION:Chelmsford
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Swindon
 DTSTART:20270102T164500
 DTEND:20270102T184500
-UID:be047878-31eb-4ebe-b2b6-f7bb72eff8ca
+UID:cdd2ffb2-042f-4f39-8ae9-ea3bbdbf1319
 DESCRIPTION:Home: Chelmsford\nAway: Swindon\nRink: Chelmsford\nDivision: U
  16GS
 LOCATION:Chelmsford
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Chelmsford
 DTSTART:20270117T175000
 DTEND:20270117T195000
-UID:03d3b0a2-c5e1-4689-a467-5a4b369a2700
+UID:4bdaabc2-4713-45c8-a6fc-01eda624ea1d
 DESCRIPTION:Home: Swindon\nAway: Chelmsford\nRink: Swindon\nDivision: U16G
  S
 LOCATION:Swindon
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Telford vs Chelmsford
 DTSTART:20270131T120000
 DTEND:20270131T140000
-UID:1aa854df-51a5-4305-8eaf-d5c49e3a35a1
+UID:6b947d3f-9ae6-4843-a013-b4eb477a56b7
 DESCRIPTION:Home: Telford\nAway: Chelmsford\nRink: Telford\nDivision: U16G
  S
 LOCATION:Telford
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Oxford
 DTSTART:20270213T164500
 DTEND:20270213T184500
-UID:612d2eb4-4853-460a-b1fe-a6bc00c218b8
+UID:87eb3050-fb01-4c72-9c04-519ed97727fb
 DESCRIPTION:Home: Chelmsford\nAway: Oxford\nRink: Chelmsford\nDivision: U1
  6GS
 LOCATION:Chelmsford
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Chelmsford
 DTSTART:20270227T164500
 DTEND:20270227T184500
-UID:ed058a06-155c-4fc3-b62b-5f21aa307a57
+UID:4605bd45-1bf8-4c71-bdbb-e995beb34ebc
 DESCRIPTION:Home: Haringey\nAway: Chelmsford\nRink: Haringey\nDivision: U1
  6GS
 LOCATION:Haringey
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs IceBees
 DTSTART:20270321T164500
 DTEND:20270321T184500
-UID:839ea518-ca60-4609-a4c4-286652424dc1
+UID:5c170a98-92fb-47bd-902b-9d94e1dbfb53
 DESCRIPTION:Home: Chelmsford\nAway: IceBees\nRink: Chelmsford\nDivision: U
  16GS
 LOCATION:Chelmsford
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:IceBees vs Chelmsford
 DTSTART:20270501T173500
 DTEND:20270501T193500
-UID:cec9af12-5c7a-4ae3-8e9c-57aa1b7672f7
+UID:8236e6a1-5685-4657-a6a7-29c8aaf7a422
 DESCRIPTION:Home: IceBees\nAway: Chelmsford\nRink: Slough\nDivision: U16GS
 LOCATION:Slough
 END:VEVENT
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:MiltonKeynes vs Chelmsford
 DTSTART:20270508T180000
 DTEND:20270508T200000
-UID:5f94b646-ff3c-4afd-8188-3730700d39ff
+UID:e8e24fb8-ec04-46bb-9abe-e16b04ae7bf8
 DESCRIPTION:Home: MiltonKeynes\nAway: Chelmsford\nRink: MiltonKeynes\nDivi
  sion: U16GS
 LOCATION:MiltonKeynes

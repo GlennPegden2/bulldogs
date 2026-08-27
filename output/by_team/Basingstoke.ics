@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Basingstoke
 DTSTART:20260221T121500
 DTEND:20260221T141500
-UID:dcda2646-983b-41ff-aac6-6a95db53513e
+UID:e1095cf2-d61a-49c2-8163-dac75e8c47e5
 DESCRIPTION:Home: Chelmsford\nAway: Basingstoke\nRink: Chelmsford\nDivisio
  n: WNIHL2Sb
 LOCATION:Chelmsford
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Basingstoke
 DTSTART:20260906T131000
 DTEND:20260906T151000
-UID:0eb3f928-85e2-4748-9019-e29192c44950
+UID:4ab7f113-b5d6-4707-8ee1-2a14b2dee57f
 DESCRIPTION:Home: Swindon\nAway: Basingstoke\nRink: Swindon\nDivision: U10
  SC
 LOCATION:Swindon
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Solent
 DTSTART:20260912T161500
 DTEND:20260912T181500
-UID:3cdd8de8-17cd-4d0f-949f-d7076cde70d0
+UID:c0f99a3f-e071-4fc4-9397-1f362bb1d88c
 DESCRIPTION:Home: Basingstoke\nAway: Solent\nRink: Basingstoke\nDivision: 
  U14S2
 LOCATION:Basingstoke
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Slough vs Basingstoke
 DTSTART:20260912T173000
 DTEND:20260912T193000
-UID:68b8d5c3-1af9-41b3-935a-cdca3c09bbc6
+UID:5a52f9ab-e40f-4c17-a39f-56d971dc2b04
 DESCRIPTION:Home: Slough\nAway: Basingstoke\nRink: Slough\nDivision: U10SC
 LOCATION:Slough
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Oxford
 DTSTART:20260913T173000
 DTEND:20260913T193000
-UID:ca7b9000-4579-4538-81a4-e8cfd5e7eed4
+UID:86bd06e0-ad0e-4e02-973c-24367b5b6ce3
 DESCRIPTION:Home: Basingstoke\nAway: Oxford\nRink: Basingstoke\nDivision: 
  U14S2
 LOCATION:Basingstoke
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Swindon
 DTSTART:20260920T161500
 DTEND:20260920T181500
-UID:f0fa96f4-3208-4bec-8dd7-83231c2d03dd
+UID:4c6d2d5b-6c73-49b7-a2e2-9cd788b14556
 DESCRIPTION:Home: Basingstoke\nAway: Swindon\nRink: Basingstoke\nDivision:
   U14S2
 LOCATION:Basingstoke
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Chelmsford
 DTSTART:20260920T183000
 DTEND:20260920T203000
-UID:ebe059e0-7ab1-4721-97af-d2863349ee39
+UID:c384d9e8-c1fa-4ea4-8c32-92933e693af2
 DESCRIPTION:Home: Basingstoke\nAway: Chelmsford\nRink: Basingstoke\nDivisi
  on: WNIHL2Sb
 LOCATION:Basingstoke
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Slough vs Basingstoke
 DTSTART:20260927T183500
 DTEND:20260927T203500
-UID:4184386c-2304-4a50-99b5-71b03602c983
+UID:93a92b35-53c7-4684-bfb3-bdb6e1e6ba9a
 DESCRIPTION:Home: Slough\nAway: Basingstoke\nRink: Slough\nDivision: WNIHL
  2Sb
 LOCATION:Slough
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Cambridge
 DTSTART:20261004T161500
 DTEND:20261004T181500
-UID:a91d0b8e-206b-4bde-83f7-fc7fd39235fa
+UID:df1106bc-ba8d-49e1-805d-515946acf9dc
 DESCRIPTION:Home: Basingstoke\nAway: Cambridge\nRink: Basingstoke\nDivisio
  n: U14S2
 LOCATION:Basingstoke
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs LeeValley
 DTSTART:20261004T183000
 DTEND:20261004T203000
-UID:f59b18d2-d22f-423f-a9f8-18ddfff582a5
+UID:6ab1ab5e-6965-4dc8-a54c-9055c4a19563
 DESCRIPTION:Home: Basingstoke\nAway: LeeValley\nRink: Basingstoke\nDivisio
  n: WNIHL2Sb
 LOCATION:Basingstoke
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Cambridge
 DTSTART:20261010T183000
 DTEND:20261010T203000
-UID:d7932f6f-6418-4185-ac22-8fcc55dd81ad
+UID:91c9d40c-b3df-4eb1-aacc-e8b785ca41f0
 DESCRIPTION:Home: Basingstoke\nAway: Cambridge\nRink: Basingstoke\nDivisio
  n: WNIHL2Sb
 LOCATION:Basingstoke
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Basingstoke
 DTSTART:20261017T161500
 DTEND:20261017T181500
-UID:22433115-0684-45c1-bf03-db85fa275e75
+UID:8e15b375-b652-487a-93bd-c5e6efeb8f0c
 DESCRIPTION:Home: Cambridge\nAway: Basingstoke\nRink: Cambridge\nDivision:
   U12S2
 LOCATION:Cambridge
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Basingstoke
 DTSTART:20261018T153000
 DTEND:20261018T173000
-UID:88ada038-657b-4779-9c4a-8a3af033b5a7
+UID:4f586938-6627-4b9c-8f7b-9838754acbda
 DESCRIPTION:Home: Bristol\nAway: Basingstoke\nRink: Bristol\nDivision: U14
  S2
 LOCATION:Bristol
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:LeeValley vs Basingstoke
 DTSTART:20261024T140000
 DTEND:20261024T160000
-UID:a83b4b07-8d8b-4fa9-9d68-77e6472ffdcd
+UID:29bbb1c3-dbc0-48ad-9b39-a5dc5f6e17e0
 DESCRIPTION:Home: LeeValley\nAway: Basingstoke\nRink: LeeValley\nDivision:
   U12S2
 LOCATION:LeeValley
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Invicta
 DTSTART:20261025T184500
 DTEND:20261025T204500
-UID:944d7cad-651d-4cbd-a7db-6e36b261b1b9
+UID:12e26b12-d00b-4917-958a-5714be3ede5c
 DESCRIPTION:Home: Basingstoke\nAway: Invicta\nRink: Basingstoke\nDivision:
   U14S2
 LOCATION:Basingstoke
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Slough
 DTSTART:20261101T161500
 DTEND:20261101T181500
-UID:40badbda-5376-4a41-9e26-c818aa35090f
+UID:f2c6779a-da79-4c61-b8d2-b7417af3a4d2
 DESCRIPTION:Home: Basingstoke\nAway: Slough\nRink: Basingstoke\nDivision: 
  U14S2
 LOCATION:Basingstoke
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:MiltonKeynes vs Basingstoke
 DTSTART:20261107T161500
 DTEND:20261107T181500
-UID:44cbae21-a6d6-4bf5-94be-6def832f7e63
+UID:c56ce65b-36b6-4e23-93e5-27f0bc45d5e3
 DESCRIPTION:Home: MiltonKeynes\nAway: Basingstoke\nRink: MiltonKeynes\nDiv
  ision: U14S2
 LOCATION:MiltonKeynes
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Basingstoke
 DTSTART:20261108T131000
 DTEND:20261108T151000
-UID:4f6e8343-ba91-41f2-ae5b-e1aeb762b31d
+UID:ae9598b8-6b27-4ac8-a124-213796a920f8
 DESCRIPTION:Home: Swindon\nAway: Basingstoke\nRink: Swindon\nDivision: U10
  SC
 LOCATION:Swindon
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Streatham
 DTSTART:20261115T161500
 DTEND:20261115T181500
-UID:8fee2ec5-c0aa-4d5e-8cf8-75b656f4ddd7
+UID:da7e1b38-e68d-4772-9721-88b9793089a1
 DESCRIPTION:Home: Basingstoke\nAway: Streatham\nRink: Basingstoke\nDivisio
  n: U12S2
 LOCATION:Basingstoke
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Slough vs Basingstoke
 DTSTART:20261115T170000
 DTEND:20261115T190000
-UID:8b6ebc45-e424-4b91-ae49-f749450389d4
+UID:4f3e9a9f-8bfb-4021-84b3-c08a79210880
 DESCRIPTION:Home: Slough\nAway: Basingstoke\nRink: Slough\nDivision: U14S2
 LOCATION:Slough
 END:VEVENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Basingstoke
 DTSTART:20261115T173000
 DTEND:20261115T193000
-UID:fac870ec-9204-4d7d-a9a4-59697c3ede88
+UID:41f2fa3b-8263-4575-a0b0-bf4022f57fc9
 DESCRIPTION:Home: Bristol\nAway: Basingstoke\nRink: Bristol\nDivision: WNI
  HL2Sb
 LOCATION:Bristol
@@ -194,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Basingstoke
 DTSTART:20261122T163000
 DTEND:20261122T183000
-UID:80bcbfdb-0fb2-495a-b301-0aa092e3aac9
+UID:b2455726-5c2d-4332-9ac1-7afd4e1ce4de
 DESCRIPTION:Home: Streatham\nAway: Basingstoke\nRink: Streatham\nDivision:
   U12S2
 LOCATION:Streatham
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20261129T161500
 DTEND:20261129T181500
-UID:9f669c95-d9da-4d7d-b567-8faba4627946
+UID:2938532f-ac8f-4221-8bdd-9b5b65304bff
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Bristol
 DTSTART:20261206T161500
 DTEND:20261206T181500
-UID:4026ef51-fbf6-45bd-b1e9-2ada55468696
+UID:03009c83-0e40-41b1-9856-df89869df09e
 DESCRIPTION:Home: Basingstoke\nAway: Bristol\nRink: Basingstoke\nDivision:
   U14S2
 LOCATION:Basingstoke
@@ -221,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Slough
 DTSTART:20261206T184500
 DTEND:20261206T204500
-UID:2f116463-82b5-413f-91e3-a9b94ebb9fc5
+UID:2c83ac17-fd7a-402a-ab1d-a57be0abaa2e
 DESCRIPTION:Home: Basingstoke\nAway: Slough\nRink: Basingstoke\nDivision: 
  WNIHL2Sb
 LOCATION:Basingstoke
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Solent
 DTSTART:20261219T161500
 DTEND:20261219T181500
-UID:1b90b05f-a856-4059-8d01-984c8a53d09d
+UID:8ee84684-75f8-452a-b2f6-6277cc3d01fb
 DESCRIPTION:Home: Basingstoke\nAway: Solent\nRink: Basingstoke\nDivision: 
  U12S2
 LOCATION:Basingstoke
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Basingstoke
 DTSTART:20270102T190000
 DTEND:20270102T210000
-UID:6d3d60f1-8189-41aa-9e64-ff73fe6b310a
+UID:8e5cda02-c949-4f82-8bc5-63e98b6a2ca1
 DESCRIPTION:Home: Peterborough\nAway: Basingstoke\nRink: Peterborough\nDiv
  ision: WNIHL2Sb
 LOCATION:Peterborough
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Swindon vs Basingstoke
 DTSTART:20270103T131000
 DTEND:20270103T151000
-UID:b2ab40d5-c7cc-47b9-9894-3760e74e93ee
+UID:48a26648-2ab9-4af3-bd19-007a0416d161
 DESCRIPTION:Home: Swindon\nAway: Basingstoke\nRink: Swindon\nDivision: U14
  S2
 LOCATION:Swindon
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:Oxford vs Basingstoke
 DTSTART:20270109T184500
 DTEND:20270109T204500
-UID:758f0f58-34d5-43cd-adc6-ac0d8ec35b38
+UID:30f32fc4-70cc-433d-9cfb-f546a612eae8
 DESCRIPTION:Home: Oxford\nAway: Basingstoke\nRink: Oxford\nDivision: WNIHL
  2Sb
 LOCATION:Oxford
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270110T161500
 DTEND:20270110T181500
-UID:2d80388e-553b-42ee-a952-82884476d975
+UID:41514241-f214-43cd-bb59-15dd443b28d5
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U12S2
 LOCATION:Basingstoke
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Solent vs Basingstoke
 DTSTART:20270117T162500
 DTEND:20270117T182500
-UID:0d9934e9-997e-4aa9-85cc-76a4fb8b0108
+UID:413f73e4-b8be-4ba2-98cd-0e88934c7320
 DESCRIPTION:Home: Solent\nAway: Basingstoke\nRink: Solent\nDivision: U12S2
 LOCATION:Solent
 END:VEVENT
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Chelmsford
 DTSTART:20270124T184500
 DTEND:20270124T204500
-UID:22863650-1b94-4e75-914c-79a48535309e
+UID:e9815ddb-e448-45a1-8e0d-d9bd546a3b36
 DESCRIPTION:Home: Basingstoke\nAway: Chelmsford\nRink: Basingstoke\nDivisi
  on: U12S2
 LOCATION:Basingstoke
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Bristol
 DTSTART:20270130T161500
 DTEND:20270130T181500
-UID:7ca083e8-aa21-4419-8217-e4a9303b224b
+UID:244f521f-85f8-4b06-b650-611dc5a9f411
 DESCRIPTION:Home: Basingstoke\nAway: Bristol\nRink: Basingstoke\nDivision:
   U12S2
 LOCATION:Basingstoke
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs LeeValley
 DTSTART:20270207T161500
 DTEND:20270207T181500
-UID:ad02bc3a-7484-4d01-8bbf-b1b498aabf4f
+UID:19945653-1e7c-438e-89b6-0daa402256f2
 DESCRIPTION:Home: Basingstoke\nAway: LeeValley\nRink: Basingstoke\nDivisio
  n: U12S2
 LOCATION:Basingstoke
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Oxford
 DTSTART:20270207T184500
 DTEND:20270207T204500
-UID:ccbb02de-d622-4139-94cc-7197bb31f02e
+UID:25c21e9a-9f9a-4ea5-ac97-9b5b9e7060ad
 DESCRIPTION:Home: Basingstoke\nAway: Oxford\nRink: Basingstoke\nDivision: 
  WNIHL2Sb
 LOCATION:Basingstoke
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Invicta vs Basingstoke
 DTSTART:20270213T164500
 DTEND:20270213T184500
-UID:b8600115-0c8a-4869-b83f-21c920b4e273
+UID:77518a06-5156-45f9-8757-e8712a938ff2
 DESCRIPTION:Home: Invicta\nAway: Basingstoke\nRink: Invicta\nDivision: U14
  S2
 LOCATION:Invicta
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Oxford
 DTSTART:20270214T161500
 DTEND:20270214T181500
-UID:c972dbf8-684e-406b-b715-d12833f19295
+UID:5c40925b-9c09-41af-88b2-a7f42f99c695
 DESCRIPTION:Home: Basingstoke\nAway: Oxford\nRink: Basingstoke\nDivision: 
  U12S2
 LOCATION:Basingstoke
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Slough
 DTSTART:20270221T161500
 DTEND:20270221T181500
-UID:158aaf56-3c40-4b9a-93db-397395eacd9e
+UID:a412e1d4-3f3f-4ce5-9947-a1639b70c6b1
 DESCRIPTION:Home: Basingstoke\nAway: Slough\nRink: Basingstoke\nDivision: 
  U12S2
 LOCATION:Basingstoke
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Solent vs Basingstoke
 DTSTART:20270221T162500
 DTEND:20270221T182500
-UID:1d03e552-cd6e-4af9-8f08-ed3b4617e14a
+UID:8c2cfbf0-4134-470c-949b-42ceae5ec78b
 DESCRIPTION:Home: Solent\nAway: Basingstoke\nRink: Solent\nDivision: U14S2
 LOCATION:Solent
 END:VEVENT
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Basingstoke
 DTSTART:20270227T161500
 DTEND:20270227T181500
-UID:edf7f3dc-0ea0-4ed2-8cea-b4fb0d85dfeb
+UID:a551e1ab-c83e-4ff0-9051-0dfd09b78547
 DESCRIPTION:Home: Cambridge\nAway: Basingstoke\nRink: Cambridge\nDivision:
   WNIHL2Sb
 LOCATION:Cambridge
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Oxford vs Basingstoke
 DTSTART:20270227T175500
 DTEND:20270227T195500
-UID:a47b8f4c-5ea7-4deb-9665-807d304d64bb
+UID:2b837dff-f320-4462-a743-31bafdb4ada8
 DESCRIPTION:Home: Oxford\nAway: Basingstoke\nRink: Oxford\nDivision: U14S2
 LOCATION:Oxford
 END:VEVENT
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Slough vs Basingstoke
 DTSTART:20270228T151500
 DTEND:20270228T171500
-UID:72104c15-dc28-4f6b-bf6a-69c1ec3904fc
+UID:d064566d-fb32-46a1-9111-448de28989f5
 DESCRIPTION:Home: Slough\nAway: Basingstoke\nRink: Slough\nDivision: U12S2
 LOCATION:Slough
 END:VEVENT
@@ -379,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Romford vs Basingstoke
 DTSTART:20270306T171500
 DTEND:20270306T191500
-UID:0185d7e8-8b1a-4d03-b308-01b36582df2d
+UID:0c91ef54-dd86-4451-9158-f3acb83d16fb
 DESCRIPTION:Home: Romford\nAway: Basingstoke\nRink: Romford\nDivision: U14
  S2
 LOCATION:Romford
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs MiltonKeynes
 DTSTART:20270307T161500
 DTEND:20270307T181500
-UID:0bd2b3ad-4f63-4867-b4e9-14b2dd7f365b
+UID:938fe96d-41b7-4c9e-a5cf-e9b2708ad394
 DESCRIPTION:Home: Basingstoke\nAway: MiltonKeynes\nRink: Basingstoke\nDivi
  sion: U12S2
 LOCATION:Basingstoke
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Basingstoke
 DTSTART:20270314T121500
 DTEND:20270314T141500
-UID:7506738d-e560-4a32-962c-655c64c0a33e
+UID:7f217104-bab0-4765-a0ab-5ab28537cc44
 DESCRIPTION:Home: Chelmsford\nAway: Basingstoke\nRink: Chelmsford\nDivisio
  n: U12S2
 LOCATION:Chelmsford
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Romford
 DTSTART:20270314T161500
 DTEND:20270314T181500
-UID:054e91bf-450b-441e-91dc-18ad83087b8f
+UID:e6ef083f-56ba-479d-b27a-46becd7f6a92
 DESCRIPTION:Home: Basingstoke\nAway: Romford\nRink: Basingstoke\nDivision:
   U14S2
 LOCATION:Basingstoke
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs MiltonKeynes
 DTSTART:20270314T184500
 DTEND:20270314T204500
-UID:1cfd5417-2ead-4014-81af-b27268363eac
+UID:4b86b17b-60e6-426e-bf60-f10e4e4b2262
 DESCRIPTION:Home: Basingstoke\nAway: MiltonKeynes\nRink: Basingstoke\nDivi
  sion: WNIHL2Sb
 LOCATION:Basingstoke
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Basingstoke
 DTSTART:20270328T164500
 DTEND:20270328T184500
-UID:6ee1abbb-bd00-4a22-8567-3e4e6eceea9a
+UID:761efc65-d7d8-4d49-9f92-e2703cf37de4
 DESCRIPTION:Home: Haringey\nAway: Basingstoke\nRink: Haringey\nDivision: U
  12S2
 LOCATION:Haringey
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:MiltonKeynes vs Basingstoke
 DTSTART:20270403T161500
 DTEND:20270403T181500
-UID:508f9947-029d-4537-9f59-c0b3847d419c
+UID:775bcd10-ea1f-408e-b5cc-6ccad88615ba
 DESCRIPTION:Home: MiltonKeynes\nAway: Basingstoke\nRink: MiltonKeynes\nDiv
  ision: U12S2
 LOCATION:MiltonKeynes
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Basingstoke
 DTSTART:20270403T161500
 DTEND:20270403T181500
-UID:3cfd635b-02ff-4589-a2c7-ba2fe69f0645
+UID:d33d5cf3-5d6a-44c6-ac43-f93c7a8f18d0
 DESCRIPTION:Home: Peterborough\nAway: Basingstoke\nRink: Peterborough\nDiv
  ision: U14S2
 LOCATION:Peterborough
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Basingstoke
 DTSTART:20270410T163000
 DTEND:20270410T183000
-UID:e250ae20-0ac9-4bcd-b135-7462233a6bd7
+UID:19d350ba-9e83-4963-b331-94814ecbc8b0
 DESCRIPTION:Home: Cambridge\nAway: Basingstoke\nRink: Cambridge\nDivision:
   U14S2
 LOCATION:Cambridge
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Basingstoke
 DTSTART:20270411T144500
 DTEND:20270411T164500
-UID:fc9a1f0b-dcf0-43f2-857b-883a133b7884
+UID:2ac532ff-a91b-4e8a-8085-b79e24ac92c5
 DESCRIPTION:Home: Haringey\nAway: Basingstoke\nRink: Haringey\nDivision: U
  10SC
 LOCATION:Haringey
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Bristol vs Basingstoke
 DTSTART:20270411T153000
 DTEND:20270411T173000
-UID:2a2964c3-0a29-40b0-afa4-c68454287757
+UID:34f4a1d8-5f2e-4591-affb-e30af71dbc7a
 DESCRIPTION:Home: Bristol\nAway: Basingstoke\nRink: Bristol\nDivision: U12
  S2
 LOCATION:Bristol
@@ -478,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:LeeValley vs Basingstoke
 DTSTART:20270417T163000
 DTEND:20270417T183000
-UID:0c81fafc-f88a-47ab-a675-b81a443e7eb4
+UID:7b579a8c-ea92-404b-af14-55b7f365477d
 DESCRIPTION:Home: LeeValley\nAway: Basingstoke\nRink: LeeValley\nDivision:
   WNIHL2Sb
 LOCATION:LeeValley
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Romford vs Basingstoke
 DTSTART:20270418T170500
 DTEND:20270418T190500
-UID:1815590f-c1af-4932-8014-8ad5588cd430
+UID:30561fa1-9608-4966-8cf1-90f39b002694
 DESCRIPTION:Home: Romford\nAway: Basingstoke\nRink: Romford\nDivision: U12
  S2
 LOCATION:Romford
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Basingstoke
 DTSTART:20270418T173000
 DTEND:20270418T193000
-UID:c8c88a37-40fa-4d8d-a045-6a121c29ea32
+UID:1293344d-289c-4094-bff5-c69e46f55404
 DESCRIPTION:Home: Haringey\nAway: Basingstoke\nRink: Haringey\nDivision: U
  14S2
 LOCATION:Haringey
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs MiltonKeynes
 DTSTART:20270424T161500
 DTEND:20270424T181500
-UID:03ed417e-6a77-42c1-ae07-71baa4d833bb
+UID:730864fc-a07a-430c-9496-50911d731896
 DESCRIPTION:Home: Basingstoke\nAway: MiltonKeynes\nRink: Basingstoke\nDivi
  sion: U14S2
 LOCATION:Basingstoke
@@ -514,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Bristol
 DTSTART:20270424T183000
 DTEND:20270424T203000
-UID:8e7b04d8-6acf-4fb9-96b2-bd4342d80b2c
+UID:f9874c72-aa0c-4dda-a03f-18422f0c868a
 DESCRIPTION:Home: Basingstoke\nAway: Bristol\nRink: Basingstoke\nDivision:
   WNIHL2Sb
 LOCATION:Basingstoke
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270425T161500
 DTEND:20270425T181500
-UID:e59c9182-5df5-449b-8b7c-858477552b4f
+UID:9dd3a610-95eb-472c-a722-05a516436842
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke
@@ -532,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Oxford vs Basingstoke
 DTSTART:20270425T174000
 DTEND:20270425T194000
-UID:be57420b-a635-40ce-a9a2-645ceb0ce61a
+UID:975a119e-ae03-4f4c-bf06-4950b616be6c
 DESCRIPTION:Home: Oxford\nAway: Basingstoke\nRink: Oxford\nDivision: U12S2
 LOCATION:Oxford
 END:VEVENT
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Peterborough
 DTSTART:20270501T184500
 DTEND:20270501T204500
-UID:758219f9-a291-4cdc-b6fd-4ebdfb3b71b8
+UID:99c94f8d-3181-410d-b07e-a1fdde90464b
 DESCRIPTION:Home: Basingstoke\nAway: Peterborough\nRink: Basingstoke\nDivi
  sion: WNIHL2Sb
 LOCATION:Basingstoke
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Cambridge
 DTSTART:20270502T161500
 DTEND:20270502T181500
-UID:44a2c829-92a5-40c1-a312-3d48261675eb
+UID:a47e6385-c42f-4640-9286-70787a5b31f1
 DESCRIPTION:Home: Basingstoke\nAway: Cambridge\nRink: Basingstoke\nDivisio
  n: U12S2
 LOCATION:Basingstoke
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:MiltonKeynes vs Basingstoke
 DTSTART:20270502T161500
 DTEND:20270502T181500
-UID:547d5f39-cc9e-456c-b34e-6cc475bcc712
+UID:a700bbab-e438-4af0-849e-a13aa6cdacdf
 DESCRIPTION:Home: MiltonKeynes\nAway: Basingstoke\nRink: MiltonKeynes\nDiv
  ision: WNIHL2Sb
 LOCATION:MiltonKeynes
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Peterborough
 DTSTART:20270502T173000
 DTEND:20270502T193000
-UID:2f83a40a-b10e-46e4-8d81-6dac56446cd9
+UID:9cd22315-baba-4a4b-87b6-fae3ab62b280
 DESCRIPTION:Home: Basingstoke\nAway: Peterborough\nRink: Basingstoke\nDivi
  sion: U14S2
 LOCATION:Basingstoke
@@ -576,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Coventry vs Basingstoke
 DTSTART:20270508T180000
 DTEND:20270508T200000
-UID:d5b8b37b-14da-472d-8b11-2f7ae8816ca8
+UID:827584fb-d92d-4206-bb99-3aec961df7c5
 DESCRIPTION:Home: Coventry\nAway: Basingstoke\nRink: Coventry\nDivision: W
  NIHL2Sb
 LOCATION:Coventry
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270508T184500
 DTEND:20270508T204500
-UID:60deb357-504b-48d5-bf51-ebd35c54ffcb
+UID:c9cc9e62-5a98-4c65-b0cf-1ca41caf2430
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U14S2
 LOCATION:Basingstoke
@@ -594,7 +594,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Romford
 DTSTART:20270509T184500
 DTEND:20270509T204500
-UID:61d5ff94-afe0-47af-9081-d656ee95701e
+UID:beeb3fea-ae26-4940-8304-439c80662101
 DESCRIPTION:Home: Basingstoke\nAway: Romford\nRink: Basingstoke\nDivision:
   U12S2
 LOCATION:Basingstoke
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Basingstoke vs Haringey
 DTSTART:20270516T161500
 DTEND:20270516T181500
-UID:83e9285d-85c0-49b5-90df-1d78e6586422
+UID:ebe64394-efc4-46db-a011-4ddd39a7f01e
 DESCRIPTION:Home: Basingstoke\nAway: Haringey\nRink: Basingstoke\nDivision
  : U10SC
 LOCATION:Basingstoke

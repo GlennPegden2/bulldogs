@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Haringey
 DTSTART:20260905T163000
 DTEND:20260905T183000
-UID:ed1541c3-c659-4545-9620-e75c156facf9
+UID:462ab11c-ac2e-4487-aab6-6745531c84ce
 DESCRIPTION:Home: Cambridge\nAway: Haringey\nRink: Cambridge\nDivision: U1
  0SE
 LOCATION:Cambridge
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Streatham
 DTSTART:20261107T163000
 DTEND:20261107T183000
-UID:06cd2a1b-f6cc-4800-a9d4-9a1da425ba3f
+UID:754cc496-873d-4832-b1ab-744f845f8d90
 DESCRIPTION:Home: Cambridge\nAway: Streatham\nRink: Cambridge\nDivision: U
  10SE
 LOCATION:Cambridge
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Streatham
 DTSTART:20270320T163000
 DTEND:20270320T183000
-UID:eeba7b36-20da-4516-aba5-da7591d4bed8
+UID:3de154c2-be5c-4c75-820f-4c60bf9732c6
 DESCRIPTION:Home: Cambridge\nAway: Streatham\nRink: Cambridge\nDivision: U
  10SE
 LOCATION:Cambridge
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Cambridge
 DTSTART:20270501T163000
 DTEND:20270501T183000
-UID:0d9edf53-f4ff-4198-8b3c-41f4e7fd5a37
+UID:42c03605-6592-4fdd-a009-70c56df6e8aa
 DESCRIPTION:Home: Streatham\nAway: Cambridge\nRink: Streatham\nDivision: U
  10SE
 LOCATION:Streatham

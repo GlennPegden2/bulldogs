@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Cambridge vs Haringey
 DTSTART:20260905T163000
 DTEND:20260905T183000
-UID:948d5e88-3ff7-472e-bb63-ecc4d3129abc
+UID:d6faf9dd-ed73-49b1-9536-98679b3ebb48
 DESCRIPTION:Home: Cambridge\nAway: Haringey\nRink: Cambridge\nDivision: U1
  0SE
 LOCATION:Cambridge
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Streatham
 DTSTART:20260913T164500
 DTEND:20260913T184500
-UID:4272bc5d-6172-442b-a5b0-1d4fdd747f39
+UID:46b92ce0-d9df-4f5e-8d44-3d3412cf7436
 DESCRIPTION:Home: Haringey\nAway: Streatham\nRink: Haringey\nDivision: U10
  SE
 LOCATION:Haringey
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Streatham
 DTSTART:20261025T181500
 DTEND:20261025T201500
-UID:cfa05470-9ac3-41df-8445-793bb3309e11
+UID:80f60e7a-d179-4af6-ae54-e94c1a0a4d49
 DESCRIPTION:Home: Haringey\nAway: Streatham\nRink: Haringey\nDivision: U10
  SE
 LOCATION:Haringey
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Haringey
 DTSTART:20270123T161500
 DTEND:20270123T181500
-UID:ecdbaaad-f4bf-4175-802d-632af257c164
+UID:5a6f316f-e288-4023-955a-683196703ba6
 DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
  on: U10SE
 LOCATION:Peterborough
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Chelmsford vs Haringey
 DTSTART:20270221T164500
 DTEND:20270221T184500
-UID:6fb94c26-4f35-49d9-a645-2ed6341b806d
+UID:c197b35a-7158-406a-bd63-35dfdfcf6b5a
 DESCRIPTION:Home: Chelmsford\nAway: Haringey\nRink: Chelmsford\nDivision: 
  U10SE
 LOCATION:Chelmsford
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Peterborough vs Haringey
 DTSTART:20270313T161500
 DTEND:20270313T181500
-UID:c38eeaa5-cc22-41e8-ae22-180b5d20310b
+UID:4452a9ec-fda4-47ca-b287-7edb914474c9
 DESCRIPTION:Home: Peterborough\nAway: Haringey\nRink: Peterborough\nDivisi
  on: U10SE
 LOCATION:Peterborough
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Streatham vs Haringey
 DTSTART:20270425T163000
 DTEND:20270425T183000
-UID:97c1439e-cc40-460d-8828-396f8fe5f82d
+UID:38865392-3413-4777-abdb-9854bb5334c0
 DESCRIPTION:Home: Streatham\nAway: Haringey\nRink: Streatham\nDivision: U1
  0SE
 LOCATION:Streatham
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Haringey vs Streatham
 DTSTART:20270508T144500
 DTEND:20270508T164500
-UID:b3bc60cc-d8de-4a09-954f-cd20bed22550
+UID:b69bf099-ca64-442b-8126-c217b2092c53
 DESCRIPTION:Home: Haringey\nAway: Streatham\nRink: Haringey\nDivision: U10
  SE
 LOCATION:Haringey
